@@ -77,6 +77,12 @@
     "url": "http://localhost:4000/calendar/",
     "relUrl": "/calendar/"
   },"13": {
+    "doc": "Past workshops",
+    "title": "Past workshops",
+    "content": ". | 2021 | 2020 | . ",
+    "url": "http://localhost:4000/past_workshops/",
+    "relUrl": "/past_workshops/"
+  },"14": {
     "doc": "Instructors",
     "title": "Instructors",
     "content": " ",
