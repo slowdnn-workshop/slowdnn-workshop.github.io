@@ -1,0 +1,86 @@
+{"0": {
+    "doc": "Homepage",
+    "title": "Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)",
+    "content": "January 2023, MBZUAI, Abu Dhabi . We are currently in the midst of a data revolution. Massive and ever-growing datasets, arising in science, health, or even everyday life, are impacting many areas of society. Many of these datasets are not only large – they are high-dimensional, in the sense that each data point may consist of millions or even billions of numbers. A basic challenge spanning signal processing, statistics, and optimization is to leverage lower-dimensional structures in high-dimensional datasets. Low-dimensional signal modeling has driven developments both in theory and in applications to a vast array of areas, from medical and scientific imaging, to low-power sensors, to the modeling and interpretation of bioinformatics data sets, just to name a few. However, massive modern datasets pose an additional challenge: as datasets grow, data collection techniques become increasingly uncontrolled, and it is common to encounter gross errors or malicious corruptions, and nonlinearity. Classical techniques break down completely in this setting, and new theories and algorithms are needed. To meet those challenges, there have been explosive developments in the study of low-dimensional structures in high-dimensional spaces over the past two decades. To a large extent, the geometric and statistical properties of representative low-dimensional models (such as sparse and low-rank and their variants and extensions) are now well understood. Many highly efficient and scalable algorithms have been developed for recovering such low-dimensional models from high-dimensional data. The working conditions and data and computational complexities of these algorithms have also been thoroughly and precisely characterized. These theoretical results and algorithms have already revolutionized the practice of data science and signal processing, and have had significant impacts on sensing, imaging, and information processing. On the other hand, recently strong connections between deep neural networks and low-dimensional models have emerged at multiple levels, in terms of learning representations, network architectures, and optimization strategies. Such connections do not only help explain many intriguing phenomena in deep learning, but also provide new guiding principles for better network design, optimization, robustness, and generalization of deep networks in both supervised and unsupervised scenarios. Given these exciting and less-exploited connections, this workshop aims to bring together experts in machine learning, applied mathematics, signal processing, and optimization, to share recent progress and foster collaborations on the mathematical foundations of deep learning. As the community begins to embrace the power of deep learning, with unprecedented new challenges in terms of modeling and interpretability, we hope to stimulate vibrate discussions towards bridging the gap between the theory and practice of deep learning. ",
+    "url": "http://localhost:4000/index.html#third-workshop-on-seeking-low-dimensionality-in-deep-neural-networks-slowdnn",
+    "relUrl": "/index.html#third-workshop-on-seeking-low-dimensionality-in-deep-neural-networks-slowdnn"
+  },"1": {
+    "doc": "Homepage",
+    "title": "Key Dates",
+    "content": ". | Workshop dates: 3rd - 6th January, 2023; in person at MBZUAI, Abu Dhabi | Abstract submission deadline: TBA | Acceptance notification: TBA | . ",
+    "url": "http://localhost:4000/index.html#key-dates",
+    "relUrl": "/index.html#key-dates"
+  },"2": {
+    "doc": "Homepage",
+    "title": "Tentative Schedule",
+    "content": " ",
+    "url": "http://localhost:4000/index.html#tentative-schedule",
+    "relUrl": "/index.html#tentative-schedule"
+  },"3": {
+    "doc": "Homepage",
+    "title": "All talks will be livestreamed and recorded to broaden participation",
+    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be on recent progress in low-dimensional models for high-dimensional data, and will be based on an ICASSP 2022 short course with additional material. | . Day 2, Tuesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in signal processing, harmonic analysis | Coffee breaks for discussion | Afternoon poster session | . Day 3, Wednesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in neuroscience, learning theory | Coffee breaks for discussion | Afternoon poster session | . Day 4, Thursday Invited Talks and Panel Discussion . | Plenaries and Invited Talks in applications and systems | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Day 5, Friday Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
+    "url": "http://localhost:4000/index.html#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation",
+    "relUrl": "/index.html#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation"
+  },"4": {
+    "doc": "Homepage",
+    "title": "Organization Team",
+    "content": "Atlas Wang . atlaswang@utexas.edu . UT Austin . Chong You . cyou@google.com . Google NYC . Eric P. Xing . epxing@cs.cmu.edu . Carnegie Mellon University and MBZUAI . Jeremias Sulam . jsulam@jhu.edu . Johns Hopkins University . John Wright . jw2966@columbia.edu . Columbia University . Karthik Nandakumar . karthik.nandakumar@mbzuai.ac.ae . MBZUAI . Qing Qu . qingqu@umich.edu . University of Michigan . Sam Buchanan . sam@ttic.edu . TTIC . Saiprasad Ravishankar . ravisha3@msu.edu . Michigan State University . Yuejie Chi . yuejiechi@cmu.edu . Carnegie Mellon University . Yi Ma . yima@eecs.berkeley.edu . UC Berkeley . Yuqian Zhang . yqz.zhang@rutgers.edu . Rutgers University . Zhihui Zhu . zhihui.zhu@du.edu . Ohio State University . ",
+    "url": "http://localhost:4000/index.html#organization-team",
+    "relUrl": "/index.html#organization-team"
+  },"5": {
+    "doc": "Homepage",
+    "title": "Contact",
+    "content": "For inquiries about the workshop or this website, please contact slowdnn.workshop@gmail.com. ",
+    "url": "http://localhost:4000/index.html#contact",
+    "relUrl": "/index.html#contact"
+  },"6": {
+    "doc": "Homepage",
+    "title": "Homepage",
+    "content": " ",
+    "url": "http://localhost:4000/index.html",
+    "relUrl": "/index.html"
+  },"7": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Week 1 Announcement",
+    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"9": {
+    "doc": "Announcements",
+    "title": "Week 0 Announcement",
+    "content": "Apr 1 &middot; 0 min read Hello world! . ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"10": {
+    "doc": "Lectures",
+    "title": "Calendar",
+    "content": " ",
+    "url": "http://localhost:4000/calendar/#calendar",
+    "relUrl": "/calendar/#calendar"
+  },"11": {
+    "doc": "Lectures",
+    "title": "All talks will be livestreamed and recorded to broaden participation",
+    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be on recent progress in low-dimensional models for high-dimensional data, and will be based on an ICASSP 2022 short course with additional material. | . Day 2, Tuesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in signal processing, harmonic analysis | Coffee breaks for discussion | Afternoon poster session | . Day 3, Wednesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in neuroscience, learning theory | Coffee breaks for discussion | Afternoon poster session | . Day 4, Thursday Invited Talks and Panel Discussion . | Plenaries and Invited Talks in applications and systems | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Day 5, Friday Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
+    "url": "http://localhost:4000/calendar/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation",
+    "relUrl": "/calendar/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation"
+  },"12": {
+    "doc": "Lectures",
+    "title": "Lectures",
+    "content": " ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"13": {
+    "doc": "Instructors",
+    "title": "Instructors",
+    "content": " ",
+    "url": "http://localhost:4000/staff/",
+    "relUrl": "/staff/"
+  }
+}
