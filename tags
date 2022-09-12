@@ -5056,7 +5056,7 @@ All talks will be livestreamed and recorded to broaden participation	_site/calen
 All talks will be livestreamed and recorded to broaden participation	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Announcements	announcements.md	/^# Announcements$/;"	c
-Announcements | SLowDNN-2022 Workshop	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Announcements | SLowDNN Workshop	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 AnonymousFunction44e4342b0100	_site/assets/js/just-the-docs.js	/^  else document.attachEvent('onreadystatechange', function(){$/;"	f	function:jtd.onReady
 AnonymousFunction44e4342b0200	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(document, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0300	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(menuButton, 'click', function(e){$/;"	f
@@ -5078,10 +5078,10 @@ Expand	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta
 Expand	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Homepage | SLowDNN-2022 Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Homepage | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Instructors	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Instructors	staff.md	/^# Instructors$/;"	c
-Instructors | SLowDNN-2022 Workshop	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Instructors | SLowDNN Workshop	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 January 2023,&nbsp;[MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi	README.md	/^### January 2023,&nbsp;[MBZUAI](https:\/\/mbzuai.ac.ae\/), Abu Dhabi$/;"	S	chapter:Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)
 January 2023, MBZUAI, Abu Dhabi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5089,7 +5089,7 @@ John Wright	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta cha
 Karthik Nandakumar	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Key Dates	README.md	/^# Key Dates$/;"	c
 Key Dates	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Lectures | SLowDNN-2022 Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Lectures | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal.html	/^      <title>Link<\/title>$/;"	j
 Link	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5105,7 +5105,7 @@ Organization Team	README.md	/^# Organization Team$/;"	c
 Organization Team	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Past workshops	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Past workshops	past_workshops.md	/^# Past workshops$/;"	c
-Past workshops | SLowDNN-2022 Workshop	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Past workshops | SLowDNN Workshop	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Qing Qu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saiprasad Ravishankar	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5225,7 +5225,7 @@ content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . atlaswan
 content	_site/assets/js/search-data.json	/^    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be /;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be /;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": "For inquiries about the workshop or this website, please contact slowdnn.worksho/;"	s	object:5
-content	_site/assets/js/search-data.json	/^    "content": "January 2023, MBZUAI, Abu Dhabi . We are currently in the midst of a data revol/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": "January 2023, MBZUAI, Abu Dhabi . In the past decade, deep learning has demonst/;"	s	object:0
 details	_site/assets/css/just-the-docs-dark.css	/^details { display: block; }$/;"	s
 details	_site/assets/css/just-the-docs-dark.css	/^details { margin: 0 40px 1em; }$/;"	s
 details	_site/assets/css/just-the-docs-default.css	/^details { display: block; }$/;"	s
