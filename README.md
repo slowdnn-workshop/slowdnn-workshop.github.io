@@ -49,9 +49,7 @@ deep learning, with low-dimensionality as a unifying focus.
 
 # Organization Team
 
-{% for staffer in site.staffers %}
-{{ staffer }}
-{% endfor %}
+{% include people.html %}
 
 # Contact
 

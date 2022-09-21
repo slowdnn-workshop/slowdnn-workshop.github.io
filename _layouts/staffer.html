@@ -1,6 +1,7 @@
-<div class="staffer">
+<div class="staffer" style="width: 320px;">
   {% if page.photo %}
-  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ page.photo }}" alt="">
+  <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{
+  page.photo }}" alt="">
   {% endif %}
   <div>
     <h3 class="staffer-name">
@@ -14,7 +15,7 @@
       {% endif %}
     </h3>
     {% if page.email %}
-    <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+    <!--<p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>-->
     {% endif %}
     {% if page.affiliation %}
     <p>{{ page.affiliation }}</p>

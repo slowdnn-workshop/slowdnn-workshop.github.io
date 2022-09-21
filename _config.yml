@@ -26,10 +26,11 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
-color_scheme: light
+color_scheme: dark
 search_enabled: false
 heading_anchors: true
 permalink: pretty
+# logo: '/assets/images/'
 # aux_links:
 #   Kevin Lin:
 #     - 'https://kevinl.info'
