@@ -30,12 +30,12 @@
 .announcement .announcement-meta	_site/assets/css/just-the-docs-default.css	/^h5, .text-epsilon, .announcement .announcement-meta { font-size: 12px !important; color: #44434d/;"	c
 .announcement .announcement-meta	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { h5, .text-epsilon, .announcement .announcement-meta { font-size: /;"	c
 .announcement .announcement-meta	_site/assets/css/just-the-docs-light.css	/^h5, .text-epsilon, .announcement .announcement-meta { font-size: 12px !important; color: #44434d/;"	c
-.announcement .label	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.announcement .label	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.announcement .label	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.announcement .staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.announcement .staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.announcement .staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
+.announcement .label	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.announcement .label	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.announcement .label	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.announcement .organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.announcement .organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.announcement .organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
 .announcement > :first-child	_site/assets/css/just-the-docs-dark.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
 .announcement > :first-child	_site/assets/css/just-the-docs-default.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
 .announcement > :first-child	_site/assets/css/just-the-docs-light.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
@@ -117,9 +117,9 @@
 .bg-grey-lt-100	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-100 { background-color: #eeebee !important; }$/;"	c
 .bg-grey-lt-100	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-100 { background-color: #eeebee !important; }$/;"	c
 .bg-grey-lt-100	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-100 { background-color: #eeebee !important; }$/;"	c
-.bg-grey-lt-200	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
-.bg-grey-lt-200	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
-.bg-grey-lt-200	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
+.bg-grey-lt-200	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
+.bg-grey-lt-200	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
+.bg-grey-lt-200	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
 .bg-grey-lt-300	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-300 { background-color: #e6e1e8 !important; }$/;"	c
 .bg-grey-lt-300	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-300 { background-color: #e6e1e8 !important; }$/;"	c
 .bg-grey-lt-300	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-300 { background-color: #e6e1e8 !important; }$/;"	c
@@ -345,6 +345,87 @@
 .btn:hover	_site/assets/css/just-the-docs-default.css	/^.btn:hover, summary:hover, .btn:active, summary:active, .btn.zeroclipboard-is-hover, summary.zer/;"	c
 .btn:hover	_site/assets/css/just-the-docs-light.css	/^.btn:hover, summary:hover, .btn.zeroclipboard-is-hover, summary.zeroclipboard-is-hover { color: /;"	c
 .btn:hover	_site/assets/css/just-the-docs-light.css	/^.btn:hover, summary:hover, .btn:active, summary:active, .btn.zeroclipboard-is-hover, summary.zer/;"	c
+.calendar	_site/assets/css/just-the-docs-dark.css	/^.calendar { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
+.calendar	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .calendar { border-radius: 4px; margin: 1rem 0; } }$/;"	c
+.calendar	_site/assets/css/just-the-docs-default.css	/^.calendar { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
+.calendar	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .calendar { border-radius: 4px; margin: 1rem 0; } }$/;"	c
+.calendar	_site/assets/css/just-the-docs-light.css	/^.calendar { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
+.calendar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .calendar { border-radius: 4px; margin: 1rem 0; } }$/;"	c
+.calendar .calendar-day	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-day { border-left: 1px solid #44434d; flex: 1 0 0; margin: 0; min-width: 130/;"	c
+.calendar .calendar-day	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-day { border-left: 1px solid #44434d; flex: 1 0 0; margin: 0; min-width: 130/;"	c
+.calendar .calendar-day	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-day { border-left: 1px solid #eeebee; flex: 1 0 0; margin: 0; min-width: 130/;"	c
+.calendar .calendar-day:first-of-type	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-day:first-of-type { border-left: 0; }$/;"	c
+.calendar .calendar-day:first-of-type	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-day:first-of-type { border-left: 0; }$/;"	c
+.calendar .calendar-day:first-of-type	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-day:first-of-type { border-left: 0; }$/;"	c
+.calendar .calendar-event	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
+.calendar .calendar-event	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
+.calendar .calendar-event	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-default.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-light.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .location	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-dark.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-dark.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-default.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-default.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-light.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-light.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
+.calendar .calendar-event .name	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-default.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-light.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-event .time	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-event.lecture	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-event.lecture { background-color: #959396; }$/;"	c
+.calendar .calendar-event.lecture	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-event.lecture { background-color: #959396; }$/;"	c
+.calendar .calendar-event.lecture	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-event.lecture { background-color: #959396; }$/;"	c
+.calendar .calendar-event.office-hours	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-event.office-hours { background-color: #2c84fa; }$/;"	c
+.calendar .calendar-event.office-hours	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-event.office-hours { background-color: #2c84fa; }$/;"	c
+.calendar .calendar-event.office-hours	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-event.office-hours { background-color: #2c84fa; }$/;"	c
+.calendar .calendar-event.section	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-event.section { background-color: #7253ed; }$/;"	c
+.calendar .calendar-event.section	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-event.section { background-color: #7253ed; }$/;"	c
+.calendar .calendar-event.section	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-event.section { background-color: #7253ed; }$/;"	c
+.calendar .calendar-events	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-events { display: flex; padding: 0; position: relative; }$/;"	c
+.calendar .calendar-events	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-events { display: flex; padding: 0; position: relative; }$/;"	c
+.calendar .calendar-events	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-events { display: flex; padding: 0; position: relative; }$/;"	c
+.calendar .calendar-group	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
+.calendar .calendar-group	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
+.calendar .calendar-group	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.calendar .calendar-time::after	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-time::after { background-color: #44434d; content: ''; height: 1px; left: 0; /;"	c
+.calendar .calendar-time::after	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-time::after { background-color: #44434d; content: ''; height: 1px; left: 0; /;"	c
+.calendar .calendar-time::after	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-time::after { background-color: #eeebee; content: ''; height: 1px; left: 0; /;"	c
+.calendar h2.calendar-header	_site/assets/css/just-the-docs-dark.css	/^.calendar h2.calendar-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
+.calendar h2.calendar-header	_site/assets/css/just-the-docs-default.css	/^.calendar h2.calendar-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
+.calendar h2.calendar-header	_site/assets/css/just-the-docs-light.css	/^.calendar h2.calendar-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
+.calendar li::before	_site/assets/css/just-the-docs-dark.css	/^.calendar li::before { display: none; }$/;"	s
+.calendar li::before	_site/assets/css/just-the-docs-default.css	/^.calendar li::before { display: none; }$/;"	s
+.calendar li::before	_site/assets/css/just-the-docs-light.css	/^.calendar li::before { display: none; }$/;"	s
+.calendar ul.calendar-events	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-events	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-events	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-group	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-group	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-group	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
 .code-example	_site/assets/css/just-the-docs-dark.css	/^.code-example { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto; border: 1px solid #444/;"	c
 .code-example	_site/assets/css/just-the-docs-default.css	/^.code-example { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto; border: 1px solid #444/;"	c
 .code-example	_site/assets/css/just-the-docs-light.css	/^.code-example { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto; border: 1px solid #eee/;"	c
@@ -474,18 +555,18 @@
 .fs-10	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-10 { font-size: 48px !important; } }$/;"	c
 .fs-10	_site/assets/css/just-the-docs-light.css	/^.fs-10 { font-size: 42px !important; line-height: 1.25; }$/;"	c
 .fs-10	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-10 { font-size: 48px !important; } }$/;"	c
-.fs-2	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.fs-2	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.fs-2	_site/assets/css/just-the-docs-default.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.fs-2	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.fs-2	_site/assets/css/just-the-docs-light.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.fs-2	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.fs-3	_site/assets/css/just-the-docs-dark.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.fs-3	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
-.fs-3	_site/assets/css/just-the-docs-default.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.fs-3	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
-.fs-3	_site/assets/css/just-the-docs-light.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.fs-3	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
+.fs-2	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.fs-2	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.fs-2	_site/assets/css/just-the-docs-default.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.fs-2	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.fs-2	_site/assets/css/just-the-docs-light.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
+.fs-2	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
+.fs-3	_site/assets/css/just-the-docs-dark.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.fs-3	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
+.fs-3	_site/assets/css/just-the-docs-default.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.fs-3	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
+.fs-3	_site/assets/css/just-the-docs-light.css	/^.fs-3, .calendar .calendar-event .name { font-size: 12px !important; }$/;"	c
+.fs-3	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-3, .calendar .calendar-event .name { font-size: 14px !importa/;"	c
 .fs-4	_site/assets/css/just-the-docs-dark.css	/^.fs-4 { font-size: 14px !important; }$/;"	c
 .fs-4	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-4 { font-size: 16px !important; } }$/;"	c
 .fs-4	_site/assets/css/just-the-docs-default.css	/^.fs-4 { font-size: 14px !important; }$/;"	c
@@ -531,9 +612,9 @@
 .fw-500	_site/assets/css/just-the-docs-dark.css	/^.fw-500 { font-weight: 500 !important; }$/;"	c
 .fw-500	_site/assets/css/just-the-docs-default.css	/^.fw-500 { font-weight: 500 !important; }$/;"	c
 .fw-500	_site/assets/css/just-the-docs-light.css	/^.fw-500 { font-weight: 500 !important; }$/;"	c
-.fw-700	_site/assets/css/just-the-docs-dark.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
-.fw-700	_site/assets/css/just-the-docs-default.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
-.fw-700	_site/assets/css/just-the-docs-light.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
+.fw-700	_site/assets/css/just-the-docs-dark.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
+.fw-700	_site/assets/css/just-the-docs-default.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
+.fw-700	_site/assets/css/just-the-docs-light.css	/^.fw-700, .calendar .calendar-event .name { font-weight: 700 !important; }$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-dark.css	/^.highlight .bp { color: #268bd2; }$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-default.css	/^.highlight .bp { color: #268bd2; }$/;"	c
 .highlight .bp	_site/assets/css/just-the-docs-light.css	/^.highlight .bp { color: #268bd2; }$/;"	c
@@ -762,18 +843,18 @@
 .icon	_site/assets/css/just-the-docs-dark.css	/^.icon { width: 1.5rem; height: 1.5rem; color: #2c84fa; }$/;"	c
 .icon	_site/assets/css/just-the-docs-default.css	/^.icon { width: 1.5rem; height: 1.5rem; color: #2c84fa; }$/;"	c
 .icon	_site/assets/css/just-the-docs-light.css	/^.icon { width: 1.5rem; height: 1.5rem; color: #7253ed; }$/;"	c
-.label	_site/assets/css/just-the-docs-dark.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.label	_site/assets/css/just-the-docs-default.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.label	_site/assets/css/just-the-docs-light.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.label-blue	_site/assets/css/just-the-docs-dark.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label-blue	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.label-blue	_site/assets/css/just-the-docs-default.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label-blue	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.label-blue	_site/assets/css/just-the-docs-light.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.label-blue	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
+.label	_site/assets/css/just-the-docs-dark.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.label	_site/assets/css/just-the-docs-default.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.label	_site/assets/css/just-the-docs-light.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.label-blue	_site/assets/css/just-the-docs-dark.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label-blue	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.label-blue	_site/assets/css/just-the-docs-default.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label-blue	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.label-blue	_site/assets/css/just-the-docs-light.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.label-blue	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
 .label-green	_site/assets/css/just-the-docs-dark.css	/^.label-green { background-color: #009c7b; }$/;"	c
 .label-green	_site/assets/css/just-the-docs-default.css	/^.label-green { background-color: #009c7b; }$/;"	c
 .label-green	_site/assets/css/just-the-docs-light.css	/^.label-green { background-color: #009c7b; }$/;"	c
@@ -1455,15 +1536,15 @@
 .main-content ul dl:first-child dt:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content dd dl:first-child dt:first-child, .main-content dd dl:first-child dd:nth-child(2),/;"	s
 .main-content ul dl:first-child dt:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content dd dl:first-child dt:first-child, .main-content dd dl:first-child dd:nth-child(2),/;"	s
 .main-content ul dl:first-child dt:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content dd dl:first-child dt:first-child, .main-content dd dl:first-child dd:nth-child(2),/;"	s
-.main-content-wrap	_site/assets/css/just-the-docs-dark.css	/^.main-content-wrap { max-width: 800px; margin: auto; }$/;"	c
+.main-content-wrap	_site/assets/css/just-the-docs-dark.css	/^.main-content-wrap { max-width: 1200px; margin: auto; }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-dark.css	/^.main-content-wrap { padding-right: 1rem; padding-left: 1rem; padding-top: 1rem; padding-bottom:/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-right: 2rem; padding-left: 2rem; } }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-top: 2rem; padding-bottom: 2rem; } }$/;"	c
-.main-content-wrap	_site/assets/css/just-the-docs-default.css	/^.main-content-wrap { max-width: 800px; margin: auto; }$/;"	c
+.main-content-wrap	_site/assets/css/just-the-docs-default.css	/^.main-content-wrap { max-width: 1200px; margin: auto; }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-default.css	/^.main-content-wrap { padding-right: 1rem; padding-left: 1rem; padding-top: 1rem; padding-bottom:/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-right: 2rem; padding-left: 2rem; } }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-top: 2rem; padding-bottom: 2rem; } }$/;"	c
-.main-content-wrap	_site/assets/css/just-the-docs-light.css	/^.main-content-wrap { max-width: 800px; margin: auto; }$/;"	c
+.main-content-wrap	_site/assets/css/just-the-docs-light.css	/^.main-content-wrap { max-width: 1200px; margin: auto; }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-light.css	/^.main-content-wrap { padding-right: 1rem; padding-left: 1rem; padding-top: 1rem; padding-bottom:/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-right: 2rem; padding-left: 2rem; } }$/;"	c
 .main-content-wrap	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .main-content-wrap { padding-top: 2rem; padding-bottom: 2rem; } }$/;"	c
@@ -1887,12 +1968,12 @@
 .module	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .announcement, .main-content .module, .module { border-radius: 4px; /;"	c
 .module	_site/assets/css/just-the-docs-light.css	/^.announcement, .main-content .module, .module { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px/;"	c
 .module	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .announcement, .main-content .module, .module { border-radius: 4px; /;"	c
-.module .label	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.module .label	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.module .label	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.module .staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.module .staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.module .staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
+.module .label	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.module .label	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.module .label	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.module .organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.module .organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.module .organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
 .module > :first-child	_site/assets/css/just-the-docs-dark.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
 .module > :first-child	_site/assets/css/just-the-docs-default.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
 .module > :first-child	_site/assets/css/just-the-docs-light.css	/^.announcement > :first-child, .main-content .module > :first-child, .module > :first-child { bor/;"	s
@@ -3081,6 +3162,39 @@
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-dark.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }$/;"	s
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-default.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }$/;"	s
 .nav-list .nav-list-item.active > .nav-list-expander svg	_site/assets/css/just-the-docs-light.css	/^.nav-list .nav-list-item.active > .nav-list-expander svg { transform: rotate(-90deg); }$/;"	s
+.organizer	_site/assets/css/just-the-docs-dark.css	/^.organizer { display: flex; margin: 1rem; }$/;"	c
+.organizer	_site/assets/css/just-the-docs-default.css	/^.organizer { display: flex; margin: 1rem; }$/;"	c
+.organizer	_site/assets/css/just-the-docs-light.css	/^.organizer { display: flex; margin: 1rem; }$/;"	c
+.organizer .announcement .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .announcement .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .announcement .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .module .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .module .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .module .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .organizer .organizer-pronouns, .organizer ./;"	c
+.organizer .organizer-image	_site/assets/css/just-the-docs-dark.css	/^.organizer .organizer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
+.organizer .organizer-image	_site/assets/css/just-the-docs-default.css	/^.organizer .organizer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
+.organizer .organizer-image	_site/assets/css/just-the-docs-light.css	/^.organizer .organizer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
+.organizer .organizer-meta	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.organizer .organizer-meta	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.organizer .organizer-meta	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.organizer .organizer-name	_site/assets/css/just-the-docs-dark.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	c
+.organizer .organizer-name	_site/assets/css/just-the-docs-default.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	c
+.organizer .organizer-name	_site/assets/css/just-the-docs-light.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-200, .organizer .organizer-pronouns { background-color: #ecebed !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.label, .organizer .organizer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
+.organizer .organizer-pronouns	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .label-blue { font-size: /;"	c
+.organizer p	_site/assets/css/just-the-docs-dark.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	s
+.organizer p	_site/assets/css/just-the-docs-default.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	s
+.organizer p	_site/assets/css/just-the-docs-light.css	/^.organizer p, .organizer .organizer-name { margin: 0.25rem !important; }$/;"	s
 .p-0	_site/assets/css/just-the-docs-dark.css	/^.p-0 { padding: 0 !important; }$/;"	c
 .p-0	_site/assets/css/just-the-docs-default.css	/^.p-0 { padding: 0 !important; }$/;"	c
 .p-0	_site/assets/css/just-the-docs-light.css	/^.p-0 { padding: 0 !important; }$/;"	c
@@ -4467,87 +4581,6 @@
 .py-xs-9	_site/assets/css/just-the-docs-dark.css	/^  .py-xs-9 { padding-top: 3.5rem !important; padding-bottom: 3.5rem !important; }$/;"	c
 .py-xs-9	_site/assets/css/just-the-docs-default.css	/^  .py-xs-9 { padding-top: 3.5rem !important; padding-bottom: 3.5rem !important; }$/;"	c
 .py-xs-9	_site/assets/css/just-the-docs-light.css	/^  .py-xs-9 { padding-top: 3.5rem !important; padding-bottom: 3.5rem !important; }$/;"	c
-.schedule	_site/assets/css/just-the-docs-dark.css	/^.schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
-.schedule	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .schedule { border-radius: 4px; margin: 1rem 0; } }$/;"	c
-.schedule	_site/assets/css/just-the-docs-default.css	/^.schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
-.schedule	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .schedule { border-radius: 4px; margin: 1rem 0; } }$/;"	c
-.schedule	_site/assets/css/just-the-docs-light.css	/^.schedule { box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05); margin: 1/;"	c
-.schedule	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .schedule { border-radius: 4px; margin: 1rem 0; } }$/;"	c
-.schedule .schedule-day	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-day { border-left: 1px solid #44434d; flex: 1 0 0; margin: 0; min-width: 130/;"	c
-.schedule .schedule-day	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-day { border-left: 1px solid #44434d; flex: 1 0 0; margin: 0; min-width: 130/;"	c
-.schedule .schedule-day	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-day { border-left: 1px solid #eeebee; flex: 1 0 0; margin: 0; min-width: 130/;"	c
-.schedule .schedule-day:first-of-type	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-day:first-of-type { border-left: 0; }$/;"	c
-.schedule .schedule-day:first-of-type	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-day:first-of-type { border-left: 0; }$/;"	c
-.schedule .schedule-day:first-of-type	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-day:first-of-type { border-left: 0; }$/;"	c
-.schedule .schedule-event	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
-.schedule .schedule-event	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
-.schedule .schedule-event	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-event { background-color: #959396; border-radius: 4px; box-shadow: 0 10px 20/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-default.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-light.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .location	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-dark.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-dark.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-default.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-default.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-light.css	/^.fs-3, .schedule .schedule-event .name { font-size: 12px !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-light.css	/^.fw-700, .schedule .schedule-event .name { font-weight: 700 !important; }$/;"	c
-.schedule .schedule-event .name	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-3, .schedule .schedule-event .name { font-size: 14px !importa/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-default.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-light.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-event .time	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-event.lecture	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-event.lecture { background-color: #959396; }$/;"	c
-.schedule .schedule-event.lecture	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-event.lecture { background-color: #959396; }$/;"	c
-.schedule .schedule-event.lecture	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-event.lecture { background-color: #959396; }$/;"	c
-.schedule .schedule-event.office-hours	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-event.office-hours { background-color: #2c84fa; }$/;"	c
-.schedule .schedule-event.office-hours	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-event.office-hours { background-color: #2c84fa; }$/;"	c
-.schedule .schedule-event.office-hours	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-event.office-hours { background-color: #2c84fa; }$/;"	c
-.schedule .schedule-event.section	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-event.section { background-color: #7253ed; }$/;"	c
-.schedule .schedule-event.section	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-event.section { background-color: #7253ed; }$/;"	c
-.schedule .schedule-event.section	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-event.section { background-color: #7253ed; }$/;"	c
-.schedule .schedule-events	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-events { display: flex; padding: 0; position: relative; }$/;"	c
-.schedule .schedule-events	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-events { display: flex; padding: 0; position: relative; }$/;"	c
-.schedule .schedule-events	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-events { display: flex; padding: 0; position: relative; }$/;"	c
-.schedule .schedule-group	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
-.schedule .schedule-group	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
-.schedule .schedule-group	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-default.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-light.css	/^.fs-2, .schedule .schedule-time, .schedule .schedule-event .time, .schedule .schedule-event .loc/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
-.schedule .schedule-time	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .schedule .schedule-time, .schedule .schedule-event .time,/;"	c
-.schedule .schedule-time::after	_site/assets/css/just-the-docs-dark.css	/^.schedule .schedule-time::after { background-color: #44434d; content: ''; height: 1px; left: 0; /;"	c
-.schedule .schedule-time::after	_site/assets/css/just-the-docs-default.css	/^.schedule .schedule-time::after { background-color: #44434d; content: ''; height: 1px; left: 0; /;"	c
-.schedule .schedule-time::after	_site/assets/css/just-the-docs-light.css	/^.schedule .schedule-time::after { background-color: #eeebee; content: ''; height: 1px; left: 0; /;"	c
-.schedule h2.schedule-header	_site/assets/css/just-the-docs-dark.css	/^.schedule h2.schedule-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
-.schedule h2.schedule-header	_site/assets/css/just-the-docs-default.css	/^.schedule h2.schedule-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
-.schedule h2.schedule-header	_site/assets/css/just-the-docs-light.css	/^.schedule h2.schedule-header { align-items: center; display: flex; font-size: 18px !important; h/;"	c
-.schedule li::before	_site/assets/css/just-the-docs-dark.css	/^.schedule li::before { display: none; }$/;"	s
-.schedule li::before	_site/assets/css/just-the-docs-default.css	/^.schedule li::before { display: none; }$/;"	s
-.schedule li::before	_site/assets/css/just-the-docs-light.css	/^.schedule li::before { display: none; }$/;"	s
-.schedule ul.schedule-events	_site/assets/css/just-the-docs-dark.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-events	_site/assets/css/just-the-docs-default.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-events	_site/assets/css/just-the-docs-light.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-group	_site/assets/css/just-the-docs-dark.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-group	_site/assets/css/just-the-docs-default.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-group	_site/assets/css/just-the-docs-light.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-dark.css	/^.schedule ul.schedule-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-dark.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-default.css	/^.schedule ul.schedule-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-default.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-light.css	/^.schedule ul.schedule-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
-.schedule ul.schedule-timeline	_site/assets/css/just-the-docs-light.css	/^.schedule ul.schedule-timeline, .schedule ul.schedule-group, .schedule ul.schedule-events { marg/;"	c
 .search	_site/assets/css/just-the-docs-dark.css	/^.search { position: relative; z-index: 2; flex-grow: 1; height: 4rem; padding: 0.5rem; transitio/;"	c
 .search	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .search { position: relative !important; width: auto !important; hei/;"	c
 .search	_site/assets/css/just-the-docs-default.css	/^.search { position: relative; z-index: 2; flex-grow: 1; height: 4rem; padding: 0.5rem; transitio/;"	c
@@ -4818,39 +4851,6 @@
 .site-title:hover	_site/assets/css/just-the-docs-dark.css	/^.site-title:hover { background-image: linear-gradient(-90deg, #201f23 0%, rgba(32, 31, 35, 0.8) /;"	c
 .site-title:hover	_site/assets/css/just-the-docs-default.css	/^.site-title:hover { background-image: linear-gradient(-90deg, #201f23 0%, rgba(32, 31, 35, 0.8) /;"	c
 .site-title:hover	_site/assets/css/just-the-docs-light.css	/^.site-title:hover { background-image: linear-gradient(-90deg, #ebedf5 0%, rgba(235, 237, 245, 0./;"	c
-.staffer	_site/assets/css/just-the-docs-dark.css	/^.staffer { display: flex; margin: 1rem; }$/;"	c
-.staffer	_site/assets/css/just-the-docs-default.css	/^.staffer { display: flex; margin: 1rem; }$/;"	c
-.staffer	_site/assets/css/just-the-docs-light.css	/^.staffer { display: flex; margin: 1rem; }$/;"	c
-.staffer .announcement .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .announcement .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .announcement .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .module .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .module .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .module .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announ/;"	c
-.staffer .staffer-image	_site/assets/css/just-the-docs-dark.css	/^.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
-.staffer .staffer-image	_site/assets/css/just-the-docs-default.css	/^.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
-.staffer .staffer-image	_site/assets/css/just-the-docs-light.css	/^.staffer .staffer-image { border-radius: 50%; height: 100px; margin-right: 1rem; }$/;"	c
-.staffer .staffer-meta	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.staffer .staffer-meta	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.staffer .staffer-meta	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.staffer .staffer-name	_site/assets/css/just-the-docs-dark.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	c
-.staffer .staffer-name	_site/assets/css/just-the-docs-default.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	c
-.staffer .staffer-name	_site/assets/css/just-the-docs-light.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.label, .staffer .staffer-pronouns, .label-blue { display: inline-block; padding-top: 0.16em; pa/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
-.staffer .staffer-pronouns	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, .label-blue { font-size: 12px/;"	c
-.staffer p	_site/assets/css/just-the-docs-dark.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	s
-.staffer p	_site/assets/css/just-the-docs-default.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	s
-.staffer p	_site/assets/css/just-the-docs-light.css	/^.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }$/;"	s
 .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.table-wrapper { display: block; width: 100%; max-width: 100%; margin-bottom: 1.5rem; overflow-x/;"	c
 .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.table-wrapper { display: block; width: 100%; max-width: 100%; margin-bottom: 1.5rem; overflow-x/;"	c
 .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.table-wrapper { display: block; width: 100%; max-width: 100%; margin-bottom: 1.5rem; overflow-x/;"	c
@@ -4911,12 +4911,12 @@
 .text-green-300	_site/assets/css/just-the-docs-dark.css	/^.text-green-300 { color: #026e57 !important; }$/;"	c
 .text-green-300	_site/assets/css/just-the-docs-default.css	/^.text-green-300 { color: #026e57 !important; }$/;"	c
 .text-green-300	_site/assets/css/just-the-docs-light.css	/^.text-green-300 { color: #026e57 !important; }$/;"	c
-.text-grey-dk-000	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.text-grey-dk-000	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.text-grey-dk-000	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }$/;"	c
-.text-grey-dk-100	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
-.text-grey-dk-100	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
-.text-grey-dk-100	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-100, .staffer .staffer-pronouns { color: #5c5962 !important; }$/;"	c
+.text-grey-dk-000	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.text-grey-dk-000	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.text-grey-dk-000	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-000, .organizer .organizer-meta { color: #959396 !important; }$/;"	c
+.text-grey-dk-100	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
+.text-grey-dk-100	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
+.text-grey-dk-100	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-100, .organizer .organizer-pronouns { color: #5c5962 !important; }$/;"	c
 .text-grey-dk-200	_site/assets/css/just-the-docs-dark.css	/^.text-grey-dk-200 { color: #44434d !important; }$/;"	c
 .text-grey-dk-200	_site/assets/css/just-the-docs-default.css	/^.text-grey-dk-200 { color: #44434d !important; }$/;"	c
 .text-grey-dk-200	_site/assets/css/just-the-docs-light.css	/^.text-grey-dk-200 { color: #44434d !important; }$/;"	c
@@ -5026,24 +5026,21 @@
 12	_site/assets/js/search-data.json	/^  },"12": {$/;"	o
 13	_site/assets/js/search-data.json	/^  },"13": {$/;"	o
 14	_site/assets/js/search-data.json	/^  },"14": {$/;"	o
+15	_site/assets/js/search-data.json	/^  },"15": {$/;"	o
+16	_site/assets/js/search-data.json	/^  },"16": {$/;"	o
+17	_site/assets/js/search-data.json	/^  },"17": {$/;"	o
+18	_site/assets/js/search-data.json	/^  },"18": {$/;"	o
+19	_site/assets/js/search-data.json	/^  },"19": {$/;"	o
 2	_site/assets/js/search-data.json	/^  },"2": {$/;"	o
 3	_site/assets/js/search-data.json	/^  },"3": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
 7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
-8	_sass/_site/layout.scss	/^    rgba($feedback-color, 0.8) 100%$/;"	c
-8	_sass/_site/layout.scss	/^    rgba($feedback-color, 0.8) 80%,$/;"	c
 8	_sass/custom/custom.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
 8	_sass/custom/custom.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
-8	_sass/l.scss	/^    rgba($feedback-color, 0.8) 100%$/;"	c
-8	_sass/l.scss	/^    rgba($feedback-color, 0.8) 80%,$/;"	c
-8	_sass/layout.scss	/^    rgba($feedback-color, 0.8) 100%$/;"	c
-8	_sass/layout.scss	/^    rgba($feedback-color, 0.8) 80%,$/;"	c
-8	_sass/n.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
-8	_sass/n.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
-8	_sass/navigation.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
-8	_sass/navigation.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
+8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 100%$/;"	c
+8	_sass/custom/custom_backup.scss	/^          rgba($feedback-color, 0.8) 80%,$/;"	c
 8	_site/assets/js/search-data.json	/^  },"8": {$/;"	o
 9	_site/assets/js/search-data.json	/^  },"9": {$/;"	o
 :-moz-focusring	_site/assets/css/just-the-docs-dark.css	/^button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="sub/;"	s
@@ -5067,8 +5064,8 @@
 ::selection	_site/assets/css/just-the-docs-dark.css	/^::selection { color: #fff; background: #2c84fa; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-default.css	/^::selection { color: #fff; background: #2c84fa; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-light.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
-All talks will be livestreamed and recorded to broaden participation	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 All talks will be livestreamed and recorded to broaden participation	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+All talks will be livestreamed and recorded to broaden participation	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Announcements	announcements.md	/^# Announcements$/;"	c
 Announcements | SLowDNN Workshop	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5077,69 +5074,95 @@ AnonymousFunction44e4342b0200	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(
 AnonymousFunction44e4342b0300	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(menuButton, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0400	_site/assets/js/just-the-docs.js	/^jtd.onReady(function(){$/;"	f
 Atlas Wang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Atlas Wang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Calendar	calendar.md	/^# Calendar$/;"	c
+Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Contact	README.md	/^# Contact$/;"	c
 Contact	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Document	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Document	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Eric P. Xing	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Eric P. Xing	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Expand	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Expand	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Expand	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Friday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Homepage | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Instructors	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Instructors	staff.md	/^# Instructors$/;"	c
-Instructors | SLowDNN Workshop	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 January 2023,&nbsp;[MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi	README.md	/^### January 2023,&nbsp;[MBZUAI](https:\/\/mbzuai.ac.ae\/), Abu Dhabi$/;"	S	chapter:Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)
 January 2023, MBZUAI, Abu Dhabi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Jeremias Sulam	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+John Wright	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Karthik Nandakumar	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Karthik Nandakumar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Key Dates	README.md	/^# Key Dates$/;"	c
 Key Dates	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Lectures | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal.html	/^      <title>Link<\/title>$/;"	j
 Link	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Link	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Link	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Link	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Menu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Menu	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Menu	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Monday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Organization Team	README.md	/^# Organization Team$/;"	c
 Organization Team	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Organizers	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Organizers	organizers.md	/^# Organizers$/;"	c
+Organizers | SLowDNN Workshop	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Past workshops	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Past workshops	past_workshops.md	/^# Past workshops$/;"	c
 Past workshops | SLowDNN Workshop	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Qing Qu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Qing Qu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saiprasad Ravishankar	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Saiprasad Ravishankar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Schedule	schedule.md	/^# Schedule$/;"	c
+Schedule | SLowDNN Workshop	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Search	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Table of contents	_layouts/minimal.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)	README.md	/^# Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)$/;"	c
 Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Thursday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Tuesday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Wednesday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Week 0 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Week 1 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Yi Ma	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yi Ma	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuejie Chi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yuejie Chi	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuqian Zhang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yuqian Zhang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Zhihui Zhu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Zhihui Zhu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 a	_site/assets/css/just-the-docs-dark.css	/^a { background-color: transparent; }$/;"	s
 a	_site/assets/css/just-the-docs-dark.css	/^a { color: #2c84fa; text-decoration: none; }$/;"	s
 a	_site/assets/css/just-the-docs-default.css	/^a { background-color: transparent; }$/;"	s
@@ -5158,41 +5181,28 @@ a:visited code	_site/assets/css/just-the-docs-light.css	/^a:visited code { borde
 abbr[title]	_site/assets/css/just-the-docs-dark.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
 abbr[title]	_site/assets/css/just-the-docs-default.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
 abbr[title]	_site/assets/css/just-the-docs-light.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
-abstract-card	_sass/_site/custom/card.scss	/^@mixin abstract-card() {$/;"	m
 abstract-card	_sass/custom/card.scss	/^@mixin abstract-card() {$/;"	m
 active	_sass/custom/custom.scss	/^      &.active {$/;"	c
 active	_sass/custom/custom.scss	/^    &.active {$/;"	c
-active	_sass/n.scss	/^      &.active {$/;"	c
-active	_sass/n.scss	/^    &.active {$/;"	c
-active	_sass/navigation.scss	/^      &.active {$/;"	c
-active	_sass/navigation.scss	/^    &.active {$/;"	c
+active	_sass/custom/custom_backup.scss	/^      &.active {$/;"	c
+active	_sass/custom/custom_backup.scss	/^    &.active {$/;"	c
 addEvent	_site/assets/js/just-the-docs.js	/^jtd.addEvent = function(el, type, handler) {$/;"	f	function:jtd
 address	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 address	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 address	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
-all-talks-will-be-livestreamed-and-recorded-to-broaden-participation	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 all-talks-will-be-livestreamed-and-recorded-to-broaden-participation	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-anchor-heading	_sass/c.scss	/^  .anchor-heading {$/;"	c
-anchor-heading	_sass/c.scss	/^  .anchor-heading:focus,$/;"	c
-anchor-heading	_sass/c.scss	/^  .anchor-heading:hover,$/;"	c
-anchor-heading	_sass/content.scss	/^  .anchor-heading {$/;"	c
-anchor-heading	_sass/content.scss	/^  .anchor-heading:focus,$/;"	c
-anchor-heading	_sass/content.scss	/^  .anchor-heading:hover,$/;"	c
+all-talks-will-be-livestreamed-and-recorded-to-broaden-participation	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 anchor-heading	_sass/custom/custom.scss	/^  .anchor-heading {$/;"	c
-announcement	_sass/_site/custom/announcement.scss	/^.announcement {$/;"	c
+anchor-heading	_sass/custom/custom_backup.scss	/^  .anchor-heading {$/;"	c
 announcement	_sass/custom/announcement.scss	/^.announcement {$/;"	c
-announcement-meta	_sass/_site/custom/announcement.scss	/^  .announcement-meta {$/;"	c
 announcement-meta	_sass/custom/announcement.scss	/^  .announcement-meta {$/;"	c
 announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 aux-nav	_sass/custom/custom.scss	/^.aux-nav {$/;"	c
-aux-nav	_sass/n.scss	/^.aux-nav {$/;"	c
-aux-nav	_sass/navigation.scss	/^.aux-nav {$/;"	c
+aux-nav	_sass/custom/custom_backup.scss	/^.aux-nav {$/;"	c
 aux-nav-list	_sass/custom/custom.scss	/^  .aux-nav-list {$/;"	c
-aux-nav-list	_sass/n.scss	/^  .aux-nav-list {$/;"	c
-aux-nav-list	_sass/navigation.scss	/^  .aux-nav-list {$/;"	c
+aux-nav-list	_sass/custom/custom_backup.scss	/^  .aux-nav-list {$/;"	c
 aux-nav-list-item	_sass/custom/custom.scss	/^  .aux-nav-list-item {$/;"	c
-aux-nav-list-item	_sass/n.scss	/^  .aux-nav-list-item {$/;"	c
-aux-nav-list-item	_sass/navigation.scss	/^  .aux-nav-list-item {$/;"	c
+aux-nav-list-item	_sass/custom/custom_backup.scss	/^  .aux-nav-list-item {$/;"	c
 b	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/;"	s
 b	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 b	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s
@@ -5213,12 +5223,7 @@ body	_site/assets/css/just-the-docs-light.css	/^body { font-family: system-ui, -
 body	_site/assets/css/just-the-docs-light.css	/^body { margin: 0; }$/;"	s
 body	_site/assets/css/just-the-docs-light.css	/^body { position: relative; padding-bottom: 4rem; overflow-y: scroll; }$/;"	s
 breadcrumb-nav	_sass/custom/custom.scss	/^.breadcrumb-nav {$/;"	c
-breadcrumb-nav	_sass/n.scss	/^.breadcrumb-nav {$/;"	c
-breadcrumb-nav	_sass/navigation.scss	/^.breadcrumb-nav {$/;"	c
-breadcrumb-nav-list	_sass/n.scss	/^.breadcrumb-nav-list {$/;"	c
-breadcrumb-nav-list	_sass/navigation.scss	/^.breadcrumb-nav-list {$/;"	c
-breadcrumb-nav-list-item	_sass/n.scss	/^.breadcrumb-nav-list-item {$/;"	c
-breadcrumb-nav-list-item	_sass/navigation.scss	/^.breadcrumb-nav-list-item {$/;"	c
+breadcrumb-nav	_sass/custom/custom_backup.scss	/^.breadcrumb-nav {$/;"	c
 button	_site/assets/css/just-the-docs-dark.css	/^button, [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; }$/;"	s
 button	_site/assets/css/just-the-docs-dark.css	/^button, input { \/* 1 *\/ overflow: visible; }$/;"	s
 button	_site/assets/css/just-the-docs-dark.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
@@ -5237,8 +5242,18 @@ button:-moz-focusring	_site/assets/css/just-the-docs-light.css	/^button:-moz-foc
 button::-moz-focus-inner	_site/assets/css/just-the-docs-dark.css	/^button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [/;"	s
 button::-moz-focus-inner	_site/assets/css/just-the-docs-default.css	/^button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [/;"	s
 button::-moz-focus-inner	_site/assets/css/just-the-docs-light.css	/^button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [/;"	s
+calendar	_sass/custom/calendar.scss	/^.calendar {$/;"	c
 calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-card	_sass/_site/custom/card.scss	/^%card {$/;"	P
+calendar-day	_sass/custom/calendar.scss	/^  .calendar-day {$/;"	c
+calendar-event	_sass/custom/calendar.scss	/^  .calendar-event {$/;"	c
+calendar-events	_sass/custom/calendar.scss	/^  .calendar-events {$/;"	c
+calendar-events	_sass/custom/calendar.scss	/^  ul.calendar-events {$/;"	c
+calendar-group	_sass/custom/calendar.scss	/^  .calendar-group {$/;"	c
+calendar-group	_sass/custom/calendar.scss	/^  ul.calendar-group,$/;"	c
+calendar-header	_sass/custom/calendar.scss	/^  h2.calendar-header {$/;"	c
+calendar-time	_sass/custom/calendar.scss	/^  .calendar-time {$/;"	c
+calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline {$/;"	c
+calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline,$/;"	c
 card	_sass/custom/card.scss	/^%card {$/;"	P
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-family: "SFMono-Regular", Menlo, Consolas, Monospace; font-size: 0.75em; line-height/;"	s
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
@@ -5252,24 +5267,29 @@ code	_site/assets/css/just-the-docs-light.css	/^code { font-family: "SFMono-Regu
 code	_site/assets/css/just-the-docs-light.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #ee/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
-code-example	_sass/c.scss	/^    + .code-example,$/;"	c
-code-example	_sass/content.scss	/^    + .code-example,$/;"	c
 contact	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:10
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:12
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:14
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:6
-content	_site/assets/js/search-data.json	/^    "content": ". | 2021 | 2020 | . ",$/;"	s	object:13
+content	_site/assets/js/search-data.json	/^    "content": ". | 2021 | 2020 | . ",$/;"	s	object:17
+content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 1/;"	s	object:10
+content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:11
+content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:13
+content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 6th January, 2023; in person at MBZUAI, Abu Dhabi | Ab/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. |/;"	s	object:8
-content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . UT Austin . Chong You . Google NYC . Eric P. Xing . Carnegie Mellon/;"	s	object:4
-content	_site/assets/js/search-data.json	/^    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be /;"	s	object:11
+content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Ch/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Ch/;"	s	object:4
+content	_site/assets/js/search-data.json	/^    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be /;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be /;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": "For inquiries about the workshop or this website, please contact slowdnn.worksho/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "January 2023, MBZUAI, Abu Dhabi . In the past decade, deep learning has demonst/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:12
+content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:14
+content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
+content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 details	_site/assets/css/just-the-docs-dark.css	/^details { display: block; }$/;"	s
 details	_site/assets/css/just-the-docs-dark.css	/^details { margin: 0 40px 1em; }$/;"	s
 details	_site/assets/css/just-the-docs-default.css	/^details { display: block; }$/;"	s
@@ -5297,6 +5317,12 @@ dl	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquo
 doc	_site/assets/js/search-data.json	/^    "doc": "Announcements",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Announcements",$/;"	s	object:8
 doc	_site/assets/js/search-data.json	/^    "doc": "Announcements",$/;"	s	object:9
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:10
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:11
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:12
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:13
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:14
+doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:2
@@ -5304,15 +5330,13 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:3
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:4
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:6
-doc	_site/assets/js/search-data.json	/^    "doc": "Instructors",$/;"	s	object:14
-doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:10
-doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:11
-doc	_site/assets/js/search-data.json	/^    "doc": "Lectures",$/;"	s	object:12
-doc	_site/assets/js/search-data.json	/^    "doc": "Past workshops",$/;"	s	object:13
+doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:16
+doc	_site/assets/js/search-data.json	/^    "doc": "Past workshops",$/;"	s	object:17
+doc	_site/assets/js/search-data.json	/^    "doc": "Schedule",$/;"	s	object:18
+doc	_site/assets/js/search-data.json	/^    "doc": "Schedule",$/;"	s	object:19
 edit-this-page	_layouts/minimal.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom.scss	/^      &.external > svg {$/;"	c
-external	_sass/n.scss	/^      &.external > svg {$/;"	c
-external	_sass/navigation.scss	/^      &.external > svg {$/;"	c
+external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
 fieldset	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 fieldset	_site/assets/css/just-the-docs-default.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
@@ -5398,11 +5422,6 @@ h6	_site/assets/css/just-the-docs-light.css	/^h6, .text-zeta { font-size: 11px !
 hidden	_site/assets/css/just-the-docs-dark.css	/^[hidden] { display: none; }$/;"	s
 hidden	_site/assets/css/just-the-docs-default.css	/^[hidden] { display: none; }$/;"	s
 hidden	_site/assets/css/just-the-docs-light.css	/^[hidden] { display: none; }$/;"	s
-highlight	_sass/c.scss	/^    .highlight {$/;"	c
-highlight	_sass/content.scss	/^    .highlight {$/;"	c
-highlighter-rouge	_sass/_site/custom/custom.scss	/^div.highlighter-rouge[overlay] {$/;"	c
-highlighter-rouge	_sass/c.scss	/^    + .highlighter-rouge,$/;"	c
-highlighter-rouge	_sass/content.scss	/^    + .highlighter-rouge,$/;"	c
 hr	_site/assets/css/just-the-docs-dark.css	/^hr { box-sizing: content-box; \/* 1 *\/ height: 0; \/* 1 *\/ overflow: visible; \/* 2 *\/ }$/;"	s
 hr	_site/assets/css/just-the-docs-dark.css	/^hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #44434d; border: 0; }$/;"	s
 hr	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5421,9 +5440,6 @@ html	_site/assets/css/just-the-docs-default.css	/^html { line-height: 1.15; \/* 
 html	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { html { font-size: 16px !important; } }$/;"	s
 html	_site/assets/css/just-the-docs-light.css	/^html { font-size: 14px !important; scroll-behavior: smooth; }$/;"	s
 html	_site/assets/css/just-the-docs-light.css	/^html { line-height: 1.15; \/* 1 *\/ -webkit-text-size-adjust: 100%; \/* 2 *\/ }$/;"	s
-icon	_sass/_site/layout.scss	/^.icon {$/;"	c
-icon	_sass/l.scss	/^.icon {$/;"	c
-icon	_sass/layout.scss	/^.icon {$/;"	c
 iframe	_site/assets/css/just-the-docs-dark.css	/^iframe, summary { max-width: 100%; }$/;"	s
 iframe	_site/assets/css/just-the-docs-default.css	/^iframe, summary { max-width: 100%; }$/;"	s
 iframe	_site/assets/css/just-the-docs-light.css	/^iframe, summary { max-width: 100%; }$/;"	s
@@ -5440,134 +5456,91 @@ input	_site/assets/css/just-the-docs-default.css	/^button, input { \/* 1 *\/ ove
 input	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^button, input { \/* 1 *\/ overflow: visible; }$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
-instructors	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 january-2023mbzuai-abu-dhabi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-katex	_sass/_site/custom/custom.scss	/^  .katex {$/;"	c
 kbd	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 key-dates	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-label	_sass/_site/custom/card.scss	/^  .label {$/;"	c
 label	_sass/custom/card.scss	/^  .label {$/;"	c
-lecture	_sass/_site/custom/schedule.scss	/^    &.lecture {$/;"	c
-lecture	_sass/custom/schedule.scss	/^    &.lecture {$/;"	c
+lecture	_sass/custom/calendar.scss	/^    &.lecture {$/;"	c
 legend	_site/assets/css/just-the-docs-dark.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 legend	_site/assets/css/just-the-docs-default.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 legend	_site/assets/css/just-the-docs-light.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 li	_site/assets/css/just-the-docs-dark.css	/^li { margin: 0.25em 0; }$/;"	s
 li	_site/assets/css/just-the-docs-default.css	/^li { margin: 0.25em 0; }$/;"	s
 li	_site/assets/css/just-the-docs-light.css	/^li { margin: 0.25em 0; }$/;"	s
-listingblock	_sass/c.scss	/^    + .sectionbody .listingblock {$/;"	c
-listingblock	_sass/content.scss	/^    + .sectionbody .listingblock {$/;"	c
-location	_sass/_site/custom/schedule.scss	/^    .location {$/;"	c
-location	_sass/custom/schedule.scss	/^    .location {$/;"	c
-main	_sass/_site/layout.scss	/^.main {$/;"	c
+location	_sass/custom/calendar.scss	/^    .location {$/;"	c
 main	_sass/custom/custom.scss	/^.main {$/;"	c
-main	_sass/l.scss	/^.main {$/;"	c
-main	_sass/layout.scss	/^.main {$/;"	c
+main	_sass/custom/custom_backup.scss	/^.main {$/;"	c
 main	_site/assets/css/just-the-docs-dark.css	/^main { display: block; }$/;"	s
 main	_site/assets/css/just-the-docs-default.css	/^main { display: block; }$/;"	s
 main	_site/assets/css/just-the-docs-light.css	/^main { display: block; }$/;"	s
 main-content	_layouts/minimal.html	/^    <div id="main-content" class="main-content" role="main">$/;"	I
-main-content	_sass/_site/custom/custom.scss	/^.main-content {$/;"	c
-main-content	_sass/_site/custom/module.scss	/^.main-content .module,$/;"	c
-main-content	_sass/c.scss	/^.main-content {$/;"	c
-main-content	_sass/content.scss	/^.main-content {$/;"	c
 main-content	_sass/custom/custom.scss	/^.main-content {$/;"	c
+main-content	_sass/custom/custom_backup.scss	/^.main-content {$/;"	c
 main-content	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 main-content	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+main-content	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-main-content	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+main-content	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content-wrap	_layouts/minimal.html	/^  <div id="main-content-wrap" class="main-content-wrap">$/;"	I
-main-content-wrap	_sass/_site/custom/custom.scss	/^.main-content-wrap {$/;"	c
-main-content-wrap	_sass/_site/layout.scss	/^.main-content-wrap {$/;"	c
 main-content-wrap	_sass/custom/custom.scss	/^.main-content-wrap {$/;"	c
-main-content-wrap	_sass/l.scss	/^.main-content-wrap {$/;"	c
-main-content-wrap	_sass/layout.scss	/^.main-content-wrap {$/;"	c
+main-content-wrap	_sass/custom/custom_backup.scss	/^.main-content-wrap {$/;"	c
 main-content-wrap	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content-wrap	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content-wrap	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+main-content-wrap	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-content-wrap	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-main-content-wrap	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-main-header	_sass/_site/layout.scss	/^.main-header {$/;"	c
+main-content-wrap	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-header	_sass/custom/custom.scss	/^.main-header {$/;"	c
-main-header	_sass/l.scss	/^.main-header {$/;"	c
-main-header	_sass/layout.scss	/^.main-header {$/;"	c
+main-header	_sass/custom/custom_backup.scss	/^.main-header {$/;"	c
 main-header	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-header	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-header	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+main-header	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main-header	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-main-header	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+main-header	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+menu-button	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-menu-button	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-module	_sass/_site/custom/module.scss	/^.main-content .module,$/;"	c
-module	_sass/_site/custom/module.scss	/^.module {$/;"	c
+menu-button	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
-module-item	_sass/_site/custom/module.scss	/^    %module-item {$/;"	P
 module-item	_sass/custom/module.scss	/^    %module-item {$/;"	P
-name	_sass/_site/custom/schedule.scss	/^    .name {$/;"	c
-name	_sass/custom/schedule.scss	/^    .name {$/;"	c
+name	_sass/custom/calendar.scss	/^    .name {$/;"	c
 nav-category	_sass/custom/custom.scss	/^.nav-category {$/;"	c
-nav-category	_sass/n.scss	/^.nav-category {$/;"	c
-nav-category	_sass/navigation.scss	/^.nav-category {$/;"	c
-nav-category-list	_sass/n.scss	/^.nav-list.nav-category-list {$/;"	c
-nav-category-list	_sass/navigation.scss	/^.nav-list.nav-category-list {$/;"	c
+nav-category	_sass/custom/custom_backup.scss	/^.nav-category {$/;"	c
 nav-list	_sass/custom/custom.scss	/^      > .nav-list {$/;"	c
 nav-list	_sass/custom/custom.scss	/^    > .nav-list {$/;"	c
 nav-list	_sass/custom/custom.scss	/^.nav-list {$/;"	c
-nav-list	_sass/n.scss	/^      > .nav-list {$/;"	c
-nav-list	_sass/n.scss	/^    > .nav-list {$/;"	c
-nav-list	_sass/n.scss	/^.nav-list {$/;"	c
-nav-list	_sass/n.scss	/^.nav-list.nav-category-list {$/;"	c
-nav-list	_sass/navigation.scss	/^      > .nav-list {$/;"	c
-nav-list	_sass/navigation.scss	/^    > .nav-list {$/;"	c
-nav-list	_sass/navigation.scss	/^.nav-list {$/;"	c
-nav-list	_sass/navigation.scss	/^.nav-list.nav-category-list {$/;"	c
+nav-list	_sass/custom/custom_backup.scss	/^      > .nav-list {$/;"	c
+nav-list	_sass/custom/custom_backup.scss	/^    > .nav-list {$/;"	c
+nav-list	_sass/custom/custom_backup.scss	/^.nav-list {$/;"	c
 nav-list-expander	_sass/custom/custom.scss	/^        .nav-list-expander {$/;"	c
 nav-list-expander	_sass/custom/custom.scss	/^      > .nav-list-expander svg {$/;"	c
 nav-list-expander	_sass/custom/custom.scss	/^    .nav-list-expander {$/;"	c
-nav-list-expander	_sass/n.scss	/^        .nav-list-expander {$/;"	c
-nav-list-expander	_sass/n.scss	/^        > .nav-list-expander {$/;"	c
-nav-list-expander	_sass/n.scss	/^      > .nav-list-expander svg {$/;"	c
-nav-list-expander	_sass/n.scss	/^    .nav-list-expander {$/;"	c
-nav-list-expander	_sass/navigation.scss	/^        .nav-list-expander {$/;"	c
-nav-list-expander	_sass/navigation.scss	/^        > .nav-list-expander {$/;"	c
-nav-list-expander	_sass/navigation.scss	/^      > .nav-list-expander svg {$/;"	c
-nav-list-expander	_sass/navigation.scss	/^    .nav-list-expander {$/;"	c
+nav-list-expander	_sass/custom/custom_backup.scss	/^        .nav-list-expander {$/;"	c
+nav-list-expander	_sass/custom/custom_backup.scss	/^      > .nav-list-expander svg {$/;"	c
+nav-list-expander	_sass/custom/custom_backup.scss	/^    .nav-list-expander {$/;"	c
 nav-list-item	_sass/custom/custom.scss	/^      .nav-list-item {$/;"	c
 nav-list-item	_sass/custom/custom.scss	/^  .nav-list-item {$/;"	c
-nav-list-item	_sass/n.scss	/^      .nav-list-item {$/;"	c
-nav-list-item	_sass/n.scss	/^      > .nav-list-item {$/;"	c
-nav-list-item	_sass/n.scss	/^  .nav-list-item {$/;"	c
-nav-list-item	_sass/n.scss	/^  > .nav-list-item {$/;"	c
-nav-list-item	_sass/navigation.scss	/^      .nav-list-item {$/;"	c
-nav-list-item	_sass/navigation.scss	/^      > .nav-list-item {$/;"	c
-nav-list-item	_sass/navigation.scss	/^  .nav-list-item {$/;"	c
-nav-list-item	_sass/navigation.scss	/^  > .nav-list-item {$/;"	c
+nav-list-item	_sass/custom/custom_backup.scss	/^      .nav-list-item {$/;"	c
+nav-list-item	_sass/custom/custom_backup.scss	/^  .nav-list-item {$/;"	c
 nav-list-link	_sass/custom/custom.scss	/^        .nav-list-link {$/;"	c
 nav-list-link	_sass/custom/custom.scss	/^    .nav-list-link {$/;"	c
-nav-list-link	_sass/n.scss	/^        .nav-list-link {$/;"	c
-nav-list-link	_sass/n.scss	/^        > .nav-list-link {$/;"	c
-nav-list-link	_sass/n.scss	/^    .nav-list-link {$/;"	c
-nav-list-link	_sass/navigation.scss	/^        .nav-list-link {$/;"	c
-nav-list-link	_sass/navigation.scss	/^        > .nav-list-link {$/;"	c
-nav-list-link	_sass/navigation.scss	/^    .nav-list-link {$/;"	c
-nav-open	_sass/_site/layout.scss	/^  &.nav-open {$/;"	c
+nav-list-link	_sass/custom/custom_backup.scss	/^        .nav-list-link {$/;"	c
+nav-list-link	_sass/custom/custom_backup.scss	/^    .nav-list-link {$/;"	c
 nav-open	_sass/custom/custom.scss	/^  &.nav-open {$/;"	c
-nav-open	_sass/l.scss	/^  &.nav-open {$/;"	c
-nav-open	_sass/layout.scss	/^  &.nav-open {$/;"	c
+nav-open	_sass/custom/custom_backup.scss	/^  &.nav-open {$/;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	c
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	c
 nsd4b0bd230101	_site/assets/images/search.svg	/^<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http:\/\/www.w3.org\/2000\/svg"><title>Se/;"	n	uri:http://www.w3.org/2000/svg
-office-hours	_sass/_site/custom/schedule.scss	/^    &.office-hours {$/;"	c
-office-hours	_sass/custom/schedule.scss	/^    &.office-hours {$/;"	c
+office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
 ol	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ol	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ol	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5576,6 +5549,12 @@ optgroup	_site/assets/css/just-the-docs-dark.css	/^button, input, optgroup, sele
 optgroup	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 optgroup	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 organization-team	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+organizer	_sass/custom/organizer.scss	/^.organizer {$/;"	c
+organizer-image	_sass/custom/organizer.scss	/^  .organizer-image {$/;"	c
+organizer-meta	_sass/custom/organizer.scss	/^  .organizer-meta {$/;"	c
+organizer-name	_sass/custom/organizer.scss	/^  .organizer-name {$/;"	c
+organizer-pronouns	_sass/custom/organizer.scss	/^  .organizer-pronouns {$/;"	c
+organizers	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 p	_site/assets/css/just-the-docs-dark.css	/^p { margin-top: 1em; margin-bottom: 1em; }$/;"	s
 p	_site/assets/css/just-the-docs-default.css	/^p { margin-top: 1em; margin-bottom: 1em; }$/;"	s
 p	_site/assets/css/just-the-docs-light.css	/^p { margin-top: 1em; margin-bottom: 1em; }$/;"	s
@@ -5598,9 +5577,12 @@ progress	_site/assets/css/just-the-docs-light.css	/^progress { vertical-align: b
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:7
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:8
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:9
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:10
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:11
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:12
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation/;"	s	object:11
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/#calendar"$/;"	s	object:10
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:13
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:14
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:15
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:6
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation/;"	s	object:3
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#contact"$/;"	s	object:5
@@ -5608,48 +5590,16 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#key-dates"
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#organization-team"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#tentative-schedule"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#third-workshop-on-seeking-low-dimensionality-in-deep-neural-networks/;"	s	object:0
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/"$/;"	s	object:13
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/staff\/"$/;"	s	object:14
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:16
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/"$/;"	s	object:17
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:18
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation/;"	s	object:19
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
-schedule	_sass/_site/custom/schedule.scss	/^.schedule {$/;"	c
-schedule	_sass/custom/schedule.scss	/^.schedule {$/;"	c
-schedule-day	_sass/_site/custom/schedule.scss	/^  .schedule-day {$/;"	c
-schedule-day	_sass/custom/schedule.scss	/^  .schedule-day {$/;"	c
-schedule-event	_sass/_site/custom/schedule.scss	/^  .schedule-event {$/;"	c
-schedule-event	_sass/custom/schedule.scss	/^  .schedule-event {$/;"	c
-schedule-events	_sass/_site/custom/schedule.scss	/^  .schedule-events {$/;"	c
-schedule-events	_sass/_site/custom/schedule.scss	/^  ul.schedule-events {$/;"	c
-schedule-events	_sass/custom/schedule.scss	/^  .schedule-events {$/;"	c
-schedule-events	_sass/custom/schedule.scss	/^  ul.schedule-events {$/;"	c
-schedule-group	_sass/_site/custom/schedule.scss	/^  .schedule-group {$/;"	c
-schedule-group	_sass/_site/custom/schedule.scss	/^  ul.schedule-group,$/;"	c
-schedule-group	_sass/custom/schedule.scss	/^  .schedule-group {$/;"	c
-schedule-group	_sass/custom/schedule.scss	/^  ul.schedule-group,$/;"	c
-schedule-header	_sass/_site/custom/schedule.scss	/^  h2.schedule-header {$/;"	c
-schedule-header	_sass/custom/schedule.scss	/^  h2.schedule-header {$/;"	c
-schedule-time	_sass/_site/custom/schedule.scss	/^  .schedule-time {$/;"	c
-schedule-time	_sass/custom/schedule.scss	/^  .schedule-time {$/;"	c
-schedule-timeline	_sass/_site/custom/schedule.scss	/^  ul.schedule-timeline {$/;"	c
-schedule-timeline	_sass/_site/custom/schedule.scss	/^  ul.schedule-timeline,$/;"	c
-schedule-timeline	_sass/custom/schedule.scss	/^  ul.schedule-timeline {$/;"	c
-schedule-timeline	_sass/custom/schedule.scss	/^  ul.schedule-timeline,$/;"	c
-sect1	_sass/c.scss	/^  > .sect1:first-child > h2,$/;"	c
-sect1	_sass/content.scss	/^  > .sect1:first-child > h2,$/;"	c
-sect2	_sass/c.scss	/^  > .sect2:first-child > h3,$/;"	c
-sect2	_sass/content.scss	/^  > .sect2:first-child > h3,$/;"	c
-sect3	_sass/c.scss	/^  > .sect3:first-child > h4,$/;"	c
-sect3	_sass/content.scss	/^  > .sect3:first-child > h4,$/;"	c
-sect4	_sass/c.scss	/^  > .sect4:first-child > h5,$/;"	c
-sect4	_sass/content.scss	/^  > .sect4:first-child > h5,$/;"	c
-sect5	_sass/c.scss	/^  > .sect5:first-child > h6 {$/;"	c
-sect5	_sass/content.scss	/^  > .sect5:first-child > h6 {$/;"	c
-section	_sass/_site/custom/schedule.scss	/^    &.section {$/;"	c
-section	_sass/custom/schedule.scss	/^    &.section {$/;"	c
-sectionbody	_sass/c.scss	/^    + .sectionbody .listingblock {$/;"	c
-sectionbody	_sass/content.scss	/^    + .sectionbody .listingblock {$/;"	c
+schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+section	_sass/custom/calendar.scss	/^    &.section {$/;"	c
 select	_site/assets/css/just-the-docs-dark.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 select	_site/assets/css/just-the-docs-dark.css	/^button, select { \/* 1 *\/ text-transform: none; }$/;"	s
 select	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
@@ -5657,66 +5607,33 @@ select	_site/assets/css/just-the-docs-default.css	/^button, select { \/* 1 *\/ t
 select	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 select	_site/assets/css/just-the-docs-light.css	/^button, select { \/* 1 *\/ text-transform: none; }$/;"	s
 setTheme	_site/assets/js/just-the-docs.js	/^jtd.setTheme = function(theme) {$/;"	f	function:jtd
-side-bar	_sass/_site/layout.scss	/^.side-bar {$/;"	c
 side-bar	_sass/custom/custom.scss	/^.side-bar {$/;"	c
-side-bar	_sass/l.scss	/^.side-bar {$/;"	c
-side-bar	_sass/layout.scss	/^.side-bar {$/;"	c
-site-button	_sass/_site/layout.scss	/^.site-button {$/;"	c
-site-button	_sass/_site/layout.scss	/^.site-button:hover {$/;"	c
+side-bar	_sass/custom/custom_backup.scss	/^.side-bar {$/;"	c
 site-button	_sass/custom/custom.scss	/^  .site-header .site-button {$/;"	c
-site-button	_sass/l.scss	/^.site-button {$/;"	c
-site-button	_sass/l.scss	/^.site-button:hover {$/;"	c
-site-button	_sass/layout.scss	/^.site-button {$/;"	c
-site-button	_sass/layout.scss	/^.site-button:hover {$/;"	c
-site-footer	_sass/_site/layout.scss	/^.site-footer {$/;"	c
+site-button	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
 site-footer	_sass/custom/custom.scss	/^.site-footer {$/;"	c
-site-footer	_sass/l.scss	/^.site-footer {$/;"	c
-site-footer	_sass/layout.scss	/^.site-footer {$/;"	c
-site-header	_sass/_site/layout.scss	/^.site-header {$/;"	c
-site-header	_sass/_site/layout.scss	/^.site-header,$/;"	c
+site-footer	_sass/custom/custom_backup.scss	/^.site-footer {$/;"	c
 site-header	_sass/custom/custom.scss	/^  .site-header .site-button {$/;"	c
 site-header	_sass/custom/custom.scss	/^.site-header {$/;"	c
 site-header	_sass/custom/custom.scss	/^.site-header,$/;"	c
-site-header	_sass/l.scss	/^.site-header {$/;"	c
-site-header	_sass/l.scss	/^.site-header,$/;"	c
-site-header	_sass/layout.scss	/^.site-header {$/;"	c
-site-header	_sass/layout.scss	/^.site-header,$/;"	c
-site-logo	_sass/_site/layout.scss	/^  .site-logo {$/;"	c
-site-logo	_sass/l.scss	/^  .site-logo {$/;"	c
-site-logo	_sass/layout.scss	/^  .site-logo {$/;"	c
-site-nav	_sass/_site/layout.scss	/^.site-nav {$/;"	c
-site-nav	_sass/_site/layout.scss	/^.site-nav,$/;"	c
+site-header	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
+site-header	_sass/custom/custom_backup.scss	/^.site-header {$/;"	c
+site-header	_sass/custom/custom_backup.scss	/^.site-header,$/;"	c
 site-nav	_sass/custom/custom.scss	/^.site-nav {$/;"	c
 site-nav	_sass/custom/custom.scss	/^.site-nav,$/;"	c
-site-nav	_sass/l.scss	/^.site-nav {$/;"	c
-site-nav	_sass/l.scss	/^.site-nav,$/;"	c
-site-nav	_sass/layout.scss	/^.site-nav {$/;"	c
-site-nav	_sass/layout.scss	/^.site-nav,$/;"	c
+site-nav	_sass/custom/custom_backup.scss	/^.site-nav {$/;"	c
+site-nav	_sass/custom/custom_backup.scss	/^.site-nav,$/;"	c
 site-nav	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 site-nav	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 site-nav	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+site-nav	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 site-nav	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-site-nav	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-site-title	_sass/_site/layout.scss	/^.site-title {$/;"	c
-site-title	_sass/_site/layout.scss	/^.site-title:hover {$/;"	c
+site-nav	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 site-title	_sass/custom/custom.scss	/^.site-title {$/;"	c
-site-title	_sass/l.scss	/^.site-title {$/;"	c
-site-title	_sass/l.scss	/^.site-title:hover {$/;"	c
-site-title	_sass/layout.scss	/^.site-title {$/;"	c
-site-title	_sass/layout.scss	/^.site-title:hover {$/;"	c
+site-title	_sass/custom/custom_backup.scss	/^.site-title {$/;"	c
 small	_site/assets/css/just-the-docs-dark.css	/^small { font-size: 80%; }$/;"	s
 small	_site/assets/css/just-the-docs-default.css	/^small { font-size: 80%; }$/;"	s
 small	_site/assets/css/just-the-docs-light.css	/^small { font-size: 80%; }$/;"	s
-staffer	_sass/_site/custom/staffer.scss	/^.staffer {$/;"	c
-staffer	_sass/custom/staffer.scss	/^.staffer {$/;"	c
-staffer-image	_sass/_site/custom/staffer.scss	/^  .staffer-image {$/;"	c
-staffer-image	_sass/custom/staffer.scss	/^  .staffer-image {$/;"	c
-staffer-meta	_sass/_site/custom/staffer.scss	/^  .staffer-meta {$/;"	c
-staffer-meta	_sass/custom/staffer.scss	/^  .staffer-meta {$/;"	c
-staffer-name	_sass/_site/custom/staffer.scss	/^  .staffer-name {$/;"	c
-staffer-name	_sass/custom/staffer.scss	/^  .staffer-name {$/;"	c
-staffer-pronouns	_sass/_site/custom/staffer.scss	/^  .staffer-pronouns {$/;"	c
-staffer-pronouns	_sass/custom/staffer.scss	/^  .staffer-pronouns {$/;"	c
 strong	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/;"	s
 strong	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 strong	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s
@@ -5819,45 +5736,40 @@ sup	_site/assets/css/just-the-docs-light.css	/^sup { top: -0.5em; }$/;"	s
 svg-arrow-right	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-arrow-right	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-arrow-right	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-arrow-right	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-doc	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_layouts/minimal.html	/^    <symbol id="svg-link" viewBox="0 0 24 24">$/;"	I
 svg-link	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-link	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-link	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-link	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-link	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-menu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-menu	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-menu	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-search	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-search	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 table	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-default.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
 table	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-light.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
-table-wrapper	_sass/c.scss	/^    + .table-wrapper,$/;"	c
-table-wrapper	_sass/c.scss	/^    .table-wrapper {$/;"	c
-table-wrapper	_sass/c.scss	/^  .table-wrapper {$/;"	c
-table-wrapper	_sass/content.scss	/^    + .table-wrapper,$/;"	c
-table-wrapper	_sass/content.scss	/^    .table-wrapper {$/;"	c
-table-wrapper	_sass/content.scss	/^  .table-wrapper {$/;"	c
-task-list-item	_sass/c.scss	/^  .task-list-item {$/;"	c
-task-list-item	_sass/content.scss	/^  .task-list-item {$/;"	c
-task-list-item-checkbox	_sass/c.scss	/^  .task-list-item-checkbox {$/;"	c
-task-list-item-checkbox	_sass/content.scss	/^  .task-list-item-checkbox {$/;"	c
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-dark.css	/^tbody tr:last-of-type td { padding-bottom: 0.75rem; }$/;"	s
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-dark.css	/^tbody tr:last-of-type th, tbody tr:last-of-type td { border-bottom: 0; }$/;"	s
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-default.css	/^tbody tr:last-of-type td { padding-bottom: 0.75rem; }$/;"	s
@@ -5899,30 +5811,33 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th { border-bottom: 1px
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th { border-bottom: 1px solid #44434d; }$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 third-workshop-on-seeking-low-dimensionality-in-deep-neural-networks-slowdnn	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-time	_sass/_site/custom/schedule.scss	/^    .time,$/;"	c
-time	_sass/custom/schedule.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "All talks will be livestreamed and recorded to broaden participation",$/;"	s	object:11
+time	_sass/custom/calendar.scss	/^    .time,$/;"	c
+title	_site/assets/js/search-data.json	/^    "title": "All talks will be livestreamed and recorded to broaden participation",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "All talks will be livestreamed and recorded to broaden participation",$/;"	s	object:3
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:7
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:10
 title	_site/assets/js/search-data.json	/^    "title": "Contact",$/;"	s	object:5
+title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Homepage",$/;"	s	object:6
-title	_site/assets/js/search-data.json	/^    "title": "Instructors",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:1
-title	_site/assets/js/search-data.json	/^    "title": "Lectures",$/;"	s	object:12
+title	_site/assets/js/search-data.json	/^    "title": "Monday",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "Organization Team",$/;"	s	object:4
-title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:13
+title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:16
+title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:18
 title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Third Workshop on Seeking Low-Dimensionality in Deep Neural Networks (SLowDNN)",$/;"	s	object:0
+title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:14
+title	_site/assets/js/search-data.json	/^    "title": "Tuesday",$/;"	s	object:12
+title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:9
 title	_site/assets/js/search-data.json	/^    "title": "Week 1 Announcement",$/;"	s	object:8
-toctitle	_sass/c.scss	/^  #toctitle {$/;"	i
-toctitle	_sass/content.scss	/^  #toctitle {$/;"	i
 top	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+top	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-top	_site/staff/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+top	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 type	_site/assets/css/just-the-docs-dark.css	/^[type="checkbox"], [type="radio"] { box-sizing: border-box; \/* 1 *\/ padding: 0; \/* 2 *\/ }$/;"	s
 type	_site/assets/css/just-the-docs-dark.css	/^[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button { height:/;"	s
 type	_site/assets/css/just-the-docs-dark.css	/^[type="search"] { -webkit-appearance: textfield; \/* 1 *\/ outline-offset: -2px; \/* 2 *\/ }$/;"	s
@@ -5950,9 +5865,12 @@ ul	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquo
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/announcements\/",$/;"	s	object:7
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/announcements\/",$/;"	s	object:8
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/announcements\/",$/;"	s	object:9
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:10
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:11
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:12
-url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/#all-talks-will-be-livestreamed-and-recorded-to-b/;"	s	object:11
-url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/#calendar",$/;"	s	object:10
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:13
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:14
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/calendar\/",$/;"	s	object:15
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html",$/;"	s	object:6
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html#all-talks-will-be-livestreamed-and-recorded-to-b/;"	s	object:3
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html#contact",$/;"	s	object:5
@@ -5960,10 +5878,12 @@ url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/inde
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html#organization-team",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html#tentative-schedule",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/index.html#third-workshop-on-seeking-low-dimensionality-in-/;"	s	object:0
-url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/past_workshops\/",$/;"	s	object:13
-url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/staff\/",$/;"	s	object:14
-{% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/staffer.html	/^    <\/h3>$/;"	j
-{{ day.name }}	_layouts/schedule.html	/^      <h2 class="schedule-header">{{ day.name }}<\/h2>$/;"	i
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/organizers\/",$/;"	s	object:16
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/past_workshops\/",$/;"	s	object:17
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/schedule\/",$/;"	s	object:18
+url	_site/assets/js/search-data.json	/^    "url": "http:\/\/localhost:4000\/schedule\/#all-talks-will-be-livestreamed-and-recorded-to-b/;"	s	object:19
+{% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
+{{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
 {{ page.title | slugify }}	_layouts/module.html	/^<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}<\/h2>$/;"	I
 {{ page.title }}	_layouts/announcement.html	/^  <h2>{{ page.title }}<\/h2>$/;"	i
 {{ page.title }}	_layouts/module.html	/^<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}<\/h2>$/;"	i

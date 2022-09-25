@@ -25,7 +25,7 @@
   },"4": {
     "doc": "Homepage",
     "title": "Organization Team",
-    "content": "Atlas Wang . UT Austin . Chong You . Google NYC . Eric P. Xing . Carnegie Mellon University and MBZUAI . Jeremias Sulam . Johns Hopkins University . John Wright . Columbia University . Karthik Nandakumar . MBZUAI . Qing Qu . University of Michigan . Sam Buchanan . TTIC . Saiprasad Ravishankar . Michigan State University . Yuejie Chi . Carnegie Mellon University . Yi Ma . UC Berkeley . Yuqian Zhang . Rutgers University . Zhihui Zhu . Ohio State University . ",
+    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "http://localhost:4000/index.html#organization-team",
     "relUrl": "/index.html#organization-team"
   },"5": {
@@ -59,34 +59,64 @@
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"10": {
-    "doc": "Lectures",
+    "doc": "Calendar",
     "title": "Calendar",
-    "content": " ",
-    "url": "http://localhost:4000/calendar/#calendar",
-    "relUrl": "/calendar/#calendar"
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
   },"11": {
-    "doc": "Lectures",
-    "title": "All talks will be livestreamed and recorded to broaden participation",
-    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be on recent progress in low-dimensional models for high-dimensional data, and will be based on an ICASSP 2022 short course with additional material. | . Day 2, Tuesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in signal processing, harmonic analysis | Coffee breaks for discussion | Afternoon poster session | . Day 3, Wednesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in neuroscience, learning theory | Coffee breaks for discussion | Afternoon poster session | . Day 4, Thursday Invited Talks and Panel Discussion . | Plenaries and Invited Talks in applications and systems | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Day 5, Friday Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
-    "url": "http://localhost:4000/calendar/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation",
-    "relUrl": "/calendar/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation"
+    "doc": "Calendar",
+    "title": "Monday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
   },"12": {
-    "doc": "Lectures",
-    "title": "Lectures",
-    "content": " ",
+    "doc": "Calendar",
+    "title": "Tuesday",
+    "content": "| ",
     "url": "http://localhost:4000/calendar/",
     "relUrl": "/calendar/"
   },"13": {
+    "doc": "Calendar",
+    "title": "Wednesday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Thursday",
+    "content": "| ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"15": {
+    "doc": "Calendar",
+    "title": "Friday",
+    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "url": "http://localhost:4000/calendar/",
+    "relUrl": "/calendar/"
+  },"16": {
+    "doc": "Organizers",
+    "title": "Organizers",
+    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
+    "url": "http://localhost:4000/organizers/",
+    "relUrl": "/organizers/"
+  },"17": {
     "doc": "Past workshops",
     "title": "Past workshops",
     "content": ". | 2021 | 2020 | . ",
     "url": "http://localhost:4000/past_workshops/",
     "relUrl": "/past_workshops/"
-  },"14": {
-    "doc": "Instructors",
-    "title": "Instructors",
+  },"18": {
+    "doc": "Schedule",
+    "title": "Schedule",
     "content": " ",
-    "url": "http://localhost:4000/staff/",
-    "relUrl": "/staff/"
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"19": {
+    "doc": "Schedule",
+    "title": "All talks will be livestreamed and recorded to broaden participation",
+    "content": "Day 1, Monday Welcome Session and Educational Tutorial . | The tutorial will be on recent progress in low-dimensional models for high-dimensional data, and will be based on an ICASSP 2022 short course with additional material. | . Day 2, Tuesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in signal processing, harmonic analysis | Coffee breaks for discussion | Afternoon poster session | . Day 3, Wednesday Invited Talks and Poster Presentations . | Plenaries and Invited Talks in neuroscience, learning theory | Coffee breaks for discussion | Afternoon poster session | . Day 4, Thursday Invited Talks and Panel Discussion . | Plenaries and Invited Talks in applications and systems | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Day 5, Friday Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
+    "url": "http://localhost:4000/schedule/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation",
+    "relUrl": "/schedule/#all-talks-will-be-livestreamed-and-recorded-to-broaden-participation"
   }
 }

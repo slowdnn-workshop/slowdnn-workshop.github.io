@@ -1,4 +1,4 @@
-.schedule {
+.calendar {
   @include abstract-card();
   overflow-x: scroll;
   position: relative;
@@ -7,20 +7,20 @@
     display: none;
   }
 
-  ul.schedule-timeline,
-  ul.schedule-group,
-  ul.schedule-events {
+  ul.calendar-timeline,
+  ul.calendar-group,
+  ul.calendar-events {
     margin-top: 0;
     padding-left: 0;
   }
 
-  ul.schedule-timeline {
+  ul.calendar-timeline {
     margin: 40px auto 0;
     position: absolute;
     width: 100%;
   }
 
-  .schedule-time {
+  .calendar-time {
     @extend .fs-2;
     color: $grey-dk-000;
     height: 40px;
@@ -39,13 +39,13 @@
     }
   }
 
-  .schedule-group {
+  .calendar-group {
     display: flex;
     margin-bottom: 0;
     position: relative;
   }
 
-  .schedule-day {
+  .calendar-day {
     border-left: $border $border-color;
     flex: 1 0 0;
     margin: 0;
@@ -56,7 +56,7 @@
     }
   }
 
-  h2.schedule-header {
+  h2.calendar-header {
     align-items: center;
     display: flex;
     font-size: 18px !important;
@@ -65,13 +65,13 @@
     margin: 0;
   }
 
-  .schedule-events {
+  .calendar-events {
     display: flex;
     padding: 0;
     position: relative;
   }
 
-  .schedule-event {
+  .calendar-event {
     background-color: $grey-dk-000;
     border-radius: $border-radius;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .1), inset 0 -3px 0 rgba(0, 0, 0, .2);

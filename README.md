@@ -2,6 +2,11 @@
 layout: home
 title: Homepage
 nav_exclude: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ma.jpeg
+excerpt: "qqqqqqqqqqqqqq"
 permalink: index.html
 ---
 
@@ -49,7 +54,7 @@ deep learning, with low-dimensionality as a unifying focus.
 
 # Organization Team
 
-{% include people.html %}
+{% include organizers.html %}
 
 # Contact
 

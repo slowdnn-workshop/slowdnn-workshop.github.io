@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Lectures
-description: Listing of course lectures, with links to slides
+title: Calendar
+description: Calendar view of the workshop program
 nav_exclude: true
 ---
 
 # Calendar
 
-{% for module in site.modules %}
-{{ module }}
+{% for calendar in site.calendars %}
+{{ calendar }}
 {% endfor %}
