@@ -3,7 +3,10 @@ layout: page
 title: Past workshops
 description: Links to all past iterations of SLowDNN
 nav_exclude: false
+nav_order: 100
 ---
+
+{% include splash.html %}
 
 # Past workshops
 
