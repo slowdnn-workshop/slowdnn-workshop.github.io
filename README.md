@@ -7,21 +7,26 @@ permalink: index.html
 
 {% include splash.html %}
 
-# Join Us in Abu Dhabi from 3-7 January 2023!
+**Join Us in Abu Dhabi from 3-7 January 2023!**
+{: .text-center .fs-7 }
 
-[Submit your work](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop) by
-10/30/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop).
+*[Submit your work](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop) by
+10/30/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop).*
+{: .text-center .fs-6 }
 
 See [the call for papers]({{site.base}}/submission) for guidelines and
 more details about submitting.
+{: .text-center .fs-5 }
 
-Each accepted paper will receive a travel grant to attend the workshop.  See
-[the travel page]({{site.base}}/travel) for more details.
+Each accepted paper will receive a [travel grant]({{site.base}}/travel) to
+attend the workshop.
+{: .text-center .fs-5 }
 
 ## Key Dates and Deadlines
 
 - Workshop dates: **3rd - 7th January, 2023**; in person at
   [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
+- Submission portal opens: **October 1st, 2022**
 - Abstract submission deadline: **October 30th, 2022**
 - Acceptance notification: **November 7th, 2022**
 

@@ -1,181 +1,199 @@
 {"0": {
     "doc": "Homepage",
-    "title": "Join Us in Abu Dhabi from 3-7 January 2023!",
-    "content": "Submit your work by 10/30/2022 on OpenReview. See the call for papers for guidelines and more details about submitting. Each accepted paper will receive a travel grant to attend the workshop. See the travel page for more details. ",
-    "url": "/index.html#join-us-in-abu-dhabi-from-3-7-january-2023",
-    "relUrl": "/index.html#join-us-in-abu-dhabi-from-3-7-january-2023"
-  },"1": {
-    "doc": "Homepage",
     "title": "Key Dates and Deadlines",
-    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | . ",
+    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | . ",
     "url": "/index.html#key-dates-and-deadlines",
     "relUrl": "/index.html#key-dates-and-deadlines"
-  },"2": {
+  },"1": {
     "doc": "Homepage",
     "title": "Workshop Abstract",
     "content": "In the past decade, deep learning has demonstrated unprecedented performance across many different domains. Modern neural networks learn high-performing nonlinear representations for complex multi-modal data (e.g. text and image) without labels; they generate near-photorealistic high-resolution images from random noise; and they efficiently reconstruct data from compressive, corrupted measurements in various imaging and structural prediction tasks. However, despite recent endeavors, the underlying principles behind their success remain shrouded in mystery. At a fundamental level, each of these successes, and numerous others in scientific and engineering applications, stem from the low-dimensional structure present both in the training data and in the networks themselves. This presents a significant opportunity to bring insights from better-understood low-dimensional models to the setting of deep learning, where models are notoriously plagued by issues of poor resource and data efficiency, robustness, and generalization. Given these exciting but relatively less-exploited connections, this workshop aims to bring together experts in machine learning, applied mathematics, signal processing, and optimization, to share recent progress and foster collaborations on the mathematical foundations of deep learning. As the community continues to embrace the power of deep learning, with unprecedented new challenges in terms of modeling and interpretability, we hope to stimulate vibrant discussions towards bridging the gap between the theory and practice of deep learning, with low-dimensionality as a unifying focus. ",
     "url": "/index.html#workshop-abstract",
     "relUrl": "/index.html#workshop-abstract"
-  },"3": {
+  },"2": {
     "doc": "Homepage",
     "title": "Confirmed Distinguished Speakers",
     "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"4": {
+  },"3": {
     "doc": "Homepage",
     "title": "Confirmed Speakers",
     "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"5": {
+  },"4": {
     "doc": "Homepage",
     "title": "Tentative Schedule",
     "content": " ",
     "url": "/index.html#tentative-schedule",
     "relUrl": "/index.html#tentative-schedule"
-  },"6": {
+  },"5": {
     "doc": "Homepage",
     "title": "",
     "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutorial will be on recent progress in low-dimensional models for high-dimensional data, based on an ICASSP 2022 short course. | . | The second tutorial will be on sparse and self-expressive deep neural networks, led by Atlas Wang and Chong You. | . Wednesday, January 4 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Thursday, January 5 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Friday, January 6 Invited Talks and Panel Discussion . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Saturday, January 7 Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"7": {
+  },"6": {
     "doc": "Homepage",
     "title": "Organizers",
     "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "/index.html#organizers",
     "relUrl": "/index.html#organizers"
-  },"8": {
+  },"7": {
     "doc": "Homepage",
     "title": "Homepage",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Submit your work by 10/30/2022 on OpenReview. See the call for papers for guidelines and more details about submitting. Each accepted paper will receive a travel grant to attend the workshop. ",
     "url": "/index.html",
     "relUrl": "/index.html"
-  },"9": {
+  },"8": {
     "doc": "Announcements",
     "title": "Announcements",
     "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"10": {
+  },"9": {
     "doc": "Announcements",
     "title": "Week 1 Announcement",
     "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"11": {
+  },"10": {
     "doc": "Announcements",
     "title": "Week 0 Announcement",
     "content": "Apr 1 &middot; 0 min read Hello world! . ",
     "url": "/announcements/",
     "relUrl": "/announcements/"
-  },"12": {
+  },"11": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"13": {
+  },"12": {
     "doc": "Calendar",
     "title": "Monday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"14": {
+  },"13": {
     "doc": "Calendar",
     "title": "Tuesday",
     "content": "| ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"15": {
+  },"14": {
     "doc": "Calendar",
     "title": "Wednesday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"16": {
+  },"15": {
     "doc": "Calendar",
     "title": "Thursday",
     "content": "| ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"17": {
+  },"16": {
     "doc": "Calendar",
     "title": "Friday",
     "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
     "url": "/calendar/",
     "relUrl": "/calendar/"
-  },"18": {
+  },"17": {
     "doc": "Organizers",
     "title": "Organizers",
     "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
     "url": "/organizers/#organizers",
     "relUrl": "/organizers/#organizers"
-  },"19": {
+  },"18": {
     "doc": "Organizers",
     "title": "Organizers",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/organizers/",
     "relUrl": "/organizers/"
-  },"20": {
+  },"19": {
     "doc": "Past workshops",
     "title": "Past workshops",
     "content": ". | 2021 | 2020 | . ",
     "url": "/past_workshops/#past-workshops",
     "relUrl": "/past_workshops/#past-workshops"
-  },"21": {
+  },"20": {
     "doc": "Past workshops",
     "title": "Past workshops",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/past_workshops/",
     "relUrl": "/past_workshops/"
-  },"22": {
+  },"21": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
     "url": "/schedule/#schedule",
     "relUrl": "/schedule/#schedule"
-  },"23": {
+  },"22": {
     "doc": "Schedule",
     "title": "",
     "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutorial will be on recent progress in low-dimensional models for high-dimensional data, based on an ICASSP 2022 short course. | . | The second tutorial will be on sparse and self-expressive deep neural networks, led by Atlas Wang and Chong You. | . Wednesday, January 4 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Thursday, January 5 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Friday, January 6 Invited Talks and Panel Discussion . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Saturday, January 7 Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"24": {
+  },"23": {
     "doc": "Schedule",
     "title": "Schedule",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/schedule/",
     "relUrl": "/schedule/"
-  },"25": {
+  },"24": {
     "doc": "Speakers",
     "title": "Confirmed Distinguished Speakers",
     "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
-  },"26": {
+  },"25": {
     "doc": "Speakers",
     "title": "Confirmed Speakers",
     "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
-  },"27": {
+  },"26": {
     "doc": "Speakers",
     "title": "Speakers",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
+  },"27": {
+    "doc": "Submission",
+    "title": "Key Dates",
+    "content": ". | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | . ",
+    "url": "/submission/#key-dates",
+    "relUrl": "/submission/#key-dates"
   },"28": {
     "doc": "Submission",
+    "title": "Submission Instructions",
+    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . ",
+    "url": "/submission/#submission-instructions",
+    "relUrl": "/submission/#submission-instructions"
+  },"29": {
+    "doc": "Submission",
+    "title": "Topics of Interest",
+    "content": "Topics of interest include, but are not limited to, connections between low-dimensional models and the theory, architectures, algorithms, and applications of deep neural networks: . | Theory: approximation, generalization, robustness, compact and structured representations | Optimization: Benign non-convex optimization, implicit bias analysis, convergence guarantees | Architectures: compact/model-based/neuro-inspired/invariant neural networks | Algorithms: pruning, sparse training, robust training | Applications: generative models, resource/data-efficient learning, inverse problems | . ",
+    "url": "/submission/#topics-of-interest",
+    "relUrl": "/submission/#topics-of-interest"
+  },"30": {
+    "doc": "Submission",
     "title": "Submission",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/submission/",
     "relUrl": "/submission/"
-  },"29": {
+  },"31": {
+    "doc": "Travel",
+    "title": "Travel Support",
+    "content": "We will provide travel support to all accepted papers (submit work here). Please check this page frequently for additional information about travel support for workshop participants. ",
+    "url": "/travel/#travel-support",
+    "relUrl": "/travel/#travel-support"
+  },"32": {
     "doc": "Travel",
     "title": "Travel",
-    "content": "Third Workshop on Seeking&nbsp;Low-Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking&nbsp;Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks (SLowDNN) January 2023,&nbsp;MBZUAI ",
     "url": "/travel/",
     "relUrl": "/travel/"
   }
