@@ -12,11 +12,11 @@ permalink: index.html
 [Submit your work](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop) by
 10/30/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop).
 
-See [the call for papers]({{site.base}}/submission.html) for guidelines and
+See [the call for papers]({{site.base}}/submission) for guidelines and
 more details about submitting.
 
 Each accepted paper will receive a travel grant to attend the workshop.  See
-[the travel page]({{site.base}}/travel.html) for more details.
+[the travel page]({{site.base}}/travel) for more details.
 
 ## Key Dates and Deadlines
 
