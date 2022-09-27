@@ -1,6 +1,6 @@
 ---
 name: Michael Elad
-role: Distinguished Speaker
+role: Speaker
 website: https://elad.cs.technion.ac.il/
 affiliation: Technion
 photo: elad.jpeg

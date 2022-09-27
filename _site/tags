@@ -5225,8 +5225,6 @@ Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lan
 Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Confirmed Distinguished Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Confirmed Distinguished Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	_includes/speakers.html	/^<h1>Confirmed Speakers<\/h1>$/;"	h
 Confirmed Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5481,6 +5479,8 @@ code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:21
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:4
+content	_site/assets/js/search-data.json	/^    "content": "--> ",$/;"	s	object:2
+content	_site/assets/js/search-data.json	/^    "content": "--> ",$/;"	s	object:24
 content	_site/assets/js/search-data.json	/^    "content": ". | 2021 | 2020 | . ",$/;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 1/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:12
@@ -5494,10 +5494,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min 
 content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Ch/;"	s	object:17
 content	_site/assets/js/search-data.json	/^    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Ch/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "In the past decade, deep learning has demonstrated unprecedented performance acr/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Pogg/;"	s	object:2
-content	_site/assets/js/search-data.json	/^    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Pogg/;"	s	object:24
-content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of/;"	s	object:25
-content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:25
+content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:23
