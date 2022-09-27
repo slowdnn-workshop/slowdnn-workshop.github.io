@@ -5177,6 +5177,7 @@
 30	_site/assets/js/search-data.json	/^  },"30": {$/;"	o
 31	_site/assets/js/search-data.json	/^  },"31": {$/;"	o
 32	_site/assets/js/search-data.json	/^  },"32": {$/;"	o
+33	_site/assets/js/search-data.json	/^  },"33": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
@@ -5256,6 +5257,7 @@ Friday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta
 Gitta Kutyniok	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Gitta Kutyniok	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Homepage | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+How to Submit Your Work	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5338,8 +5340,8 @@ Search	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Simon Du	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Speakers | SLowDNN Workshop	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Submission Guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
-Submission Instructions	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5501,13 +5503,14 @@ content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on See
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:26
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:32
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:29
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutor/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutor/;"	s	object:5
-content	_site/assets/js/search-data.json	/^    "content": "We will provide travel support to all accepted papers (submit work here). Please/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": "We will provide travel support to all accepted papers (submit work here). Please/;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:28
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:15
@@ -5565,6 +5568,7 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	objec
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:28
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:29
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:30
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:31
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:2
@@ -5583,8 +5587,8 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Schedule",$/;"	s	object:23
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:25
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:26
-doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:31
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:32
+doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:33
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
@@ -5672,6 +5676,7 @@ h6	_site/assets/css/just-the-docs-light.css	/^h6, .text-zeta { font-size: 11px !
 hidden	_site/assets/css/just-the-docs-dark.css	/^[hidden] { display: none; }$/;"	s
 hidden	_site/assets/css/just-the-docs-default.css	/^[hidden] { display: none; }$/;"	s
 hidden	_site/assets/css/just-the-docs-light.css	/^[hidden] { display: none; }$/;"	s
+how-to-submit-your-work	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 hr	_site/assets/css/just-the-docs-dark.css	/^hr { box-sizing: content-box; \/* 1 *\/ height: 0; \/* 1 *\/ overflow: visible; \/* 2 *\/ }$/;"	s
 hr	_site/assets/css/just-the-docs-dark.css	/^hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #44434d; border: 0; }$/;"	s
 hr	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5850,12 +5855,13 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#schedule"$
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:24
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:25
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:26
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:30
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:31
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:28
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#key-dates"$/;"	s	object:27
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-instructions"$/;"	s	object:28
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:30
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:29
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:32
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:31
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:33
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:32
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
@@ -5906,7 +5912,7 @@ sub	_site/assets/css/just-the-docs-default.css	/^sub { bottom: -0.25em; }$/;"	s
 sub	_site/assets/css/just-the-docs-default.css	/^sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }$/;"	s
 sub	_site/assets/css/just-the-docs-light.css	/^sub { bottom: -0.25em; }$/;"	s
 sub	_site/assets/css/just-the-docs-light.css	/^sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }$/;"	s
-submission-instructions	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+submission-guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 summary	_site/assets/css/just-the-docs-dark.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	s
 summary	_site/assets/css/just-the-docs-dark.css	/^.btn-outline, summary { color: #2c84fa; background: transparent; box-shadow: inset 0 0 0 2px #e6/;"	s
 summary	_site/assets/css/just-the-docs-dark.css	/^iframe, summary { max-width: 100%; }$/;"	s
@@ -6112,13 +6118,14 @@ title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:22
 title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:11
-title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:30
+title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:24
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:3
 title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:16
 title	_site/assets/js/search-data.json	/^    "title": "Homepage",$/;"	s	object:7
+title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:28
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Monday",$/;"	s	object:12
@@ -6130,12 +6137,12 @@ title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	ob
 title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:21
 title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:23
 title	_site/assets/js/search-data.json	/^    "title": "Speakers",$/;"	s	object:26
-title	_site/assets/js/search-data.json	/^    "title": "Submission Instructions",$/;"	s	object:28
+title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:30
 title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:29
-title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:31
-title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:32
+title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:32
+title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:33
 title	_site/assets/js/search-data.json	/^    "title": "Tuesday",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:10
@@ -6204,12 +6211,13 @@ url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#schedule",$/;"	s
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:24
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:25
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:30
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:28
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#key-dates",$/;"	s	object:27
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-instructions",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:30
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:29
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:32
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:33
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:32
 workshop-abstract	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j

@@ -51,8 +51,8 @@ We aim to showcase:
 Concretely, we ask members of the community to submit an **extended abstract**
 (one page, without references) describing the work. 
 Please also upload a short (250 word) abstract to OpenReview.
-Abstracts should follow the NeurIPS 2022 style files, available
-[here](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles).
+Abstracts should follow the IEEEtran style files in conference mode,
+available [here](https://www.ieee.org/conferences/publishing/templates.html).
 
 OpenReview submissions may also include any of the following supplemental
 materials that describe the work in further detail. 
@@ -63,6 +63,8 @@ materials that describe the work in further detail.
 This workshop is non-archival, and it will not have proceedings. We permit
 under-review or concurrent submissions. 
 
+Reviewing will be performed in a single-blind fashion (authors need not
+anonymize their submissions).
 Accepted works will be invited for in-person poster presentation at the workshop
 at [MBZUAI](https://mbzuai.ac.ae/). See [the travel
 page]({{site.baseurl}}/travel) for information about travel support to accepted
