@@ -5384,12 +5384,12 @@ a.skip-to-main:active	_site/assets/css/just-the-docs-light.css	/^a.skip-to-main:
 a.skip-to-main:focus	_site/assets/css/just-the-docs-dark.css	/^a.skip-to-main:focus, a.skip-to-main:active { color: #2c84fa; background-color: #27262b; left: a/;"	c
 a.skip-to-main:focus	_site/assets/css/just-the-docs-default.css	/^a.skip-to-main:focus, a.skip-to-main:active { color: #7253ed; background-color: #fff; left: auto/;"	c
 a.skip-to-main:focus	_site/assets/css/just-the-docs-light.css	/^a.skip-to-main:focus, a.skip-to-main:active { color: #7253ed; background-color: #fff; left: auto/;"	c
-a:not([class] )	_site/assets/css/just-the-docs-dark.css	/^a:not([class]) { text-decoration: none; background-image: linear-gradient(#44434d 0%, #44434d 10/;"	s
-a:not([class] )	_site/assets/css/just-the-docs-default.css	/^a:not([class]) { text-decoration: none; background-image: linear-gradient(#eeebee 0%, #eeebee 10/;"	s
-a:not([class] )	_site/assets/css/just-the-docs-light.css	/^a:not([class]) { text-decoration: none; background-image: linear-gradient(#eeebee 0%, #eeebee 10/;"	s
-a:not([class] ):hover	_site/assets/css/just-the-docs-dark.css	/^a:not([class]):hover { background-image: linear-gradient(rgba(44, 132, 250, 0.45) 0%, rgba(44, 1/;"	s
-a:not([class] ):hover	_site/assets/css/just-the-docs-default.css	/^a:not([class]):hover { background-image: linear-gradient(rgba(114, 83, 237, 0.45) 0%, rgba(114, /;"	s
-a:not([class] ):hover	_site/assets/css/just-the-docs-light.css	/^a:not([class]):hover { background-image: linear-gradient(rgba(114, 83, 237, 0.45) 0%, rgba(114, /;"	s
+a:not([class] )	_site/assets/css/just-the-docs-dark.css	/^a:not([class]) { text-decoration: underline; text-decoration-color: #44434d; text-underline-offs/;"	s
+a:not([class] )	_site/assets/css/just-the-docs-default.css	/^a:not([class]) { text-decoration: underline; text-decoration-color: #eeebee; text-underline-offs/;"	s
+a:not([class] )	_site/assets/css/just-the-docs-light.css	/^a:not([class]) { text-decoration: underline; text-decoration-color: #eeebee; text-underline-offs/;"	s
+a:not([class] ):hover	_site/assets/css/just-the-docs-dark.css	/^a:not([class]):hover { text-decoration-color: rgba(44, 132, 250, 0.45); }$/;"	s
+a:not([class] ):hover	_site/assets/css/just-the-docs-default.css	/^a:not([class]):hover { text-decoration-color: rgba(114, 83, 237, 0.45); }$/;"	s
+a:not([class] ):hover	_site/assets/css/just-the-docs-light.css	/^a:not([class]):hover { text-decoration-color: rgba(114, 83, 237, 0.45); }$/;"	s
 a:visited code	_site/assets/css/just-the-docs-dark.css	/^a:visited code { border-color: #44434d; }$/;"	s
 a:visited code	_site/assets/css/just-the-docs-default.css	/^a:visited code { border-color: #eeebee; }$/;"	s
 a:visited code	_site/assets/css/just-the-docs-light.css	/^a:visited code { border-color: #eeebee; }$/;"	s
@@ -5414,8 +5414,11 @@ b	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/
 b	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 b	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s
 back-to-top	_layouts/minimal_backup.html	/^            <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}<\/a><\/p>$/;"	I
+blockquote	_site/assets/css/just-the-docs-dark.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
 blockquote	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
+blockquote	_site/assets/css/just-the-docs-default.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
 blockquote	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
+blockquote	_site/assets/css/just-the-docs-light.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
 blockquote	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 body	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { body { position: static; padding-bottom: 0; } }$/;"	s
 body	_site/assets/css/just-the-docs-dark.css	/^body { font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica/;"	s

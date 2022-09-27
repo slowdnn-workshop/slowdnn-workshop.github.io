@@ -32,11 +32,9 @@ search_enabled: false
 heading_anchors: true
 permalink: pretty
 logo: "/assets/images/logo1.png"
-#aux_links:
-#  Kevin Lin:
-#    - 'https://kevinl.info'
-#  Just the Class on GitHub:
-#    - 'https://github.com/kevinlin1/just-the-class'
+aux_links:
+  Submit:
+    - 'https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop'
 #back_to_top: true
 #last_edit_timestamp: true
 

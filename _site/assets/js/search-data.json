@@ -161,26 +161,26 @@
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"27": {
-    "doc": "Submission",
+    "doc": "Call for Papers",
     "title": "Key Dates",
     "content": ". | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | . ",
     "url": "/submission/#key-dates",
     "relUrl": "/submission/#key-dates"
   },"28": {
-    "doc": "Submission",
+    "doc": "Call for Papers",
     "title": "Submission Instructions",
     "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . ",
     "url": "/submission/#submission-instructions",
     "relUrl": "/submission/#submission-instructions"
   },"29": {
-    "doc": "Submission",
+    "doc": "Call for Papers",
     "title": "Topics of Interest",
     "content": "Topics of interest include, but are not limited to, connections between low-dimensional models and the theory, architectures, algorithms, and applications of deep neural networks: . | Theory: approximation, generalization, robustness, compact and structured representations | Optimization: Benign non-convex optimization, implicit bias analysis, convergence guarantees | Architectures: compact/model-based/neuro-inspired/invariant neural networks | Algorithms: pruning, sparse training, robust training | Applications: generative models, resource/data-efficient learning, inverse problems | . ",
     "url": "/submission/#topics-of-interest",
     "relUrl": "/submission/#topics-of-interest"
   },"30": {
-    "doc": "Submission",
-    "title": "Submission",
+    "doc": "Call for Papers",
+    "title": "Call for Papers",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",
     "url": "/submission/",
     "relUrl": "/submission/"

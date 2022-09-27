@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Submission
+title: Call for Papers
 description: Call for papers and submission information
 nav_order: 0
 ---
