@@ -5222,9 +5222,9 @@ Bihan Wen	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><m
 Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Calendar	calendar.md	/^# Calendar$/;"	c
 Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Confirmed Distinguished Speakers	_includes/speakers.html	/^<h1>Confirmed Distinguished Speakers<\/h1>$/;"	h
 Confirmed Distinguished Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Distinguished Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	_includes/speakers.html	/^<h1>Confirmed Speakers<\/h1>$/;"	h
@@ -5341,7 +5341,6 @@ Simon Du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 Speakers | SLowDNN Workshop	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Submission Instructions	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Instructions	submission.md	/^# Submission Instructions$/;"	c
-Submission | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5563,6 +5562,10 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:13
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:14
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:16
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:27
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:28
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:29
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Homepage",$/;"	s	object:2
@@ -5581,10 +5584,6 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Schedule",$/;"	s	object:23
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:25
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:26
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission",$/;"	s	object:27
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission",$/;"	s	object:28
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission",$/;"	s	object:29
-doc	_site/assets/js/search-data.json	/^    "doc": "Submission",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:31
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:32
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
@@ -6114,6 +6113,7 @@ title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:22
 title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:11
+title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:30
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:24
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:25
@@ -6132,7 +6132,6 @@ title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:23
 title	_site/assets/js/search-data.json	/^    "title": "Speakers",$/;"	s	object:26
 title	_site/assets/js/search-data.json	/^    "title": "Submission Instructions",$/;"	s	object:28
-title	_site/assets/js/search-data.json	/^    "title": "Submission",$/;"	s	object:30
 title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:29

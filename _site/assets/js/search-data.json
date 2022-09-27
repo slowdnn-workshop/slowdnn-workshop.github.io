@@ -7,19 +7,19 @@
   },"1": {
     "doc": "Homepage",
     "title": "Workshop Abstract",
-    "content": "In the past decade, deep learning has demonstrated unprecedented performance across many different domains. Modern neural networks learn high-performing nonlinear representations for complex multi-modal data (e.g. text and image) without labels; they generate near-photorealistic high-resolution images from random noise; and they efficiently reconstruct data from compressive, corrupted measurements in various imaging and structural prediction tasks. However, despite recent endeavors, the underlying principles behind their success remain shrouded in mystery. At a fundamental level, each of these successes, and numerous others in scientific and engineering applications, stem from the low-dimensional structure present both in the training data and in the networks themselves. This presents a significant opportunity to bring insights from better-understood low-dimensional models to the setting of deep learning, where models are notoriously plagued by issues of poor resource and data efficiency, robustness, and generalization. Given these exciting but relatively less-exploited connections, this workshop aims to bring together experts in machine learning, applied mathematics, signal processing, and optimization, to share recent progress and foster collaborations on the mathematical foundations of deep learning. As the community continues to embrace the power of deep learning, with unprecedented new challenges in terms of modeling and interpretability, we hope to stimulate vibrant discussions towards bridging the gap between the theory and practice of deep learning, with low-dimensionality as a unifying focus. ",
+    "content": "In the past decade, deep learning has demonstrated unprecedented performance across many different domains. Modern neural networks learn high-performing nonlinear representations for complex multi-modal data (e.g. text and image) without labels; they generate near-photorealistic high-resolution images from random noise; and they efficiently reconstruct data from compressive, corrupted measurements in various imaging and structural prediction tasks. However, despite recent endeavors, the underlying principles behind their success remain shrouded in mystery. At a fundamental level, each of these successes, and numerous others in scientific and engineering applications, stem from the low-dimensional structure present both in the training data and in the networks themselves. This presents a significant opportunity to bring insights from better-understood low-dimensional models to the setting of deep learning, where models are notoriously plagued by issues of poor resource and data efficiency, robustness, and generalization. Given these exciting but relatively less-exploited connections, this workshop aims to bring together experts in machine learning, applied mathematics, signal processing, and optimization, to share recent progress and foster collaborations on the mathematical foundations of deep learning. As the community continues to embrace the power of deep learning, with unprecedented new challenges in terms of modeling and interpretability, we hope to stimulate vibrant discussions towards bridging the gap between the theory and practice of deep learning, with low-dimensionality as a unifying focus. <!-- ",
     "url": "/index.html#workshop-abstract",
     "relUrl": "/index.html#workshop-abstract"
   },"2": {
     "doc": "Homepage",
     "title": "Confirmed Distinguished Speakers",
-    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . ",
+    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . --> ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"3": {
     "doc": "Homepage",
     "title": "Confirmed Speakers",
-    "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
+    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Michael Elad . Technion . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"4": {
@@ -145,19 +145,19 @@
   },"24": {
     "doc": "Speakers",
     "title": "Confirmed Distinguished Speakers",
-    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . ",
+    "content": "Michael Bronstein . University of Oxford . Michael Elad . Technion . Tomaso Poggio . MIT . --> ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"25": {
     "doc": "Speakers",
     "title": "Confirmed Speakers",
-    "content": "Misha Belkin . UC San Diego . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
+    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Michael Elad . Technion . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"26": {
     "doc": "Speakers",
     "title": "Speakers",
-    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",
+    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI <!-- ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"27": {
