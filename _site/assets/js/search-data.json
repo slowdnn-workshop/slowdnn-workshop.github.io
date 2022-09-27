@@ -168,10 +168,10 @@
     "relUrl": "/submission/#key-dates"
   },"28": {
     "doc": "Call for Papers",
-    "title": "Submission Instructions",
-    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . ",
-    "url": "/submission/#submission-instructions",
-    "relUrl": "/submission/#submission-instructions"
+    "title": "How to Submit Your Work",
+    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . See the submission guidelines. ",
+    "url": "/submission/#how-to-submit-your-work",
+    "relUrl": "/submission/#how-to-submit-your-work"
   },"29": {
     "doc": "Call for Papers",
     "title": "Topics of Interest",
@@ -180,17 +180,23 @@
     "relUrl": "/submission/#topics-of-interest"
   },"30": {
     "doc": "Call for Papers",
+    "title": "Submission Guidelines",
+    "content": "We aim to showcase: . | The latest research innovations at all stages of the research process, from work-in-progress to recently published papers | Position or survey papers on any topics relevant to this workshop (see the call above) | . Concretely, we ask members of the community to submit an extended abstract (one page, without references) describing the work. Please also upload a short (250 word) abstract to OpenReview. Abstracts should follow the NeurIPS 2022 style files, available here. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail. | A poster (in PDF form) presenting results of work-in-progress. | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This workshop is non-archival, and it will not have proceedings. We permit under-review or concurrent submissions. Accepted works will be invited for in-person poster presentation at the workshop at MBZUAI. See the travel page for information about travel support to accepted papers. ",
+    "url": "/submission/#submission-guidelines",
+    "relUrl": "/submission/#submission-guidelines"
+  },"31": {
+    "doc": "Call for Papers",
     "title": "Call for Papers",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",
     "url": "/submission/",
     "relUrl": "/submission/"
-  },"31": {
+  },"32": {
     "doc": "Travel",
     "title": "Travel Support",
     "content": "We will provide travel support to all accepted papers (submit work here). Please check this page frequently for additional information about travel support for workshop participants. ",
     "url": "/travel/#travel-support",
     "relUrl": "/travel/#travel-support"
-  },"32": {
+  },"33": {
     "doc": "Travel",
     "title": "Travel",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",

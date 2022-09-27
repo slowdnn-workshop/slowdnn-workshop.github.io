@@ -5256,6 +5256,7 @@ Friday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta
 Gitta Kutyniok	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Gitta Kutyniok	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Homepage | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5337,8 +5338,8 @@ Search	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Simon Du	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Speakers | SLowDNN Workshop	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
 Submission Instructions	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Submission Instructions	submission.md	/^# Submission Instructions$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
