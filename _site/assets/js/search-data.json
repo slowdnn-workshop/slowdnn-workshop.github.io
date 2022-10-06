@@ -1,49 +1,49 @@
 {"0": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "Key Dates and Deadlines",
-    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | . ",
+    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Submission portal opens: October 1st, 2022 | Paper submission deadline: October 30th, 2022 | Acceptance and travel grant notification: November 7th, 2022 | . The top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
     "url": "/index.html#key-dates-and-deadlines",
     "relUrl": "/index.html#key-dates-and-deadlines"
   },"1": {
-    "doc": "Homepage",
-    "title": "Workshop Abstract",
+    "doc": "Home",
+    "title": "Workshop Themes",
     "content": "In the past decade, deep learning has demonstrated unprecedented performance across many different domains. Modern neural networks learn high-performing nonlinear representations for complex multi-modal data (e.g. text and image) without labels; they generate near-photorealistic high-resolution images from random noise; and they efficiently reconstruct data from compressive, corrupted measurements in various imaging and structural prediction tasks. However, despite recent endeavors, the underlying principles behind their success remain shrouded in mystery. At a fundamental level, each of these successes, and numerous others in scientific and engineering applications, stem from the low-dimensional structure present both in the training data and in the networks themselves. This presents a significant opportunity to bring insights from better-understood low-dimensional models to the setting of deep learning, where models are notoriously plagued by issues of poor resource and data efficiency, robustness, and generalization. Given these exciting but relatively less-exploited connections, this workshop aims to bring together experts in machine learning, applied mathematics, signal processing, and optimization, to share recent progress and foster collaborations on the mathematical foundations of deep learning. As the community continues to embrace the power of deep learning, with unprecedented new challenges in terms of modeling and interpretability, we hope to stimulate vibrant discussions towards bridging the gap between the theory and practice of deep learning, with low-dimensionality as a unifying focus. <!-- ",
-    "url": "/index.html#workshop-abstract",
-    "relUrl": "/index.html#workshop-abstract"
+    "url": "/index.html#workshop-themes",
+    "relUrl": "/index.html#workshop-themes"
   },"2": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "Confirmed Distinguished Speakers",
     "content": "--> ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"3": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "Confirmed Speakers",
-    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Michael Elad . Technion . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
+    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Michael Elad . Technion . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"4": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "Tentative Schedule",
     "content": " ",
     "url": "/index.html#tentative-schedule",
     "relUrl": "/index.html#tentative-schedule"
   },"5": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "",
     "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutorial will be on recent progress in low-dimensional models for high-dimensional data, based on an ICASSP 2022 short course. | . | The second tutorial will be on sparse and self-expressive deep neural networks, led by Atlas Wang and Chong You. | . Wednesday, January 4 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Thursday, January 5 Invited Talks and Poster Presentations . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon poster session | . Friday, January 6 Invited Talks and Panel Discussion . | Plenaries and Invited Talks | Coffee breaks for discussion | Afternoon panel discussion (additional details TBA) | . Saturday, January 7 Social Events . | Local tour of Abu Dhabi or day tour of Dubai for networking | . ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"6": {
-    "doc": "Homepage",
+    "doc": "Home",
     "title": "Organizers",
-    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Karthik Nandakumar . MBZUAI . Local Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
     "url": "/index.html#organizers",
     "relUrl": "/index.html#organizers"
   },"7": {
-    "doc": "Homepage",
-    "title": "Homepage",
-    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Submit your work by 10/30/2022 on OpenReview. See the call for papers for guidelines and more details about submitting. Each accepted paper will receive a travel grant to attend the workshop. ",
+    "doc": "Home",
+    "title": "Home",
+    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Submit your work by 10/30/2022 on OpenReview. See the call for papers for guidelines and more details about submitting. Travel grants are available for authors of accepted papers. Registration for in-person and remote participants will open in late November. ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"8": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Organizers",
     "title": "Organizers",
-    "content": "Atlas Wang . UT Austin . Program Chair . Chong You . Google NYC . Publication Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Jeremias Sulam . Johns Hopkins University . Program Chair . John Wright . Columbia University . Program Chair . Karthik Nandakumar . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Yi Ma . UC Berkeley . General Chair . Yuqian Zhang . Rutgers University . Program Chair . Zhihui Zhu . Ohio State University . Publication Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Karthik Nandakumar . MBZUAI . Local Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
     "url": "/organizers/#organizers",
     "relUrl": "/organizers/#organizers"
   },"18": {
@@ -151,7 +151,7 @@
   },"25": {
     "doc": "Speakers",
     "title": "Confirmed Speakers",
-    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Michael Elad . Technion . Laurent El Ghaoui . UC Berkeley . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
+    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi Chen . Meta . Ivan Dokmanić . University of Basel . Simon Du . University of Washington . Laurent El Ghaoui . UC Berkeley . Michael Elad . Technion . Reinhard Heckel . TU Munich . Gitta Kutyniok . LMU Munich . Qi Lei . NYU . Rina Panigrahy . Google . Tomaso Poggio . MIT . Ohad Shamir . Weizmann Institute . Mahdi Soltanolkotabi . USC . Daniel Soudry . Technion . Weijie Su . UPenn . René Vidal . Johns Hopkins . Bihan Wen . NTU . Fanny Yang . ETH Zurich . ",
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"26": {
@@ -163,40 +163,46 @@
   },"27": {
     "doc": "Call for Papers",
     "title": "Key Dates",
-    "content": ". | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance notification: November 7th, 2022 | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | . ",
+    "content": ". | Submission portal opens: October 1st, 2022 | Abstract submission deadline: October 30th, 2022 | Acceptance and travel grant notification: November 7th, 2022 | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | . ",
     "url": "/submission/#key-dates",
     "relUrl": "/submission/#key-dates"
   },"28": {
     "doc": "Call for Papers",
     "title": "How to Submit Your Work",
-    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . See the submission guidelines. ",
+    "content": "We will use OpenReview to manage submissions. Submit your work here: . https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop . See the submission guidelines and topics of interest. ",
     "url": "/submission/#how-to-submit-your-work",
     "relUrl": "/submission/#how-to-submit-your-work"
   },"29": {
+    "doc": "Call for Papers",
+    "title": "Logistics for Accepted Papers",
+    "content": "Accepted works will be expected to present a poster describing the work in-person at the workshop at MBZUAI. Travel grants are available to support authors of accepted papers: see the travel page for details. A small subset of the top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
+    "url": "/submission/#logistics-for-accepted-papers",
+    "relUrl": "/submission/#logistics-for-accepted-papers"
+  },"30": {
     "doc": "Call for Papers",
     "title": "Topics of Interest",
     "content": "Topics of interest include, but are not limited to, connections between low-dimensional models and the theory, architectures, algorithms, and applications of deep neural networks: . | Theory: approximation, generalization, robustness, compact and structured representations | Optimization: Benign non-convex optimization, implicit bias analysis, convergence guarantees | Architectures: compact/model-based/neuro-inspired/invariant neural networks | Algorithms: pruning, sparse training, robust training | Applications: generative models, resource/data-efficient learning, inverse problems | . ",
     "url": "/submission/#topics-of-interest",
     "relUrl": "/submission/#topics-of-interest"
-  },"30": {
+  },"31": {
     "doc": "Call for Papers",
     "title": "Submission Guidelines",
-    "content": "We aim to showcase: . | The latest research innovations at all stages of the research process, from work-in-progress to recently published papers | Position or survey papers on any topics relevant to this workshop (see the call above) | . Concretely, we ask members of the community to submit an extended abstract (one page, without references) describing the work. Please also upload a short (250 word) abstract to OpenReview. Abstracts should follow the IEEEtran style files in conference mode, available here. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail. | A poster (in PDF form) presenting results of work-in-progress. | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This workshop is non-archival, and it will not have proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors need not anonymize their submissions). Accepted works will be invited for in-person poster presentation at the workshop at MBZUAI. See the travel page for information about travel support to accepted papers. ",
+    "content": "We aim to showcase: . | The latest research innovations at all stages of the research process, from work-in-progress to recently published papers | Position or survey papers on any topics relevant to this workshop (see the call above) | . Concretely, we ask members of the community to submit a conference-style paper (from four to eight pages, with extra pages for references) describing the work. Please also upload a short (250 word) abstract to OpenReview. Do not anonymize submissions. Papers should be written using the NeurIPS 2022 style files, available here. OpenReview submissions may also include any of the following supplemental materials that describe the work in further detail. | A poster (in PDF form) presenting results of work-in-progress. | A link to a blog post (e.g., distill.pub, Medium) describing results. | Appendices with detailed derivations and additional experiments. | . This workshop is non-archival, and it will not have proceedings. We permit under-review or concurrent submissions. Reviewing will be performed in a single-blind fashion (authors should not anonymize their submissions). ",
     "url": "/submission/#submission-guidelines",
     "relUrl": "/submission/#submission-guidelines"
-  },"31": {
+  },"32": {
     "doc": "Call for Papers",
     "title": "Call for Papers",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",
     "url": "/submission/",
     "relUrl": "/submission/"
-  },"32": {
+  },"33": {
     "doc": "Travel",
     "title": "Travel Support",
-    "content": "We will provide travel support to all accepted papers (submit work here). Please check this page frequently for additional information about travel support for workshop participants. ",
+    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to forty authors of accepted papers. All accepted papers will be considered for a travel grant. Accepted papers are expected to be presented in-person. To submit work, see the submission page. Travel grants will be announced concurrently with paper acceptances. Staff at MBZUAI will assist grant recipients with securing their travel. ",
     "url": "/travel/#travel-support",
     "relUrl": "/travel/#travel-support"
-  },"33": {
+  },"34": {
     "doc": "Travel",
     "title": "Travel",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",

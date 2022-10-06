@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Homepage
-nav_exclude: true
+title: Home
 permalink: index.html
+nav_order: 0
 ---
 
 {% include splash.html %}
@@ -15,11 +15,14 @@ permalink: index.html
 {: .text-center .fs-6 }
 
 See [the call for papers]({{site.base}}/submission) for guidelines and
-more details about submitting.
+more details about submitting.  
 {: .text-center .fs-5 }
 
-Each accepted paper will receive a [travel grant]({{site.base}}/travel) to
-attend the workshop.
+[Travel grants]({{site.base}}/travel) are available for authors of accepted
+papers.
+{: .text-center .fs-5 }
+
+Registration for in-person and remote participants will open in late November.
 {: .text-center .fs-5 }
 
 ## Key Dates and Deadlines
@@ -27,10 +30,15 @@ attend the workshop.
 - Workshop dates: **3rd - 7th January, 2023**; in person at
   [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
 - Submission portal opens: **October 1st, 2022**
-- Abstract submission deadline: **October 30th, 2022**
-- Acceptance notification: **November 7th, 2022**
+- Paper submission deadline: **October 30th, 2022**
+- Acceptance and travel grant notification: **November 7th, 2022**
 
-# Workshop Abstract
+The top accepted papers will
+be recommended for inclusion in a future special issue of the IEEE Journal of
+Selected Topics in Signal Processing.
+
+
+# Workshop Themes
 
 In the past decade, deep learning has demonstrated unprecedented performance
 across many different domains. Modern neural networks learn high-performing

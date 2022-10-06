@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 description: Call for papers and submission information
-nav_order: 0
+nav_order: 1
 ---
 
 {% include splash.html %}
@@ -11,7 +11,7 @@ nav_order: 0
 
 - Submission portal opens: **October 1st, 2022**
 - Abstract submission deadline: **October 30th, 2022**
-- Acceptance notification: **November 7th, 2022**
+- Acceptance and travel grant notification: **November 7th, 2022**
 - Workshop dates: **3rd - 7th January, 2023**; in person at
   [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
 
@@ -23,7 +23,21 @@ We will use OpenReview to manage submissions. Submit your work here:
 [https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop)
 {: .text-center .fs-6 }
 
-See the [submission guidelines](#submission-guidelines).
+See the [submission guidelines](#submission-guidelines) and
+[topics of interest](#topics-of-interest).
+
+# Logistics for Accepted Papers
+
+Accepted works will be expected to present a poster describing the work
+in-person at the workshop at [MBZUAI](https://mbzuai.ac.ae/). 
+
+Travel grants are available to support authors of accepted papers: 
+see [the travel page]({{site.baseurl}}/travel) for details.
+
+A small subset of the top accepted papers will be recommended for inclusion in
+a future special issue of the IEEE Journal of Selected Topics in Signal
+Processing.
+
 
 # Topics of Interest
 
@@ -48,11 +62,14 @@ We aim to showcase:
 - **Position or survey papers** on any topics relevant to this workshop (see
   [the call above](#topics-of-interest))
 
-Concretely, we ask members of the community to submit an **extended abstract**
-(one page, without references) describing the work. 
-Please also upload a short (250 word) abstract to OpenReview.
-Abstracts should follow the IEEEtran style files in conference mode,
-available [here](https://www.ieee.org/conferences/publishing/templates.html).
+Concretely, we ask members of the community to submit a **conference-style
+paper**
+(from four to eight pages, with extra pages for references) describing the work. 
+Please also upload a short (250 word) abstract to OpenReview.  Do not anonymize
+submissions.
+
+Papers should be written using the NeurIPS 2022 style files, available
+[here](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles).
 
 OpenReview submissions may also include any of the following supplemental
 materials that describe the work in further detail. 
@@ -63,9 +80,5 @@ materials that describe the work in further detail.
 This workshop is non-archival, and it will not have proceedings. We permit
 under-review or concurrent submissions. 
 
-Reviewing will be performed in a single-blind fashion (authors need not
+Reviewing will be performed in a single-blind fashion (authors should not
 anonymize their submissions).
-Accepted works will be invited for in-person poster presentation at the workshop
-at [MBZUAI](https://mbzuai.ac.ae/). See [the travel
-page]({{site.baseurl}}/travel) for information about travel support to accepted
-papers.

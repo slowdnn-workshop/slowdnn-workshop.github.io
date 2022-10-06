@@ -1,7 +1,8 @@
 <div style="clear: both; display: flex; flex-wrap: wrap; justify-content:
   flex-start;">
 
-  {% for organizer in site.organizers %}
+  {% assign organizers = site.organizers %}
+  {% for organizer in organizers %}
   {{ organizer }}
   {% endfor %}
 
