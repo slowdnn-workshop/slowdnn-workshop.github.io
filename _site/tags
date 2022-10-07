@@ -5397,7 +5397,6 @@ Saiprasad Ravishankar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="e
 Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Schedule	schedule.md	/^# Schedule$/;"	c
 Schedule | SLowDNN Workshop	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5411,11 +5410,13 @@ Search	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Simon Du	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Speakers | SLowDNN Workshop	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Sponsors	_includes/sponsors.html	/^<h1>Sponsors<\/h1>$/;"	h
 Submission Guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Tentative Schedule	schedule.md	/^# Tentative Schedule$/;"	c
 Thursday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tomaso Poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5578,8 +5579,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on See
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:34
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutor/;"	s	object:22
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | The first tutor/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:22
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:31
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:28
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University /;"	s	object:17
@@ -5978,6 +5979,7 @@ speaker-meta	_sass/custom/speaker.scss	/^  .speaker-meta {$/;"	c
 speaker-name	_sass/custom/speaker.scss	/^  .speaker-name {$/;"	c
 speaker-pronouns	_sass/custom/speaker.scss	/^  .speaker-pronouns {$/;"	c
 splash	_sass/custom/custom.scss	/^.splash {$/;"	c
+sponsor	_sass/custom/custom.scss	/^.sponsor {$/;"	c
 strong	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/;"	s
 strong	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 strong	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s

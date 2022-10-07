@@ -35,6 +35,8 @@ logo: "/assets/images/logo1.png"
 aux_links:
   Submit:
     - 'https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop'
+  Register:
+    - 'https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform'
 #back_to_top: true
 #last_edit_timestamp: true
 

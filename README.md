@@ -14,6 +14,9 @@ nav_order: 0
 10/30/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop).*
 {: .text-center .fs-6 }
 
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform) for in-person and remote participation.
+{: .text-center .fs-6 }
+
 See [the call for papers]({{site.base}}/submission) for guidelines and
 more details about submitting.  
 {: .text-center .fs-5 }
@@ -22,8 +25,6 @@ more details about submitting.
 papers.
 {: .text-center .fs-5 }
 
-Registration for in-person and remote participants will open in late November.
-{: .text-center .fs-5 }
 
 ## Key Dates and Deadlines
 
@@ -77,4 +78,6 @@ deep learning, with low-dimensionality as a unifying focus.
 # Organizers
 
 {% include organizers.html %}
+
+{% include sponsors.html %}
 

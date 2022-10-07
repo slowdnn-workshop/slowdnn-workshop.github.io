@@ -7,7 +7,7 @@ nav_order: 2
 
 {% include splash.html %}
 
-# Schedule
+# Tentative Schedule
 
 {% for module in site.modules %}
 {{ module }}
