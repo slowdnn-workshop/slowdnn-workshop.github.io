@@ -5,8 +5,7 @@ title: ""
 Tuesday, January 3
 : Welcome Session and Educational Tutorials
   : 
-: - The first tutorial will be on recent progress in low-dimensional models for high-dimensional data, based on an [ICASSP 2022 short course](https://highdimdata-lowdimmodels-tutorial.github.io/).
-: - The second tutorial will be on sparse and self-expressive deep neural networks, led by Atlas Wang and Chong You.
+: - Tutorial on recent progress in low-dimensional models for high-dimensional data, based on an [ICASSP 2022 short course](https://highdimdata-lowdimmodels-tutorial.github.io/) with additional material on sparse neural networks and on self-expressive models.
 
 Wednesday, January 4
 : Invited Talks and Poster Presentations
