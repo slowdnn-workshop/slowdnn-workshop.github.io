@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sponsors
-description: Sponsoring organizations of the workshop
+title: Host Institution
+description: Information about the hosts of the workshop
 nav_order: 10
 ---
 

@@ -37,13 +37,13 @@
   },"6": {
     "doc": "Home",
     "title": "Organizers",
-    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Karthik Nandakumar . MBZUAI . Local Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . ",
     "url": "/index.html#organizers",
     "relUrl": "/index.html#organizers"
   },"7": {
     "doc": "Home",
-    "title": "Sponsors",
-    "content": "We acknowledge the following organizations for their generous support of the workshop. ",
+    "title": "Host Institution",
+    "content": " ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"8": {
@@ -109,7 +109,7 @@
   },"18": {
     "doc": "Organizers",
     "title": "Organizers",
-    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Karthik Nandakumar . MBZUAI . Local Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . ",
     "url": "/organizers/#organizers",
     "relUrl": "/organizers/#organizers"
   },"19": {
@@ -167,14 +167,14 @@
     "url": "/speakers/",
     "relUrl": "/speakers/"
   },"28": {
-    "doc": "Sponsors",
-    "title": "Sponsors",
-    "content": "We acknowledge the following organizations for their generous support of the workshop. ",
+    "doc": "Host Institution",
+    "title": "Host Institution",
+    "content": " ",
     "url": "/sponsors/",
     "relUrl": "/sponsors/"
   },"29": {
-    "doc": "Sponsors",
-    "title": "Sponsors",
+    "doc": "Host Institution",
+    "title": "Host Institution",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",
     "url": "/sponsors/",
     "relUrl": "/sponsors/"
