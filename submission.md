@@ -9,11 +9,11 @@ nav_order: 1
 
 # Key Dates
 
-- Submission portal opens: **October 1st, 2022**
-- Abstract submission deadline: **October 30th, 2022**
-- Acceptance and travel grant notification: **November 7th, 2022**
 - Workshop dates: **3rd - 7th January, 2023**; in person at
   [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
+- Submission portal opens: **October 1st, 2022**
+- Paper submission deadline: **November 6th, 2022**
+- Acceptance and travel grant notification: **November 14th, 2022**
 
 
 # How to Submit Your Work

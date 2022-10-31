@@ -5341,7 +5341,7 @@ Home | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><he
 Host Institution	_includes/sponsors.html	/^<h1>Host Institution<\/h1>$/;"	h
 Host Institution	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Host Institution	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Host Organization | SLowDNN Workshop	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Host Institution | SLowDNN Workshop	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 How to Submit Your Work	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5677,8 +5677,8 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:6
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:8
-doc	_site/assets/js/search-data.json	/^    "doc": "Host Organization",$/;"	s	object:28
-doc	_site/assets/js/search-data.json	/^    "doc": "Host Organization",$/;"	s	object:29
+doc	_site/assets/js/search-data.json	/^    "doc": "Host Institution",$/;"	s	object:28
+doc	_site/assets/js/search-data.json	/^    "doc": "Host Institution",$/;"	s	object:29
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:18
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:19
 doc	_site/assets/js/search-data.json	/^    "doc": "Past workshops",$/;"	s	object:20
@@ -6246,8 +6246,8 @@ title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	
 title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:17
 title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:28
+title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:29
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:7
-title	_site/assets/js/search-data.json	/^    "title": "Host Organization",$/;"	s	object:29
 title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:30
