@@ -10,13 +10,6 @@ nav_order: 0
 **Join Us in Abu Dhabi from 3-7 January 2023!**
 {: .text-center .fs-7 }
 
-Deadline extended by one week!
-{: .text-center .fs-6 }
-
-*[Submit your work](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop) by
-11/6/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop).*
-{: .text-center .fs-6 }
-
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform) for in-person and remote participation.
 {: .text-center .fs-6 }
 

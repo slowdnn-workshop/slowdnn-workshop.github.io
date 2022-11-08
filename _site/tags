@@ -5585,8 +5585,8 @@ content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:17
-content	_site/assets/js/search-data.json	/^    "content": ". | Submission portal opens: October 1st, 2022 | Abstract submission deadline: O/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Su/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Su/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
