@@ -9,11 +9,11 @@ nav_order: 1
 
 # Key Dates
 
-- Workshop dates: **3rd - 7th January, 2023**; in person at
-  [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
+- Workshop dates: **3rd - 7th January, 2023**; in person at [W
+  Hotel](https://www.marriott.com/en-us/hotels/auhwh-w-abu-dhabi-yas-island/overview/), Abu Dhabi
 - Submission portal opens: **October 1st, 2022**
 - Paper submission deadline: **November 6th, 2022**
-- Acceptance and travel grant notification: **November 14th, 2022**
+- Acceptance and travel grant notification: **November 18th, 2022**
 
 
 # How to Submit Your Work
@@ -29,7 +29,7 @@ See the [submission guidelines](#submission-guidelines) and
 # Logistics for Accepted Papers
 
 Accepted works will be expected to present a poster describing the work
-in-person at the workshop at [MBZUAI](https://mbzuai.ac.ae/). 
+in-person at the workshop.
 
 Travel grants are available to support authors of accepted papers: 
 see [the travel page]({{site.baseurl}}/travel) for details.

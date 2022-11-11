@@ -5455,6 +5455,7 @@ Weijie Su	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta chars
 Weijie Su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Workshop Themes	README.md	/^# Workshop Themes$/;"	c
 Workshop Themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Venue	travel.md	/^# Workshop Venue$/;"	c
 Yi Ma	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yi Ma	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuejie Chi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5608,8 +5609,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 We
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:34
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:31
-content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University /;"	s	object:18
-content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University /;"	s	object:6
+content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:18
+content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:14
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:16
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v

@@ -1,7 +1,7 @@
 {"0": {
     "doc": "Home",
     "title": "Key Dates and Deadlines",
-    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Submission portal opens: October 1st, 2022 | Paper submission deadline: November 6th, 2022 | Acceptance and travel grant notification: November 14th, 2022 | . The top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
+    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | Submission portal opens: October 1st, 2022 | Paper submission deadline: November 6th, 2022 | Acceptance and travel grant notification: November 18th, 2022 | . The top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
     "url": "/index.html#key-dates-and-deadlines",
     "relUrl": "/index.html#key-dates-and-deadlines"
   },"1": {
@@ -37,7 +37,7 @@
   },"6": {
     "doc": "Home",
     "title": "Organizers",
-    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Local) . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
     "url": "/index.html#organizers",
     "relUrl": "/index.html#organizers"
   },"7": {
@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Home",
     "title": "Home",
-    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Register here for in-person and remote participation. See the call for papers for guidelines and more details about submitting. Travel grants are available for authors of accepted papers. ",
+    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Register here for in-person and remote participation. The workshop will be held at the W Abu Dhabi Hotel at Yas Island. See the call for papers for guidelines and more details about submitting. Travel grants are available for authors of accepted papers. ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"9": {
@@ -109,7 +109,7 @@
   },"18": {
     "doc": "Organizers",
     "title": "Organizers",
-    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . Carnegie Mellon University and MBZUAI . General Chair (Local) . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . ",
+    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Local) . Samuel Horvath . MBZUAI . Local Chair . Karthik Nandakumar . MBZUAI . Local Chair . Martin Takáč . MBZUAI . Local Chair . Qing Qu . University of Michigan . Program Chair and Publication Chair . Jeremias Sulam . Johns Hopkins University . Program Chair . Atlas Wang . UT Austin . Program Chair . John Wright . Columbia University . Program Chair . Yuqian Zhang . Rutgers University . Program Chair . Yuejie Chi . Carnegie Mellon University . Publicity Chair . Chong You . Google NYC . Publication Chair . Zhihui Zhu . Ohio State University . Publication Chair . Sam Buchanan . TTIC . Tutorial Chair . Saiprasad Ravishankar . Michigan State University . Online Chair . ",
     "url": "/organizers/#organizers",
     "relUrl": "/organizers/#organizers"
   },"19": {
@@ -181,7 +181,7 @@
   },"30": {
     "doc": "Call for Papers",
     "title": "Key Dates",
-    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Submission portal opens: October 1st, 2022 | Paper submission deadline: November 6th, 2022 | Acceptance and travel grant notification: November 14th, 2022 | . ",
+    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | Submission portal opens: October 1st, 2022 | Paper submission deadline: November 6th, 2022 | Acceptance and travel grant notification: November 18th, 2022 | . ",
     "url": "/submission/#key-dates",
     "relUrl": "/submission/#key-dates"
   },"31": {
@@ -193,7 +193,7 @@
   },"32": {
     "doc": "Call for Papers",
     "title": "Logistics for Accepted Papers",
-    "content": "Accepted works will be expected to present a poster describing the work in-person at the workshop at MBZUAI. Travel grants are available to support authors of accepted papers: see the travel page for details. A small subset of the top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
+    "content": "Accepted works will be expected to present a poster describing the work in-person at the workshop. Travel grants are available to support authors of accepted papers: see the travel page for details. A small subset of the top accepted papers will be recommended for inclusion in a future special issue of the IEEE Journal of Selected Topics in Signal Processing. ",
     "url": "/submission/#logistics-for-accepted-papers",
     "relUrl": "/submission/#logistics-for-accepted-papers"
   },"33": {
@@ -221,6 +221,12 @@
     "url": "/travel/#travel-support",
     "relUrl": "/travel/#travel-support"
   },"37": {
+    "doc": "Travel",
+    "title": "Workshop Venue",
+    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of rooms will be made available for reservation to workshop attendees. Please check back frequently for additional information. ",
+    "url": "/travel/#workshop-venue",
+    "relUrl": "/travel/#workshop-venue"
+  },"38": {
     "doc": "Travel",
     "title": "Travel",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",

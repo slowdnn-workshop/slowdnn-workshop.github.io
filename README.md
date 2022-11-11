@@ -13,6 +13,10 @@ nav_order: 0
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform) for in-person and remote participation.
 {: .text-center .fs-6 }
 
+The workshop will be held at the [W Abu Dhabi
+Hotel]({{site.base}}/travel#workshop-venue) at Yas Island.
+{: .text-center .fs-6 }
+
 See [the call for papers]({{site.base}}/submission) for guidelines and
 more details about submitting.  
 {: .text-center .fs-5 }
@@ -22,13 +26,15 @@ papers.
 {: .text-center .fs-5 }
 
 
+
+
 ## Key Dates and Deadlines
 
-- Workshop dates: **3rd - 7th January, 2023**; in person at
-  [MBZUAI](https://mbzuai.ac.ae/), Abu Dhabi 
+- Workshop dates: **3rd - 7th January, 2023**; in person at [W
+  Hotel](https://www.marriott.com/en-us/hotels/auhwh-w-abu-dhabi-yas-island/overview/), Abu Dhabi
 - Submission portal opens: **October 1st, 2022**
 - Paper submission deadline: **November 6th, 2022**
-- Acceptance and travel grant notification: **November 14th, 2022**
+- Acceptance and travel grant notification: **November 18th, 2022**
 
 The top accepted papers will
 be recommended for inclusion in a future special issue of the IEEE Journal of
