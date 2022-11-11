@@ -10,20 +10,30 @@ nav_order: 0
 **Join Us in Abu Dhabi from 3-7 January 2023!**
 {: .text-center .fs-7 }
 
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform) for in-person and remote participation.
+
+Announcing the workshop venue: [W Abu Dhabi
+Hotel]({{site.base}}/travel#workshop-venue) at Yas Island
 {: .text-center .fs-6 }
 
-The workshop will be held at the [W Abu Dhabi
-Hotel]({{site.base}}/travel#workshop-venue) at Yas Island.
+[Register
+here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform)
+for in-person and remote participation
 {: .text-center .fs-6 }
+
+*[Submit your work]({{site.base}}/submission) by
+11/6/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop)*
+{: .text-center .fs-6 }
+
+<!---
 
 See [the call for papers]({{site.base}}/submission) for guidelines and
-more details about submitting.  
+more details about submitting
 {: .text-center .fs-5 }
 
 [Travel grants]({{site.base}}/travel) are available for authors of accepted
-papers.
+papers
 {: .text-center .fs-5 }
+-->
 
 
 

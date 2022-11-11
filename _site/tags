@@ -5257,6 +5257,7 @@
 35	_site/assets/js/search-data.json	/^  },"35": {$/;"	o
 36	_site/assets/js/search-data.json	/^  },"36": {$/;"	o
 37	_site/assets/js/search-data.json	/^  },"37": {$/;"	o
+38	_site/assets/js/search-data.json	/^  },"38": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
@@ -5455,6 +5456,7 @@ Weijie Su	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta chars
 Weijie Su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Workshop Themes	README.md	/^# Workshop Themes$/;"	c
 Workshop Themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Workshop Venue	travel.md	/^# Workshop Venue$/;"	c
 Yi Ma	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yi Ma	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5586,8 +5588,8 @@ content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:17
-content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Su/;"	s	object:0
-content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at MBZUAI, Abu Dhabi | Su/;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:0
+content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
@@ -5596,13 +5598,14 @@ content	_site/assets/js/search-data.json	/^    "content": "In the past decade, d
 content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:36
 content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:26
 content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:3
+content	_site/assets/js/search-data.json	/^    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of roo/;"	s	object:37
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:21
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:24
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:27
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:29
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:35
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:38
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:23
@@ -5692,6 +5695,7 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:26
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:27
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:36
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:37
+doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:38
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
@@ -5972,8 +5976,9 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#key-date
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:32
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:34
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:33
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:37
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:38
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:36
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#workshop-venue"$/;"	s	object:37
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
@@ -6267,12 +6272,13 @@ title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	
 title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:16
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:33
 title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:36
-title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:37
+title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:38
 title	_site/assets/js/search-data.json	/^    "title": "Tuesday",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "Week 1 Announcement",$/;"	s	object:10
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Themes",$/;"	s	object:1
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Venue",$/;"	s	object:37
 top	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6346,9 +6352,11 @@ url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#key-dates",$/;
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:32
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:34
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:33
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:38
 url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:36
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#workshop-venue",$/;"	s	object:37
 workshop-themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+workshop-venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i
