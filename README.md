@@ -44,7 +44,7 @@ papers
   Hotel](https://www.marriott.com/en-us/hotels/auhwh-w-abu-dhabi-yas-island/overview/), Abu Dhabi
 - Submission portal opens: **October 1st, 2022**
 - Paper submission deadline: **November 6th, 2022**
-- Acceptance and travel grant notification: **November 18th, 2022**
+- Acceptance and travel grant notification: **November 20th, 2022**
 
 The top accepted papers will
 be recommended for inclusion in a future special issue of the IEEE Journal of
