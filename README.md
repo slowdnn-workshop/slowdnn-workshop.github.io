@@ -78,6 +78,10 @@ new challenges in terms of modeling and interpretability, we hope to stimulate
 vibrant discussions towards bridging the gap between the theory and practice of
 deep learning, with low-dimensionality as a unifying focus.
 
+# Confirmed Speakers
+
+Information on the speakers' planned talks is available [here]({{site.baseurl}}/speakers/#talk-details).
+
 {% include speakers.html %}
 
 # Tentative Schedule

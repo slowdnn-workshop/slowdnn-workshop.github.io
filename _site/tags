@@ -5258,6 +5258,7 @@
 36	_site/assets/js/search-data.json	/^  },"36": {$/;"	o
 37	_site/assets/js/search-data.json	/^  },"37": {$/;"	o
 38	_site/assets/js/search-data.json	/^  },"38": {$/;"	o
+39	_site/assets/js/search-data.json	/^  },"39": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
@@ -5287,6 +5288,7 @@
 ::selection	_site/assets/css/just-the-docs-dark.css	/^::selection { color: #fff; background: #2c84fa; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-default.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-light.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
+Abstract	speakers.md	/^#### Abstract$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Announcements	announcements.md	/^# Announcements$/;"	c
 Announcements | SLowDNN Workshop	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5306,9 +5308,10 @@ Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lan
 Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Confirmed Speakers	_includes/speakers.html	/^<h1>Confirmed Speakers<\/h1>$/;"	h
+Confirmed Speakers	README.md	/^# Confirmed Speakers$/;"	c
 Confirmed Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Confirmed Speakers	speakers.md	/^# Confirmed Speakers$/;"	c
 Daniel Soudry	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Daniel Soudry	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5436,11 +5439,14 @@ Speakers | SLowDNN Workshop	_site/speakers/index.html	/^<!DOCTYPE html><html lan
 Submission Guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
+Talk Details	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Talk Details	speakers.md	/^# Talk Details$/;"	c
 Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
 Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Tentative Schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Tentative Schedule	schedule.md	/^# Tentative Schedule$/;"	c
 Thursday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Title: {{ speaker.talk }}	speakers.md	/^#### Title: {{ speaker.talk }}$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tomaso Poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Topics of Interest	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5466,6 +5472,7 @@ Yuqian Zhang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta ch
 Yuqian Zhang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Zhihui Zhu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Zhihui Zhu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+[{{ speaker.name }}]({{ speaker.website }})	speakers.md	/^### [{{ speaker.name }}]({{ speaker.website }})$/;"	S	chapter:Talk Details
 a	_site/assets/css/just-the-docs-dark.css	/^a { background-color: transparent; }$/;"	s
 a	_site/assets/css/just-the-docs-dark.css	/^a { color: #2c84fa; text-decoration: none; }$/;"	s
 a	_site/assets/css/just-the-docs-default.css	/^a { background-color: transparent; }$/;"	s
@@ -5493,6 +5500,25 @@ a:visited code	_site/assets/css/just-the-docs-light.css	/^a:visited code { borde
 abbr[title]	_site/assets/css/just-the-docs-dark.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
 abbr[title]	_site/assets/css/just-the-docs-default.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
 abbr[title]	_site/assets/css/just-the-docs-light.css	/^abbr[title] { border-bottom: none; \/* 1 *\/ text-decoration: underline; \/* 2 *\/ text-decorati/;"	s
+abstract	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-1	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-10	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-11	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-12	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-13	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-14	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-15	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-16	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-17	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-18	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-2	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-3	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-4	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-5	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-6	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-7	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-8	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-9	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-card	_sass/custom/card.scss	/^@mixin abstract-card() {$/;"	m
 active	_sass/custom/custom_backup.scss	/^      &.active {$/;"	c
 active	_sass/custom/custom_backup.scss	/^    &.active {$/;"	c
@@ -5511,6 +5537,8 @@ b	_site/assets/css/just-the-docs-dark.css	/^b, strong { font-weight: bolder; }$/
 b	_site/assets/css/just-the-docs-default.css	/^b, strong { font-weight: bolder; }$/;"	s
 b	_site/assets/css/just-the-docs-light.css	/^b, strong { font-weight: bolder; }$/;"	s
 back-to-top	_layouts/minimal_backup.html	/^            <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}<\/a><\/p>$/;"	I
+beidi-chen	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+bihan-wen	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 blockquote	_site/assets/css/just-the-docs-dark.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
 blockquote	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 blockquote	_site/assets/css/just-the-docs-default.css	/^blockquote { margin: 10px 0; margin-block-start: 0; margin-inline-start: 0; padding-left: 15px; /;"	s
@@ -5577,47 +5605,51 @@ code	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: m
 code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
+confirmed-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+confirmed-speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:22
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:28
+content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:29
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:7
-content	_site/assets/js/search-data.json	/^    "content": "--> ",$/;"	s	object:2
-content	_site/assets/js/search-data.json	/^    "content": "--> ",$/;"	s	object:25
+content	_site/assets/js/search-data.json	/^    "content": "--> Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Bei/;"	s	object:26
+content	_site/assets/js/search-data.json	/^    "content": "--> Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Bei/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": ". | 2021 | 2020 | . ",$/;"	s	object:20
 content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 1/;"	s	object:12
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:15
 content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:17
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:0
-content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:32
+content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:2
+content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:25
+content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. |/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "In the past decade, deep learning has demonstrated unprecedented performance acr/;"	s	object:1
-content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:36
-content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:26
-content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Beidi C/;"	s	object:3
-content	_site/assets/js/search-data.json	/^    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of roo/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:37
+content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Title: Why do neural models need so many parameter/;"	s	object:27
+content	_site/assets/js/search-data.json	/^    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of roo/;"	s	object:38
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:19
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:21
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:24
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:27
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:29
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:35
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:38
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:28
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:36
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:39
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:8
-content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:33
+content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:34
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:23
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:5
-content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:34
-content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:31
+content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:35
+content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:6
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:14
 content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:16
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
+daniel-soudry	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 details	_site/assets/css/just-the-docs-dark.css	/^details { display: block; }$/;"	s
 details	_site/assets/css/just-the-docs-dark.css	/^details { margin: 0 40px 1em; }$/;"	s
 details	_site/assets/css/just-the-docs-default.css	/^details { display: block; }$/;"	s
@@ -5666,12 +5698,12 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:14
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:15
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:16
 doc	_site/assets/js/search-data.json	/^    "doc": "Calendar",$/;"	s	object:17
-doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:31
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:32
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:33
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:34
 doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:35
+doc	_site/assets/js/search-data.json	/^    "doc": "Call for Papers",$/;"	s	object:36
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:0
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:1
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:2
@@ -5681,8 +5713,8 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:5
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:6
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:7
 doc	_site/assets/js/search-data.json	/^    "doc": "Home",$/;"	s	object:8
-doc	_site/assets/js/search-data.json	/^    "doc": "Host Institution",$/;"	s	object:28
 doc	_site/assets/js/search-data.json	/^    "doc": "Host Institution",$/;"	s	object:29
+doc	_site/assets/js/search-data.json	/^    "doc": "Host Institution",$/;"	s	object:30
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:18
 doc	_site/assets/js/search-data.json	/^    "doc": "Organizers",$/;"	s	object:19
 doc	_site/assets/js/search-data.json	/^    "doc": "Past workshops",$/;"	s	object:20
@@ -5693,11 +5725,13 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Schedule",$/;"	s	object:24
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:25
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:26
 doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:27
-doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:36
+doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:28
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:37
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:38
+doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:39
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
+fanny-yang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 fieldset	_site/assets/css/just-the-docs-dark.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
 fieldset	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 fieldset	_site/assets/css/just-the-docs-default.css	/^fieldset { padding: 0.35em 0.75em 0.625em; }$/;"	s
@@ -5720,6 +5754,7 @@ form	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockqu
 form	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 form	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 getTheme	_site/assets/js/just-the-docs.js	/^jtd.getTheme = function() {$/;"	f	function:jtd
+gitta-kutyniok	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 h1	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { h1, .text-alpha { font-size: 36px !important; } }$/;"	s
 h1	_site/assets/css/just-the-docs-dark.css	/^h1 { font-size: 2em; margin: 0.67em 0; }$/;"	s
 h1	_site/assets/css/just-the-docs-dark.css	/^h1, .text-alpha { font-size: 32px !important; line-height: 1.25; font-weight: 300; }$/;"	s
@@ -5818,12 +5853,14 @@ input	_site/assets/css/just-the-docs-default.css	/^button, input { \/* 1 *\/ ove
 input	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^button, input { \/* 1 *\/ overflow: visible; }$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
+ivan-dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 kbd	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 key-dates	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 key-dates-and-deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 label	_sass/custom/card.scss	/^  .label {$/;"	c
+laurent-el-ghaoui	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 lecture	_sass/custom/calendar.scss	/^    &.lecture {$/;"	c
 legend	_site/assets/css/just-the-docs-dark.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 legend	_site/assets/css/just-the-docs-default.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
@@ -5833,6 +5870,7 @@ li	_site/assets/css/just-the-docs-default.css	/^li { margin: 0.25em 0; }$/;"	s
 li	_site/assets/css/just-the-docs-light.css	/^li { margin: 0.25em 0; }$/;"	s
 location	_sass/custom/calendar.scss	/^    .location {$/;"	c
 logistics-for-accepted-papers	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+mahdi-soltanolkotabi	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 main	_sass/custom/custom_backup.scss	/^.main {$/;"	c
 main	_site/assets/css/just-the-docs-dark.css	/^main { display: block; }$/;"	s
 main	_site/assets/css/just-the-docs-default.css	/^main { display: block; }$/;"	s
@@ -5885,6 +5923,9 @@ menu-button	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 menu-button	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+michael-bronstein	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+michael-elad	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+misha-belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
 module-item	_sass/custom/module.scss	/^    %module-item {$/;"	P
@@ -5906,6 +5947,7 @@ noscript .table-wrapper	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl,
 noscript .table-wrapper	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	c
 nsd4b0bd230101	_site/assets/images/search.svg	/^<svg width="28" height="28" viewBox="0 0 28 28" xmlns="http:\/\/www.w3.org\/2000\/svg"><title>Se/;"	n	uri:http://www.w3.org/2000/svg
 office-hours	_sass/custom/calendar.scss	/^    &.office-hours {$/;"	c
+ohad-shamir	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 ol	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ol	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ol	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -5940,6 +5982,8 @@ pre.highlight	_site/assets/css/just-the-docs-light.css	/^  pre.highlight { borde
 progress	_site/assets/css/just-the-docs-dark.css	/^progress { vertical-align: baseline; }$/;"	s
 progress	_site/assets/css/just-the-docs-default.css	/^progress { vertical-align: baseline; }$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress { vertical-align: baseline; }$/;"	s
+qi-lei	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+reinhard-heckel	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:10
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:11
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:9
@@ -5949,11 +5993,11 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	obj
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:15
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:16
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/calendar\/"$/;"	s	object:17
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:3
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:7
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	object:8
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#confirmed-speakers"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#key-dates-and-deadlines"$/;"	s	object:0
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#organizers"$/;"	s	object:6
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#tentative-schedule"$/;"	s	object:4
@@ -5965,21 +6009,24 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/#past
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:23
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:24
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#tentative-schedule"$/;"	s	object:22
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:25
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:26
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:27
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/"$/;"	s	object:28
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:28
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#confirmed-speakers"$/;"	s	object:25
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#talk-details"$/;"	s	object:27
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/"$/;"	s	object:29
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:35
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:31
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#key-dates"$/;"	s	object:30
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:32
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:34
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:33
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:38
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:36
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#workshop-venue"$/;"	s	object:37
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/sponsors\/"$/;"	s	object:30
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/"$/;"	s	object:36
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#how-to-submit-your-work"$/;"	s	object:32
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#key-dates"$/;"	s	object:31
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:33
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:35
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:34
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:39
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:37
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#workshop-venue"$/;"	s	object:38
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
+rené-vidal	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+rina-panigrahy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 samp	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 samp	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
@@ -5993,6 +6040,7 @@ select	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, selec
 select	_site/assets/css/just-the-docs-light.css	/^button, select { \/* 1 *\/ text-transform: none; }$/;"	s
 setTheme	_site/assets/js/just-the-docs.js	/^jtd.setTheme = function(theme) {$/;"	f	function:jtd
 side-bar	_sass/custom/custom_backup.scss	/^.side-bar {$/;"	c
+simon-du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 site-button	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
 site-footer	_sass/custom/custom_backup.scss	/^.site-footer {$/;"	c
 site-header	_sass/custom/custom_backup.scss	/^  .site-header .site-button {$/;"	c
@@ -6198,6 +6246,7 @@ table	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blo
 table	_site/assets/css/just-the-docs-default.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
 table	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-light.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
+talk-details	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-dark.css	/^tbody tr:last-of-type td { padding-bottom: 0.75rem; }$/;"	s
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-dark.css	/^tbody tr:last-of-type th, tbody tr:last-of-type td { border-bottom: 0; }$/;"	s
 tbody tr:last-of-type td	_site/assets/css/just-the-docs-default.css	/^tbody tr:last-of-type td { padding-bottom: 0.75rem; }$/;"	s
@@ -6244,20 +6293,20 @@ title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:23
 title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:9
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:12
-title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:35
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:2
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:25
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:26
-title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:3
+title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:36
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:26
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:3
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:2
+title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:17
 title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:8
-title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:28
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:29
+title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:30
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:7
-title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:31
+title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",$/;"	s	object:32
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:0
-title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:30
-title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:32
+title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:31
+title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:33
 title	_site/assets/js/search-data.json	/^    "title": "Monday",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:18
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:19
@@ -6265,20 +6314,41 @@ title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object
 title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:20
 title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:21
 title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:24
-title	_site/assets/js/search-data.json	/^    "title": "Speakers",$/;"	s	object:27
-title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:34
+title	_site/assets/js/search-data.json	/^    "title": "Speakers",$/;"	s	object:28
+title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:35
+title	_site/assets/js/search-data.json	/^    "title": "Talk Details",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:22
 title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:16
-title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:33
-title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:36
-title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:38
+title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:34
+title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:37
+title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:39
 title	_site/assets/js/search-data.json	/^    "title": "Tuesday",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "Week 1 Announcement",$/;"	s	object:10
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Themes",$/;"	s	object:1
-title	_site/assets/js/search-data.json	/^    "title": "Workshop Venue",$/;"	s	object:37
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Venue",$/;"	s	object:38
+title-a-key-principle-underlying-deep-networks-compositional-sparsity	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-beyond-classic-image-priors-deep-reinforcement-learning-and-disentangling-for-image-restoration	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-geometrization-of-real-world-deep-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-hardware-aware-sparsity-accurate-and-efficient-foundation-model-training	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-how-catastrophic-can-catastrophic-forgetting-be-in-linear-regression	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-how-to-learn-a-table-of-concepts	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-image-denoising---not-what-you-think	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-implicit-bias-in-machine-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-implicit-rules-in-deep-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-passive-and-active-multi-task-representation-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-reconstructing-training-data-from-model-gradient-provably	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-strong-inductive-biases-provably-prevent-harmless-interpolation	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-tba	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-tba-1	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-tba-2	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-tba-3	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-the-next-generation-of-reliable-ai-from-digital-to-analog-hardware	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-the-role-of-data-and-models-for-deep-learning-based-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-why-do-neural-models-need-so-many-parameters	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+tomaso-poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6325,11 +6395,11 @@ url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:1
 url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:15
 url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:16
 url	_site/assets/js/search-data.json	/^    "url": "\/calendar\/",$/;"	s	object:17
-url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:3
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:7
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:8
+url	_site/assets/js/search-data.json	/^    "url": "\/index.html#confirmed-speakers",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#key-dates-and-deadlines",$/;"	s	object:0
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#organizers",$/;"	s	object:6
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#tentative-schedule",$/;"	s	object:4
@@ -6341,20 +6411,22 @@ url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/#past-works
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:23
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:24
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#tentative-schedule",$/;"	s	object:22
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:25
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
-url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:27
-url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:28
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#confirmed-speakers",$/;"	s	object:25
+url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#talk-details",$/;"	s	object:27
 url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:29
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:35
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:31
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#key-dates",$/;"	s	object:30
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:32
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:34
-url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:33
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:38
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:36
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#workshop-venue",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "\/sponsors\/",$/;"	s	object:30
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/",$/;"	s	object:36
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#how-to-submit-your-work",$/;"	s	object:32
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#key-dates",$/;"	s	object:31
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:33
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:35
+url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:34
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:37
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#workshop-venue",$/;"	s	object:38
+weijie-su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
