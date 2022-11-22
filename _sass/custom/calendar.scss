@@ -2,6 +2,7 @@
   @include abstract-card();
   overflow-x: scroll;
   position: relative;
+  $cell-size: 90px;
 
   li::before {
     display: none;
@@ -15,7 +16,7 @@
   }
 
   ul.calendar-timeline {
-    margin: 40px auto 0;
+    margin: $cell-size auto 0;
     position: absolute;
     width: 100%;
   }
@@ -23,7 +24,7 @@
   .calendar-time {
     @extend .fs-2;
     color: $grey-dk-000;
-    height: 40px;
+    height: $cell-size;
     margin: 0;
     padding: $sp-2;
     position: relative;
@@ -60,7 +61,7 @@
     align-items: center;
     display: flex;
     font-size: 18px !important;
-    height: 40px;
+    height: $cell-size;
     justify-content: center;
     margin: 0;
   }

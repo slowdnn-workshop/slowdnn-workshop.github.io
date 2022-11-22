@@ -7,7 +7,16 @@ nav_order: 2
 
 {% include splash.html %}
 
-# Tentative Schedule
+
+<!---
+# Bird's Eye View of the Program (Tentative)
+
+All times in GST (GMT+4).
+-->
+
+# Workshop Schedule (Tentative)
+
+All times in GST (GMT+4).
 
 {% for module in site.modules %}
 {{ module }}

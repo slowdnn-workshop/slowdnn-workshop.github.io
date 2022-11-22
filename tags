@@ -412,13 +412,13 @@
 .calendar .calendar-group	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
 .calendar .calendar-group	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
 .calendar .calendar-group	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-group { display: flex; margin-bottom: 0; position: relative; }$/;"	c
-.calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-time { color: #959396; height: 90px; margin: 0; padding: 0.5rem; position: r/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
-.calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^.calendar .calendar-time { color: #959396; height: 90px; margin: 0; padding: 0.5rem; position: r/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
-.calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-time { color: #959396; height: 40px; margin: 0; padding: 0.5rem; position: r/;"	c
+.calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^.calendar .calendar-time { color: #959396; height: 90px; margin: 0; padding: 0.5rem; position: r/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^.fs-2, .calendar .calendar-time, .calendar .calendar-event .time, .calendar .calendar-event .loc/;"	c
 .calendar .calendar-time	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .fs-2, .calendar .calendar-time, .calendar .calendar-event .time,/;"	c
 .calendar .calendar-time::after	_site/assets/css/just-the-docs-dark.css	/^.calendar .calendar-time::after { background-color: #44434d; content: ''; height: 1px; left: 0; /;"	c
@@ -436,11 +436,11 @@
 .calendar ul.calendar-group	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
 .calendar ul.calendar-group	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
 .calendar ul.calendar-group	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
-.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline { margin: 90px auto 0; position: absolute; width: 100%; }$/;"	c
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-dark.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
-.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline { margin: 90px auto 0; position: absolute; width: 100%; }$/;"	c
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-default.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
-.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline { margin: 40px auto 0; position: absolute; width: 100%; }$/;"	c
+.calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline { margin: 90px auto 0; position: absolute; width: 100%; }$/;"	c
 .calendar ul.calendar-timeline	_site/assets/css/just-the-docs-light.css	/^.calendar ul.calendar-timeline, .calendar ul.calendar-group, .calendar ul.calendar-events { marg/;"	c
 .code-example	_site/assets/css/just-the-docs-dark.css	/^.code-example, .listingblock > .title { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto/;"	c
 .code-example	_site/assets/css/just-the-docs-default.css	/^.code-example, .listingblock > .title { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto/;"	c
@@ -5395,7 +5395,6 @@ Michael Elad	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta ch
 Michael Elad	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Monday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Ohad Shamir	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ohad Shamir	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Organizers	README.md	/^# Organizers$/;"	c
@@ -5422,6 +5421,7 @@ Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta ch
 Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Samuel Horvath	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Samuel Horvath	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Saturday, Jan 7	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Schedule | SLowDNN Workshop	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5441,10 +5441,6 @@ Submission Guidelines	submission.md	/^# Submission Guidelines$/;"	c
 Table of contents	_layouts/minimal_backup.html	/^        <h2 class="text-delta">Table of contents<\/h2>$/;"	i
 Talk Details	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Talk Details	speakers.md	/^# Talk Details$/;"	c
-Tentative Schedule	README.md	/^# Tentative Schedule$/;"	c
-Tentative Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Tentative Schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Tentative Schedule	schedule.md	/^# Tentative Schedule$/;"	c
 Thursday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Title: {{ speaker.talk }}	speakers.md	/^#### Title: {{ speaker.talk }}$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5454,18 +5450,24 @@ Topics of Interest	submission.md	/^# Topics of Interest$/;"	c
 Travel Support	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Travel Support	travel.md	/^# Travel Support$/;"	c
 Travel | SLowDNN Workshop	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Tuesday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Tuesday, Jan 3	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Wednesday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Week 0 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Week 1 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Weijie Su	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Weijie Su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Workshop Schedule (Tentative)	README.md	/^# Workshop Schedule (Tentative)$/;"	c
+Workshop Schedule (Tentative)	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Schedule (Tentative)	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Schedule (Tentative)	schedule.md	/^# Workshop Schedule (Tentative)$/;"	c
 Workshop Themes	README.md	/^# Workshop Themes$/;"	c
 Workshop Themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Workshop Venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Workshop Venue	travel.md	/^# Workshop Venue$/;"	c
 Yi Ma	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yi Ma	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yu-Xiang Wang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yu-Xiang Wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuejie Chi	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuejie Chi	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yuqian Zhang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5511,6 +5513,7 @@ abstract-15	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 abstract-16	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-17	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-18	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-19	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-2	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-3	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-4	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5590,6 +5593,7 @@ calendar-time	_sass/custom/calendar.scss	/^  .calendar-time {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline,$/;"	c
 card	_sass/custom/card.scss	/^%card {$/;"	P
+cell-size	_sass/custom/calendar.scss	/^  $cell-size: 90px;$/;"	v
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height/;"	s
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
 code	_site/assets/css/just-the-docs-dark.css	/^code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; border: 1px solid #44/;"	s
@@ -5607,26 +5611,26 @@ code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language
 code.language-mermaid	_site/assets/css/just-the-docs-light.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 confirmed-speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 confirmed-speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:29
-content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": " ",$/;"	s	object:7
 content	_site/assets/js/search-data.json	/^    "content": "--> Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Bei/;"	s	object:26
 content	_site/assets/js/search-data.json	/^    "content": "--> Misha Belkin . UC San Diego . Michael Bronstein . University of Oxford . Bei/;"	s	object:3
 content	_site/assets/js/search-data.json	/^    "content": ". | 2021 | 2020 | . ",$/;"	s	object:20
-content	_site/assets/js/search-data.json	/^    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 1/;"	s	object:12
-content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:13
-content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:15
-content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:17
+content	_site/assets/js/search-data.json	/^    "content": ". | 8:00 AM | 8:30 AM | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:/;"	s	object:12
+content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:14
+content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Sod/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": ". | Opening Ceremony 8:30 AM–9:00 AM | asdf 11:30 AM–12:30 PM 310 Soda | Off/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:31
-content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:33
+content	_site/assets/js/search-data.json	/^    "content": "All times in GST (GMT+4). ",$/;"	s	object:22
+content	_site/assets/js/search-data.json	/^    "content": "All times in GST (GMT+4). ",$/;"	s	object:4
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. |/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "In the past decade, deep learning has demonstrated unprecedented performance acr/;"	s	object:1
+content	_site/assets/js/search-data.json	/^    "content": "Information on the speakers’ planned talks is available here. <!-- ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:37
 content	_site/assets/js/search-data.json	/^    "content": "Misha Belkin . UC San Diego . Title: Why do neural models need so many parameter/;"	s	object:27
 content	_site/assets/js/search-data.json	/^    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of roo/;"	s	object:38
@@ -5645,8 +5649,8 @@ content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: .
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:18
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:6
-content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:14
-content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:16
+content	_site/assets/js/search-data.json	/^    "content": "| ",$/;"	s	object:15
+content	_site/assets/js/search-data.json	/^    "content": "| . ",$/;"	s	object:17
 content-width-0	_sass/custom/custom.scss	/^$content-width-0: 1200px;$/;"	v
 content-width-0	_sass/custom/custom_backup.scss	/^$content-width-0: 1200px;$/;"	v
 daniel-soudry	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6000,7 +6004,7 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html"$/;"	s	obj
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#confirmed-speakers"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#key-dates-and-deadlines"$/;"	s	object:0
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#organizers"$/;"	s	object:6
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#tentative-schedule"$/;"	s	object:4
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#workshop-schedule-tentative"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/index.html#workshop-themes"$/;"	s	object:1
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	object:19
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#organizers"$/;"	s	object:18
@@ -6008,7 +6012,7 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/"$/;"
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/#past-workshops"$/;"	s	object:20
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:23
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:24
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#tentative-schedule"$/;"	s	object:22
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#workshop-schedule-tentative"$/;"	s	object:22
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:26
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:28
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#confirmed-speakers"$/;"	s	object:25
@@ -6268,8 +6272,6 @@ td:first-of-type	_site/assets/css/just-the-docs-light.css	/^th:first-of-type, td
 template	_site/assets/css/just-the-docs-dark.css	/^template { display: none; }$/;"	s
 template	_site/assets/css/just-the-docs-default.css	/^template { display: none; }$/;"	s
 template	_site/assets/css/just-the-docs-light.css	/^template { display: none; }$/;"	s
-tentative-schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-tentative-schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 textarea	_site/assets/css/just-the-docs-dark.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 textarea	_site/assets/css/just-the-docs-dark.css	/^textarea { overflow: auto; }$/;"	s
 textarea	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
@@ -6298,7 +6300,7 @@ title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished S
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Distinguished Speakers",$/;"	s	object:3
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:2
 title	_site/assets/js/search-data.json	/^    "title": "Confirmed Speakers",$/;"	s	object:25
-title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:17
+title	_site/assets/js/search-data.json	/^    "title": "Friday",$/;"	s	object:16
 title	_site/assets/js/search-data.json	/^    "title": "Home",$/;"	s	object:8
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:29
 title	_site/assets/js/search-data.json	/^    "title": "Host Institution",$/;"	s	object:30
@@ -6307,30 +6309,32 @@ title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:33
-title	_site/assets/js/search-data.json	/^    "title": "Monday",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:18
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:6
 title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:20
 title	_site/assets/js/search-data.json	/^    "title": "Past workshops",$/;"	s	object:21
+title	_site/assets/js/search-data.json	/^    "title": "Saturday, Jan 7",$/;"	s	object:17
 title	_site/assets/js/search-data.json	/^    "title": "Schedule",$/;"	s	object:24
 title	_site/assets/js/search-data.json	/^    "title": "Speakers",$/;"	s	object:28
 title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/;"	s	object:35
 title	_site/assets/js/search-data.json	/^    "title": "Talk Details",$/;"	s	object:27
-title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:22
-title	_site/assets/js/search-data.json	/^    "title": "Tentative Schedule",$/;"	s	object:4
-title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:16
+title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:34
 title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:37
 title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:39
-title	_site/assets/js/search-data.json	/^    "title": "Tuesday",$/;"	s	object:14
-title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:15
+title	_site/assets/js/search-data.json	/^    "title": "Tuesday, Jan 3",$/;"	s	object:13
+title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "Week 1 Announcement",$/;"	s	object:10
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule (Tentative)",$/;"	s	object:22
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule (Tentative)",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Themes",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Venue",$/;"	s	object:38
 title-a-key-principle-underlying-deep-networks-compositional-sparsity	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-beyond-classic-image-priors-deep-reinforcement-learning-and-disentangling-for-image-restoration	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-deep-learning-meets-nonparametric-regression-are-weight-decayed-dnns-locally-adaptive	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-demystifying-feature-learning-via-gradient-descent-with-applications-to-medical-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-geometrization-of-real-world-deep-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-hardware-aware-sparsity-accurate-and-efficient-foundation-model-training	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-catastrophic-can-catastrophic-forgetting-be-in-linear-regression	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6340,11 +6344,10 @@ title-implicit-bias-in-machine-learning	_site/speakers/index.html	/^<!DOCTYPE ht
 title-implicit-rules-in-deep-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-passive-and-active-multi-task-representation-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-reconstructing-training-data-from-model-gradient-provably	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-statistical-mechanics-of-graph-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-strong-inductive-biases-provably-prevent-harmless-interpolation	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-tba	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-tba-1	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-tba-2	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-tba-3	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-next-generation-of-reliable-ai-from-digital-to-analog-hardware	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-role-of-data-and-models-for-deep-learning-based-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-why-do-neural-models-need-so-many-parameters	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6402,7 +6405,7 @@ url	_site/assets/js/search-data.json	/^    "url": "\/index.html",$/;"	s	object:8
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#confirmed-speakers",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#key-dates-and-deadlines",$/;"	s	object:0
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#organizers",$/;"	s	object:6
-url	_site/assets/js/search-data.json	/^    "url": "\/index.html#tentative-schedule",$/;"	s	object:4
+url	_site/assets/js/search-data.json	/^    "url": "\/index.html#workshop-schedule-tentative",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/index.html#workshop-themes",$/;"	s	object:1
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object:19
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#organizers",$/;"	s	object:18
@@ -6410,7 +6413,7 @@ url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/",$/;"	s	ob
 url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/#past-workshops",$/;"	s	object:20
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:23
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:24
-url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#tentative-schedule",$/;"	s	object:22
+url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#workshop-schedule-tentative",$/;"	s	object:22
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:28
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#confirmed-speakers",$/;"	s	object:25
@@ -6427,8 +6430,11 @@ url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:39
 url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:37
 url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#workshop-venue",$/;"	s	object:38
 weijie-su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+workshop-schedule-tentative	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+workshop-schedule-tentative	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+yu-xiang-wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j
 {{ day.name }}	_layouts/calendar.html	/^      <h2 class="calendar-header">{{ day.name }}<\/h2>$/;"	i

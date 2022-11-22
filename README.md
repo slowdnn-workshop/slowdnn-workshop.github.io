@@ -84,7 +84,9 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 
 {% include speakers.html %}
 
-# Tentative Schedule
+# Workshop Schedule (Tentative)
+
+All times in GST (GMT+4).
 
 {% for module in site.modules %}
 {{ module }}
