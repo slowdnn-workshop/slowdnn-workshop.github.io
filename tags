@@ -5260,6 +5260,7 @@
 38	_site/assets/js/search-data.json	/^  },"38": {$/;"	o
 39	_site/assets/js/search-data.json	/^  },"39": {$/;"	o
 4	_site/assets/js/search-data.json	/^  },"4": {$/;"	o
+40	_site/assets/js/search-data.json	/^  },"40": {$/;"	o
 5	_site/assets/js/search-data.json	/^  },"5": {$/;"	o
 6	_site/assets/js/search-data.json	/^  },"6": {$/;"	o
 7	_site/assets/js/search-data.json	/^  },"7": {$/;"	o
@@ -5306,6 +5307,8 @@ Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 Calendar	calendar.md	/^# Calendar$/;"	c
 Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Can I get visa support?	travel.md	/^### Can I get visa support?$/;"	S	chapter:Travel FAQ for Authors
+Can the travel grant be adjusted depending on location?	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Can the travel grant be adjusted depending on location?	travel.md	/^### Can the travel grant be adjusted depending on location?$/;"	S	chapter:Travel FAQ for Authors
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5349,6 +5352,7 @@ Host Institution	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><
 Host Institution | SLowDNN Workshop	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 How to Submit Your Work	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
+I will not be able to attend on Jan. 3rd.	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 I will not be able to attend on Jan. 3rd.	travel.md	/^### I will not be able to attend on Jan. 3rd.$/;"	S	chapter:Travel FAQ for Authors
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5449,6 +5453,7 @@ Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Tomaso Poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Topics of Interest	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Topics of Interest	submission.md	/^# Topics of Interest$/;"	c
+Travel FAQ for Authors	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Travel FAQ for Authors	travel.md	/^# Travel FAQ for Authors$/;"	c
 Travel Support	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Travel Support	travel.md	/^# Travel Support$/;"	c
@@ -5595,6 +5600,7 @@ calendar-header	_sass/custom/calendar.scss	/^  h2.calendar-header {$/;"	c
 calendar-time	_sass/custom/calendar.scss	/^  .calendar-time {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline,$/;"	c
+can-the-travel-grant-be-adjusted-depending-on-location	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 card	_sass/custom/card.scss	/^%card {$/;"	P
 cell-size	_sass/custom/calendar.scss	/^  $cell-size: 90px;$/;"	v
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height/;"	s
@@ -5632,6 +5638,7 @@ content	_site/assets/js/search-data.json	/^    "content": "All times in GST (GMT
 content	_site/assets/js/search-data.json	/^    "content": "Announcements are stored in the _announcements directory and rendered according /;"	s	object:9
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. |/;"	s	object:10
+content	_site/assets/js/search-data.json	/^    "content": "Can the travel grant be adjusted depending on location? . Unfortunately, we cann/;"	s	object:39
 content	_site/assets/js/search-data.json	/^    "content": "In the past decade, deep learning has demonstrated unprecedented performance acr/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": "Information on the speakers’ planned talks is available here. <!-- ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:37
@@ -5643,7 +5650,7 @@ content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on See
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:28
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:30
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:36
-content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:39
+content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:40
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:34
 content	_site/assets/js/search-data.json	/^    "content": "Tuesday, January 3 Welcome Session and Educational Tutorials . | Tutorial on rec/;"	s	object:23
@@ -5736,6 +5743,7 @@ doc	_site/assets/js/search-data.json	/^    "doc": "Speakers",$/;"	s	object:28
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:37
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:38
 doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:39
+doc	_site/assets/js/search-data.json	/^    "doc": "Travel",$/;"	s	object:40
 edit-this-page	_layouts/minimal_backup.html	/^                  <a href="{{ site.gh_edit_repository }}\/{{ site.gh_edit_view_mode }}\/{{ site./;"	I
 external	_sass/custom/custom_backup.scss	/^      &.external > svg {$/;"	c
 fanny-yang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5844,6 +5852,7 @@ html	_site/assets/css/just-the-docs-default.css	/^html { line-height: 1.15; \/* 
 html	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { html { font-size: 16px !important; } }$/;"	s
 html	_site/assets/css/just-the-docs-light.css	/^html { font-size: 14px !important; scroll-behavior: smooth; }$/;"	s
 html	_site/assets/css/just-the-docs-light.css	/^html { line-height: 1.15; \/* 1 *\/ -webkit-text-size-adjust: 100%; \/* 2 *\/ }$/;"	s
+i-will-not-be-able-to-attend-on-jan-3rd	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 iframe	_site/assets/css/just-the-docs-dark.css	/^iframe, summary { max-width: 100%; }$/;"	s
 iframe	_site/assets/css/just-the-docs-default.css	/^iframe, summary { max-width: 100%; }$/;"	s
 iframe	_site/assets/css/just-the-docs-light.css	/^iframe, summary { max-width: 100%; }$/;"	s
@@ -6028,7 +6037,8 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#key-date
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#logistics-for-accepted-papers"$/;"	s	object:33
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#submission-guidelines"$/;"	s	object:35
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/submission\/#topics-of-interest"$/;"	s	object:34
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:39
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/"$/;"	s	object:40
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-faq-for-authors"$/;"	s	object:39
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#travel-support"$/;"	s	object:37
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/travel\/#workshop-venue"$/;"	s	object:38
 removeEvent	_site/assets/js/just-the-docs.js	/^jtd.removeEvent = function(el, type, handler) {$/;"	f	function:jtd
@@ -6324,8 +6334,9 @@ title	_site/assets/js/search-data.json	/^    "title": "Submission Guidelines",$/
 title	_site/assets/js/search-data.json	/^    "title": "Talk Details",$/;"	s	object:27
 title	_site/assets/js/search-data.json	/^    "title": "Thursday",$/;"	s	object:15
 title	_site/assets/js/search-data.json	/^    "title": "Topics of Interest",$/;"	s	object:34
+title	_site/assets/js/search-data.json	/^    "title": "Travel FAQ for Authors",$/;"	s	object:39
 title	_site/assets/js/search-data.json	/^    "title": "Travel Support",$/;"	s	object:37
-title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:39
+title	_site/assets/js/search-data.json	/^    "title": "Travel",$/;"	s	object:40
 title	_site/assets/js/search-data.json	/^    "title": "Tuesday, Jan 3",$/;"	s	object:13
 title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:14
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:11
@@ -6367,6 +6378,7 @@ top	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta 
 top	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 topics-of-interest	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 topleft	_sass/custom/custom.scss	/^  .topleft {$/;"	c
+travel-faq-for-authors	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 travel-support	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 type	_site/assets/css/just-the-docs-dark.css	/^[type="checkbox"], [type="radio"] { box-sizing: border-box; \/* 1 *\/ padding: 0; \/* 2 *\/ }$/;"	s
 type	_site/assets/css/just-the-docs-dark.css	/^[type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button { height:/;"	s
@@ -6429,7 +6441,8 @@ url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#key-dates",$/;
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#logistics-for-accepted-papers",$/;"	s	object:33
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#submission-guidelines",$/;"	s	object:35
 url	_site/assets/js/search-data.json	/^    "url": "\/submission\/#topics-of-interest",$/;"	s	object:34
-url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:39
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/",$/;"	s	object:40
+url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-faq-for-authors",$/;"	s	object:39
 url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#travel-support",$/;"	s	object:37
 url	_site/assets/js/search-data.json	/^    "url": "\/travel\/#workshop-venue",$/;"	s	object:38
 weijie-su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I

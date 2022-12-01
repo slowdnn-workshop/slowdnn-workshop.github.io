@@ -57,4 +57,8 @@ Unfortunately, we cannot adjust the amount of the travel grant based on location
 The poster sessions will be on Jan. 4th -- 6th, so please make sure that you
 will be able to attend at least one of the poster sessions.
 
+### Can I get visa support?
 
+MBZUAI does not routinely provide visa support, however all relevant
+information can be found
+[here](https://u.ae/en/information-and-services/visa-and-emirates-id/do-you-need-an-entry-permit-or-a-visa-to-enter-the-uae.).
