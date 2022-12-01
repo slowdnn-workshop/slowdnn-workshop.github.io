@@ -49,7 +49,7 @@
   },"8": {
     "doc": "Home",
     "title": "Home",
-    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Announcing the workshop venue: W Abu Dhabi Hotel at Yas Island . Register here for in-person and remote participation . Submit your work by 11/6/2022 on OpenReview . ",
+    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI Join Us in Abu Dhabi from 3-7 January 2023! . Announcing the workshop venue: W Abu Dhabi Hotel at Yas Island . Register here for in-person and remote participation . ",
     "url": "/index.html",
     "relUrl": "/index.html"
   },"9": {
@@ -223,16 +223,22 @@
   },"37": {
     "doc": "Travel",
     "title": "Travel Support",
-    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to forty authors of accepted papers. All accepted papers will be considered for a travel grant. Accepted papers are expected to be presented in-person. To submit work, see the submission page. Travel grants will be announced concurrently with paper acceptances. Staff at MBZUAI will assist grant recipients with securing their travel. ",
+    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to forty authors of accepted papers. All accepted papers will be considered for a travel grant. Accepted papers are expected to be presented in-person. To submit work, see the submission page. Travel grants will be announced concurrently with paper acceptances. ",
     "url": "/travel/#travel-support",
     "relUrl": "/travel/#travel-support"
   },"38": {
     "doc": "Travel",
     "title": "Workshop Venue",
-    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of rooms will be made available for reservation to workshop attendees. Please check back frequently for additional information. ",
+    "content": "The workshop will be held at the W Abu Dhabi Hotel at Yas Island. A block of rooms is available for reservation to workshop attendees: . Book a room at workshop rates . The details are as follows: . | Reservation start date: Tuesday, January 3, 2023 | Reservation end date: Saturday, January 7, 2023 | Last day to book: Friday, December 23, 2022 | . Authors of accepted papers will be contacted about finding a roommate to enjoy the double occupancy rate, if they wish. For other attendees interested in seeking a roommate, please email the organizers. ",
     "url": "/travel/#workshop-venue",
     "relUrl": "/travel/#workshop-venue"
   },"39": {
+    "doc": "Travel",
+    "title": "Travel FAQ for Authors",
+    "content": "Can the travel grant be adjusted depending on location? . Unfortunately, we cannot adjust the amount of the travel grant based on locations. I will not be able to attend on Jan. 3rd. The poster sessions will be on Jan. 4th – 6th, so please make sure that you will be able to attend at least one of the poster sessions. ",
+    "url": "/travel/#travel-faq-for-authors",
+    "relUrl": "/travel/#travel-faq-for-authors"
+  },"40": {
     "doc": "Travel",
     "title": "Travel",
     "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Networks January 2023,&nbsp;MBZUAI ",

@@ -5306,6 +5306,7 @@ Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 Calendar	calendar.md	/^# Calendar$/;"	c
 Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Can the travel grant be adjusted depending on location?	travel.md	/^### Can the travel grant be adjusted depending on location?$/;"	S	chapter:Travel FAQ for Authors
 Chong You	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Chong You	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Confirmed Speakers	README.md	/^# Confirmed Speakers$/;"	c
@@ -5348,6 +5349,7 @@ Host Institution	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><
 Host Institution | SLowDNN Workshop	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 How to Submit Your Work	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 How to Submit Your Work	submission.md	/^# How to Submit Your Work$/;"	c
+I will not be able to attend on Jan. 3rd.	travel.md	/^### I will not be able to attend on Jan. 3rd.$/;"	S	chapter:Travel FAQ for Authors
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5447,6 +5449,7 @@ Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Tomaso Poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Topics of Interest	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Topics of Interest	submission.md	/^# Topics of Interest$/;"	c
+Travel FAQ for Authors	travel.md	/^# Travel FAQ for Authors$/;"	c
 Travel Support	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Travel Support	travel.md	/^# Travel Support$/;"	c
 Travel | SLowDNN Workshop	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j

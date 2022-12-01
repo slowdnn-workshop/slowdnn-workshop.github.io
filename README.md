@@ -20,11 +20,12 @@ here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3r
 for in-person and remote participation
 {: .text-center .fs-6 }
 
+
+<!---
+
 *[Submit your work]({{site.base}}/submission) by
 11/6/2022 on [OpenReview](https://openreview.net/group?id=mbzuai.ac.ae/SLowDNN/2023/Workshop)*
 {: .text-center .fs-6 }
-
-<!---
 
 See [the call for papers]({{site.base}}/submission) for guidelines and
 more details about submitting
@@ -41,7 +42,7 @@ papers
 ## Key Dates and Deadlines
 
 - Workshop dates: **3rd - 7th January, 2023**; in person at [W
-  Hotel](https://www.marriott.com/en-us/hotels/auhwh-w-abu-dhabi-yas-island/overview/), Abu Dhabi
+  Hotel]({{site.base}}/travel#workshop-venue), Abu Dhabi
 - Submission portal opens: **October 1st, 2022**
 - Paper submission deadline: **November 6th, 2022**
 - Acceptance and travel grant notification: **November 20th, 2022**
