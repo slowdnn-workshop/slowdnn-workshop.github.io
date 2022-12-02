@@ -9,6 +9,8 @@ nav_order: 2
 
 # Confirmed Speakers
 
+Clicking a speaker's photo will jump to their talk information below.
+
 {% include speakers.html %}
 
 # Talk Details

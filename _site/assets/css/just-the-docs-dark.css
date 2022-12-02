@@ -2438,7 +2438,7 @@ div.opaque { background-color: #27262b; }
 .organizer p, .organizer .organizer-name { margin: 0.25rem !important; }
 
 .speaker { display: flex; flex-direction: column; margin: 1rem; align-items: center; text-align: center; }
-.speaker .speaker-image { border-radius: 25%; height: 200px; width: 150px; margin-bottom: 1rem; }
+.speaker .speaker-image { border-radius: 25%; height: 200px; width: 150px; margin-bottom: 1rem; display: block; }
 .speaker p, .speaker .speaker-name { margin: 0.25rem !important; }
 
 .splash { position: relative; }

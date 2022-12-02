@@ -5307,6 +5307,7 @@ Calendar	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 Calendar	calendar.md	/^# Calendar$/;"	c
 Calendar | SLowDNN Workshop	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Call for Papers | SLowDNN Workshop	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Can I get visa support?	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Can I get visa support?	travel.md	/^### Can I get visa support?$/;"	S	chapter:Travel FAQ for Authors
 Can the travel grant be adjusted depending on location?	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Can the travel grant be adjusted depending on location?	travel.md	/^### Can the travel grant be adjusted depending on location?$/;"	S	chapter:Travel FAQ for Authors
@@ -5356,6 +5357,8 @@ I will not be able to attend on Jan. 3rd.	_site/travel/index.html	/^<!DOCTYPE ht
 I will not be able to attend on Jan. 3rd.	travel.md	/^### I will not be able to attend on Jan. 3rd.$/;"	S	chapter:Travel FAQ for Authors
 Ivan Dokmanić	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ivan Dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Jason Lee	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Jason Lee	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Jeremias Sulam	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 John Wright	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5366,8 +5369,6 @@ Key Dates	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 Key Dates	submission.md	/^# Key Dates$/;"	c
 Key Dates and Deadlines	README.md	/^## Key Dates and Deadlines$/;"	s
 Key Dates and Deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
-Laurent El Ghaoui	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Laurent El Ghaoui	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_layouts/minimal_backup.html	/^      <title>Link<\/title>$/;"	j
 Link	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Link	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5600,6 +5601,7 @@ calendar-header	_sass/custom/calendar.scss	/^  h2.calendar-header {$/;"	c
 calendar-time	_sass/custom/calendar.scss	/^  .calendar-time {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline {$/;"	c
 calendar-timeline	_sass/custom/calendar.scss	/^  ul.calendar-timeline,$/;"	c
+can-i-get-visa-support	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 can-the-travel-grant-be-adjusted-depending-on-location	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 card	_sass/custom/card.scss	/^%card {$/;"	P
 cell-size	_sass/custom/calendar.scss	/^  $cell-size: 90px;$/;"	v
@@ -5631,7 +5633,6 @@ content	_site/assets/js/search-data.json	/^    "content": ". | Lecture 9:30 AM�
 content	_site/assets/js/search-data.json	/^    "content": ". | Opening Ceremony 8:30 AM–9:00 AM | asdf 11:30 AM–12:30 PM 310 Soda | Off/;"	s	object:13
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:0
 content	_site/assets/js/search-data.json	/^    "content": ". | Workshop dates: 3rd - 7th January, 2023; in person at W Hotel, Abu Dhabi | S/;"	s	object:31
-content	_site/assets/js/search-data.json	/^    "content": "<!-- ",$/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "Accepted works will be expected to present a poster describing the work in-perso/;"	s	object:33
 content	_site/assets/js/search-data.json	/^    "content": "All times in GST (GMT+4). ",$/;"	s	object:22
 content	_site/assets/js/search-data.json	/^    "content": "All times in GST (GMT+4). ",$/;"	s	object:4
@@ -5639,6 +5640,7 @@ content	_site/assets/js/search-data.json	/^    "content": "Announcements are sto
 content	_site/assets/js/search-data.json	/^    "content": "Apr 1 &middot; 0 min read Hello world! . ",$/;"	s	object:11
 content	_site/assets/js/search-data.json	/^    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. |/;"	s	object:10
 content	_site/assets/js/search-data.json	/^    "content": "Can the travel grant be adjusted depending on location? . Unfortunately, we cann/;"	s	object:39
+content	_site/assets/js/search-data.json	/^    "content": "Clicking a speaker’s photo will jump to their talk information below. <!-- ",$/;"	s	object:25
 content	_site/assets/js/search-data.json	/^    "content": "In the past decade, deep learning has demonstrated unprecedented performance acr/;"	s	object:1
 content	_site/assets/js/search-data.json	/^    "content": "Information on the speakers’ planned talks is available here. <!-- ",$/;"	s	object:2
 content	_site/assets/js/search-data.json	/^    "content": "MBZUAI has travel grants in the amount of up to $1000 USD available for up to fo/;"	s	object:37
@@ -5870,13 +5872,13 @@ input	_site/assets/css/just-the-docs-default.css	/^button, input, optgroup, sele
 input	_site/assets/css/just-the-docs-light.css	/^button, input { \/* 1 *\/ overflow: visible; }$/;"	s
 input	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 ivan-dokmanić	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+jason-lee	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 kbd	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 kbd	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 key-dates	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 key-dates-and-deadlines	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 label	_sass/custom/card.scss	/^  .label {$/;"	c
-laurent-el-ghaoui	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 lecture	_sass/custom/calendar.scss	/^    &.lecture {$/;"	c
 legend	_site/assets/css/just-the-docs-dark.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
 legend	_site/assets/css/just-the-docs-default.css	/^legend { box-sizing: border-box; \/* 1 *\/ color: inherit; \/* 2 *\/ display: table; \/* 1 *\/ m/;"	s
@@ -6349,19 +6351,19 @@ title-a-key-principle-underlying-deep-networks-compositional-sparsity	_site/spea
 title-beyond-classic-image-priors-deep-reinforcement-learning-and-disentangling-for-image-restoration	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-deep-learning-meets-nonparametric-regression-are-weight-decayed-dnns-locally-adaptive	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-demystifying-feature-learning-via-gradient-descent-with-applications-to-medical-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-feature-learning-with-gradient-descent	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-geometrization-of-real-world-deep-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-hardware-aware-sparsity-accurate-and-efficient-foundation-model-training	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-catastrophic-can-catastrophic-forgetting-be-in-linear-regression	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-to-learn-a-table-of-concepts	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-image-denoising---not-what-you-think	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-implicit-bias-in-machine-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-implicit-rules-in-deep-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-passive-and-active-multi-task-representation-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-principled-defenses-and-reverse-engineering-of-adversarial-attacks-in-a-union-of-subspaces	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-reconstructing-training-data-from-model-gradient-provably	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-statistical-mechanics-of-graph-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-strong-inductive-biases-provably-prevent-harmless-interpolation	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-tba	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-tba-1	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-next-generation-of-reliable-ai-from-digital-to-analog-hardware	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-role-of-data-and-models-for-deep-learning-based-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-why-do-neural-models-need-so-many-parameters	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
