@@ -1298,9 +1298,9 @@
 .main-content .module > dl > dt + dd	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #44434d; }$/;"	s
 .main-content .module > dl > dt + dd	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #eeebee; }$/;"	s
 .main-content .module > dl > dt + dd	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #eeebee; }$/;"	s
-.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
-.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
-.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
+.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
+.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
+.main-content .module > dl > dt::after	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
 .main-content .module > dl > dt:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
 .main-content .module > dl > dt:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
 .main-content .module > dl > dt:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
@@ -2177,9 +2177,9 @@
 .module > dl > dt + dd	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #44434d; }$/;"	s
 .module > dl > dt + dd	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #eeebee; }$/;"	s
 .module > dl > dt + dd	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt + dd, .module > dl > dt + dd { border-top: 1px solid #eeebee; }$/;"	s
-.module > dl > dt::after	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
-.module > dl > dt::after	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
-.module > dl > dt::after	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ":"; }$/;"	s
+.module > dl > dt::after	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
+.module > dl > dt::after	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
+.module > dl > dt::after	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt::after, .module > dl > dt::after { content: ""; }$/;"	s
 .module > dl > dt:first-child	_site/assets/css/just-the-docs-dark.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
 .module > dl > dt:first-child	_site/assets/css/just-the-docs-default.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
 .module > dl > dt:first-child	_site/assets/css/just-the-docs-light.css	/^.main-content .module > dl > dt:first-child, .module > dl > dt:first-child { border-top: none; }$/;"	s
@@ -5402,6 +5402,8 @@ Michael Elad	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta ch
 Michael Elad	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
+Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Ohad Shamir	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Ohad Shamir	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Organizers	README.md	/^# Organizers$/;"	c
@@ -5655,8 +5657,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on See
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:40
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:34
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 Educational tutorials, based on an ICASSP 2022 short course with /;"	s	object:23
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 Educational tutorials, based on an ICASSP 2022 short course with /;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials, based on an ICASSP 2022 short co/;"	s	object:23
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials, based on an ICASSP 2022 short co/;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:35
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:32
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:18
@@ -5947,6 +5949,8 @@ misha-belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
 module-item	_sass/custom/module.scss	/^    %module-item {$/;"	P
+morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 name	_sass/custom/calendar.scss	/^    .name {$/;"	c
 nav-category	_sass/custom/custom_backup.scss	/^.nav-category {$/;"	c
 nav-list	_sass/custom/custom_backup.scss	/^      > .nav-list {$/;"	c
@@ -6003,11 +6007,11 @@ progress	_site/assets/css/just-the-docs-light.css	/^progress { vertical-align: b
 qi-lei	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 reinhard-heckel	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:3
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:7
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:8
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#confirmed-speakers"$/;"	s	object:2
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#key-dates-and-deadlines"$/;"	s	object:0
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm"$/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:6
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#workshop-schedule-tentative"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#workshop-themes"$/;"	s	object:1
@@ -6024,8 +6028,8 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/"$/;"	s	o
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#organizers"$/;"	s	object:18
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/"$/;"	s	object:21
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/#past-workshops"$/;"	s	object:20
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:23
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:24
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm"$/;"	s	object:23
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#workshop-schedule-tentative"$/;"	s	object:22
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:26
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:28
@@ -6306,8 +6310,6 @@ thead th	_site/assets/css/just-the-docs-dark.css	/^thead th { border-bottom: 1px
 thead th	_site/assets/css/just-the-docs-default.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 time	_sass/custom/calendar.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:23
-title	_site/assets/js/search-data.json	/^    "title": "",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:9
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:12
 title	_site/assets/js/search-data.json	/^    "title": "Call for Papers",$/;"	s	object:36
@@ -6324,6 +6326,8 @@ title	_site/assets/js/search-data.json	/^    "title": "How to Submit Your Work",
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates and Deadlines",$/;"	s	object:0
 title	_site/assets/js/search-data.json	/^    "title": "Key Dates",$/;"	s	object:31
 title	_site/assets/js/search-data.json	/^    "title": "Logistics for Accepted Papers",$/;"	s	object:33
+title	_site/assets/js/search-data.json	/^    "title": "Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM",$/;"	s	object:23
+title	_site/assets/js/search-data.json	/^    "title": "Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM",$/;"	s	object:5
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:18
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:19
 title	_site/assets/js/search-data.json	/^    "title": "Organizers",$/;"	s	object:6
@@ -6407,11 +6411,11 @@ ul	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquot
 ul	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 ul	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:3
-url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:7
 url	_site/assets/js/search-data.json	/^    "url": "\/",$/;"	s	object:8
 url	_site/assets/js/search-data.json	/^    "url": "\/#confirmed-speakers",$/;"	s	object:2
 url	_site/assets/js/search-data.json	/^    "url": "\/#key-dates-and-deadlines",$/;"	s	object:0
+url	_site/assets/js/search-data.json	/^    "url": "\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm",$/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:6
 url	_site/assets/js/search-data.json	/^    "url": "\/#workshop-schedule-tentative",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/#workshop-themes",$/;"	s	object:1
@@ -6428,8 +6432,8 @@ url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/",$/;"	s	object
 url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#organizers",$/;"	s	object:18
 url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/",$/;"	s	object:21
 url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/#past-workshops",$/;"	s	object:20
-url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:23
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm",$/;"	s	object:23
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#workshop-schedule-tentative",$/;"	s	object:22
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:26
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:28

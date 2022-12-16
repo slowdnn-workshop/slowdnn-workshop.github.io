@@ -1,8 +1,8 @@
 ---
-name: Samuel Horvath
+name: Samuel Horváth
 role: Local Chair
 email: samuel.horvath@mbzuai.ac.ae
-website: https://sites.google.com/view/samuelhorvath
+website: https://mbzuai.ac.ae/study/faculty/samuel-horvath/
 affiliation: MBZUAI
 photo: sh.JPG
 ---
