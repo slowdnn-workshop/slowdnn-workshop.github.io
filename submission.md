@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 description: Call for papers and submission information
-nav_order: 1
+nav_order: 99
 ---
 
 {% include splash.html %}

@@ -3,33 +3,31 @@ title: "Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM"
 ---
 
 Tuesday, Jan 3 (Morning)
-: Educational tutorials, based on an [ICASSP 2022 short course](https://highdimdata-lowdimmodels-tutorial.github.io/) with new material
+: [Educational tutorials]({{ site.baseurl }}/tutorials)
    : 
-: 8:30 AM - 9:00 AM
-   : Yi Ma
 : 9:00 AM - 10:00 AM
-   : Yuqian Zhang
+   : [Yi Ma]({{ site.baseurl }}/tutorials/#introduction-to-low-dimensional-models) (UC Berkeley)
 : 10:00 AM - 11:00 AM
-   : Sam Buchanan
+   : [Yuqian Zhang]({{ site.baseurl }}/tutorials/#nonconvex-optimization-of-low-dimensional-models) (Rutgers)
 : 11:00 AM - 11:15 AM
    : *Coffee break*
 : 11:15 AM - 12:15 PM
-   : Zhihui Zhu
+   : [Sam Buchanan]({{ site.baseurl }}/tutorials/#learning-low-dimensional-structure-via-deep-networks) (TTIC)
 
 
 Tuesday, Jan 3 (Afternoon)
-: Educational tutorials, based on an [ICASSP 2022 short course](https://highdimdata-lowdimmodels-tutorial.github.io/) with new material
+: [Educational tutorials]({{ site.baseurl }}/tutorials)
    : 
 : 1:30 PM - 2:30 PM
-   : Yi Ma
+   : [Zhihui Zhu]({{ site.baseurl }}/tutorials/#learned-representations-and-low-dimensional-structures) (Ohio State)
 : 2:30 PM - 3:30 PM
-   : Yi Ma
+   : [Yi Ma]({{ site.baseurl }}/tutorials/#design-deep-networks-for-pursuing-low-dimensional-structures) (UC Berkeley)
 : 3:30 PM - 4:00 PM
    : *Coffee break*
 : 4:00 PM - 5:00 PM
-   : Atlas Wang
+   : [Atlas Wang]({{ site.baseurl }}/tutorials/#sparsity-neural-networks--practice-and-theory) (UT Austin)
 : 5:00 PM - 6:00 PM
-   : Saiprasad Ravishankar
+   : [Saiprasad Ravishankar]({{ site.baseurl }}/tutorials/#advancing-machine-learning-for-imaging--regularization-and-robustness) (Michigan State)
 
 Wednesday, Jan 4 (Morning)
 : Invited Talks: Theory + Optimization
