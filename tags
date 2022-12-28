@@ -903,9 +903,9 @@
 .highlight .table-wrapper td	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .highlight .table-wrapper td, .highlight .table-wrapper pre { fon/;"	s
 .highlight .table-wrapper td	_site/assets/css/just-the-docs-light.css	/^.highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 11px !important; min-wi/;"	s
 .highlight .table-wrapper td	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .highlight .table-wrapper td, .highlight .table-wrapper pre { fon/;"	s
-.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; }$/;"	c
-.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-default.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; }$/;"	c
-.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-light.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; }$/;"	c
+.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; padding-left: 0.75rem; }$/;"	c
+.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-default.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; padding-left: 0.75rem; }$/;"	c
+.highlight .table-wrapper td.gl	_site/assets/css/just-the-docs-light.css	/^.highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; padding-left: 0.75rem; }$/;"	c
 .highlight .vc	_site/assets/css/just-the-docs-dark.css	/^.highlight .vc { color: #268bd2; }$/;"	c
 .highlight .vc	_site/assets/css/just-the-docs-dark.css	/^.highlight .vc { color: #fdce68; }$/;"	c
 .highlight .vc	_site/assets/css/just-the-docs-default.css	/^.highlight .vc { color: #268bd2; }$/;"	c
@@ -5289,6 +5289,9 @@
 ::selection	_site/assets/css/just-the-docs-dark.css	/^::selection { color: #fff; background: #2c84fa; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-default.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-light.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
+:not(pre) > code	_site/assets/css/just-the-docs-dark.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; border: 1/;"	s
+:not(pre) > code	_site/assets/css/just-the-docs-default.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
+:not(pre) > code	_site/assets/css/just-the-docs-light.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
 Abstract	speakers.md	/^#### Abstract$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Announcements	announcements.md	/^# Announcements$/;"	c
@@ -5297,6 +5300,9 @@ AnonymousFunction44e4342b0100	_site/assets/js/just-the-docs.js	/^  else document
 AnonymousFunction44e4342b0200	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(document, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0300	_site/assets/js/just-the-docs.js	/^  jtd.addEvent(menuButton, 'click', function(e){$/;"	f
 AnonymousFunction44e4342b0400	_site/assets/js/just-the-docs.js	/^jtd.onReady(function(){$/;"	f
+AnonymousFunction44e4342b0500	_site/assets/js/just-the-docs.js	/^jtd.onReady(function(){$/;"	f
+AnonymousFunction44e4342b0600	_site/assets/js/just-the-docs.js	/^    copyButton.addEventListener('click', function () {$/;"	f
+AnonymousFunction44e4342b0700	_site/assets/js/just-the-docs.js	/^        timeout = setTimeout(function () {$/;"	f	function:AnonymousFunction44e4342b0600
 Atlas Wang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Atlas Wang	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Beidi Chen	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5317,6 +5323,26 @@ Confirmed Speakers	README.md	/^# Confirmed Speakers$/;"	c
 Confirmed Speakers	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Confirmed Speakers	speakers.md	/^# Confirmed Speakers$/;"	c
+Copied	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copied	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Copy	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Daniel Soudry	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Daniel Soudry	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Document	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5418,6 +5444,7 @@ Qi Lei	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset=
 Qi Lei	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Qing Qu	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Qing Qu	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Qing Qu	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Reinhard Heckel	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Reinhard Heckel	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 René Vidal	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5428,8 +5455,8 @@ Saiprasad Ravishankar	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 Saiprasad Ravishankar	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sam Buchanan	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Samuel Horvath	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Samuel Horvath	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Samuel Horváth	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Samuel Horváth	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saturday, Jan 7	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Schedule | SLowDNN Workshop	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5526,6 +5553,7 @@ abstract-17	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 abstract-18	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-19	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-2	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+abstract-20	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-3	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-4	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-5	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -5609,15 +5637,12 @@ card	_sass/custom/card.scss	/^%card {$/;"	P
 cell-size	_sass/custom/calendar.scss	/^  $cell-size: 90px;$/;"	v
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height/;"	s
 code	_site/assets/css/just-the-docs-dark.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
-code	_site/assets/css/just-the-docs-dark.css	/^code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; border: 1px solid #44/;"	s
 code	_site/assets/css/just-the-docs-dark.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 code	_site/assets/css/just-the-docs-default.css	/^code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height/;"	s
 code	_site/assets/css/just-the-docs-default.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
-code	_site/assets/css/just-the-docs-default.css	/^code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #ee/;"	s
 code	_site/assets/css/just-the-docs-default.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code { font-family: "SFMono-Regular", menlo, consolas, monospace; font-size: 0.75em; line-height/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code { font-size: 14px; padding: 0.2em 0.4em; border: none; }$/;"	s
-code	_site/assets/css/just-the-docs-light.css	/^code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #ee/;"	s
 code	_site/assets/css/just-the-docs-light.css	/^code, kbd, samp { font-family: monospace, monospace; \/* 1 *\/ font-size: 1em; \/* 2 *\/ }$/;"	s
 code.language-mermaid	_site/assets/css/just-the-docs-dark.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
 code.language-mermaid	_site/assets/css/just-the-docs-default.css	/^code.language-mermaid { padding: 0; background-color: inherit; border: 0; }$/;"	c
@@ -5677,30 +5702,60 @@ details	_site/assets/css/just-the-docs-light.css	/^details { margin: 0 40px 1em;
 div	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 div	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 div	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
-div.highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.highlighter-rouge code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.highlighter-rouge code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.highlighter-rouge code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.listingblock > div.content	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content { padding: 0.75rem; margin-top: 0; margin-/;"	c
-div.listingblock > div.content code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.listingblock > div.content code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.listingblock > div.content code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	s
-div.listingblock > div.content div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
-div.listingblock > div.content pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.highlighter-rouge pre.highlight, div.highlighter-rouge /;"	c
+div.highlighter-rouge	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.highlighter-rouge	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.highlighter-rouge	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.highlighter-rouge > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.highlighter-rouge > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.highlighter-rouge > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.highlighter-rouge > button svg	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.highlighter-rouge > button:active	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.highlighter-rouge > button:focus	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.highlighter-rouge code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.highlighter-rouge code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.highlighter-rouge code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.highlighter-rouge div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
+div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
+div.highlighter-rouge pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
+div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.highlighter-rouge:hover > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.listingblock > div.content	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.listingblock > div.content	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.listingblock > div.content	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+div.listingblock > div.content > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.listingblock > div.content > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.listingblock > div.content > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.listingblock > div.content > button svg	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.listingblock > div.content > button:active	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.listingblock > div.content > button:focus	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.listingblock > div.content:hover > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+div.listingblock code	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.listingblock code	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.listingblock code	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	s
+div.listingblock div.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.listingblock div.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.listingblock div.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge div.highlight, div.listingblock div.highlight { overflow-x: auto; padding:/;"	c
+div.listingblock pre.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
+div.listingblock pre.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
+div.listingblock pre.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingblock pre.highlight,/;"	c
 div.opaque	_site/assets/css/just-the-docs-dark.css	/^div.opaque { background-color: #27262b; }$/;"	c
 div.opaque	_site/assets/css/just-the-docs-default.css	/^div.opaque { background-color: #fff; }$/;"	c
 div.opaque	_site/assets/css/just-the-docs-light.css	/^div.opaque { background-color: #fff; }$/;"	c
@@ -5760,15 +5815,30 @@ fieldset	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, bl
 figure	_site/assets/css/just-the-docs-dark.css	/^figure, pre { margin: 0; }$/;"	s
 figure	_site/assets/css/just-the-docs-default.css	/^figure, pre { margin: 0; }$/;"	s
 figure	_site/assets/css/just-the-docs-light.css	/^figure, pre { margin: 0; }$/;"	s
-figure.highlight	_site/assets/css/just-the-docs-dark.css	/^figure.highlight { padding: 0.75rem; margin-top: 0; margin-bottom: 0.75rem; overflow-x: auto; ba/;"	c
-figure.highlight	_site/assets/css/just-the-docs-default.css	/^figure.highlight { padding: 0.75rem; margin-top: 0; margin-bottom: 0.75rem; overflow-x: auto; ba/;"	c
-figure.highlight	_site/assets/css/just-the-docs-light.css	/^figure.highlight { padding: 0.75rem; margin-top: 0; margin-bottom: 0.75rem; overflow-x: auto; ba/;"	c
-figure.highlight code	_site/assets/css/just-the-docs-dark.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
-figure.highlight code	_site/assets/css/just-the-docs-default.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
-figure.highlight code	_site/assets/css/just-the-docs-light.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
-figure.highlight pre	_site/assets/css/just-the-docs-dark.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
-figure.highlight pre	_site/assets/css/just-the-docs-default.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
-figure.highlight pre	_site/assets/css/just-the-docs-light.css	/^figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; }$/;"	s
+figure.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+figure.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+figure.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
+figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-dark.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-default.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight :not(pre) > code	_site/assets/css/just-the-docs-light.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+figure.highlight > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+figure.highlight > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button, div.listingblock > div.content > button, figure.highlight > butt/;"	s
+figure.highlight > button svg	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+figure.highlight > button svg	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+figure.highlight > button svg	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button svg, div.listingblock > div.content > button svg, figure.highligh/;"	s
+figure.highlight > button:active	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+figure.highlight > button:active	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+figure.highlight > button:active	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:active, div.listingblock > div.content > button:active, figure.hi/;"	s
+figure.highlight > button:focus	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+figure.highlight > button:focus	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+figure.highlight > button:focus	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge > button:focus, div.listingblock > div.content > button:focus, figure.high/;"	s
+figure.highlight pre	_site/assets/css/just-the-docs-dark.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight pre	_site/assets/css/just-the-docs-default.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight pre	_site/assets/css/just-the-docs-light.css	/^figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; ma/;"	s
+figure.highlight:hover > button	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+figure.highlight:hover > button	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
+figure.highlight:hover > button	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge:hover > button, div.listingblock > div.content:hover > button, figure.high/;"	s
 form	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 form	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 form	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -6005,6 +6075,7 @@ progress	_site/assets/css/just-the-docs-dark.css	/^progress { vertical-align: ba
 progress	_site/assets/css/just-the-docs-default.css	/^progress { vertical-align: baseline; }$/;"	s
 progress	_site/assets/css/just-the-docs-light.css	/^progress { vertical-align: baseline; }$/;"	s
 qi-lei	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+qing-qu	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 reinhard-heckel	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:3
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/"$/;"	s	object:7
@@ -6202,6 +6273,26 @@ svg-arrow-right	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><h
 svg-arrow-right	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-arrow-right	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copied	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+svg-copy	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-doc	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6370,6 +6461,7 @@ title-strong-inductive-biases-provably-prevent-harmless-interpolation	_site/spea
 title-tba	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-next-generation-of-reliable-ai-from-digital-to-analog-hardware	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-the-role-of-data-and-models-for-deep-learning-based-image-reconstruction	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-understanding-deep-neural-networks-via-neural-collapse	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-why-do-neural-models-need-so-many-parameters	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 tomaso-poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 top	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
