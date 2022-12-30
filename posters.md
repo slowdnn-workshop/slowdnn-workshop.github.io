@@ -130,6 +130,9 @@ Dimension Mixer Model: Group Mixing of Input Dimensions for Efficient Function A
 PSPS: Preconditioned Stochastic Polyak Step-size method for badly scaled data
   : Farshed Abdukhakimov, XIANG CHULU, Dmitry Kamzolov, Robert M. Gower, Martin Takac
 
+Lifted Bregman Training of Neural Networks
+  : Xiaoyu Wang, Martin Benning
+
 ## Friday, January 6th 
 
 Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold
@@ -158,9 +161,6 @@ Certified Defenses Against Near-Subspace Unrestricted Adversarial Attacks
 
 Representation Learning Through Manifold Flattening and Reconstruction
   : Michael Psenka, Druv Pai, Vishal G Raman, Shankar Sastry, Yi Ma
-
-Lifted Bregman Training of Neural Networks
-  : Xiaoyu Wang, Martin Benning
 
 Flat minima generalize for low-rank matrix recovery
   : Lijun Ding, Dmitriy Drusvyatskiy, Maryam Fazel
