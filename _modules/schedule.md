@@ -63,7 +63,7 @@ Thursday, Jan 5 (Morning)
 : Invited Talks: Representation Learning
    : 
 : 8:30 AM - 9:00 AM
-   : *Breakfast*
+   : Arrival
 : 9:00 AM - 10:00 AM
    : [Michael Elad]({{ site.baseurl }}/speakers/#michael-elad) (Technion; *remote*)
 : 10:00 AM - 11:00 AM
@@ -93,7 +93,7 @@ Friday, Jan 6 (Morning)
 : Invited Talks: Deep Learning + Systems
    : 
 : 8:30 AM - 9:00 AM
-   : *Breakfast*
+   : Arrival
 : 9:00 AM - 10:00 AM
    : [Gitta Kutyniok]({{ site.baseurl }}/speakers/#gitta-kutyniok) (LMU Munich)
 : 10:00 AM - 11:00 AM
