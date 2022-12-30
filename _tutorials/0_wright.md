@@ -1,7 +1,7 @@
 ---
-name: Yi Ma
-website: https://people.eecs.berkeley.edu/~yima/
-affiliation: UC Berkeley
+name: John Wright
+website: http://www.columbia.edu/~jw2966/
+affiliation: Columbia University
 tutorial: Introduction to Low-Dimensional Models
 abstract: "The first session will introduce fundamental properties and
 theoretical results for sensing, processing, analyzing, and learning
@@ -13,5 +13,5 @@ relaxation, we will characterize the conditions, in terms of sample/data
 complexity, under which the inverse problems of recovering such low-dimensional
 structures become tractable and can be solved efficiently, with guaranteed
 correctness or accuracy."
-photo: ma.jpeg
+photo: jw.jpg
 ---

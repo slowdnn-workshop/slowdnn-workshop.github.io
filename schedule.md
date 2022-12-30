@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 description: Listing of workshop program
-nav_order: 2
+nav_order: 1
 ---
 
 {% include splash.html %}

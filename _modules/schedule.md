@@ -6,7 +6,7 @@ Tuesday, Jan 3 (Morning)
 : [Educational tutorials]({{ site.baseurl }}/tutorials)
    : 
 : 9:00 AM - 10:00 AM
-   : [Yi Ma]({{ site.baseurl }}/tutorials/#introduction-to-low-dimensional-models) (UC Berkeley)
+   : [John Wright]({{ site.baseurl }}/tutorials/#introduction-to-low-dimensional-models) (Columbia; *remote*)
 : 10:00 AM - 11:00 AM
    : [Yuqian Zhang]({{ site.baseurl }}/tutorials/#nonconvex-optimization-of-low-dimensional-models) (Rutgers)
 : 11:00 AM - 11:15 AM
@@ -19,7 +19,7 @@ Tuesday, Jan 3 (Afternoon)
 : [Educational tutorials]({{ site.baseurl }}/tutorials)
    : 
 : 1:30 PM - 2:30 PM
-   : [Zhihui Zhu]({{ site.baseurl }}/tutorials/#learned-representations-and-low-dimensional-structures) (Ohio State)
+   : [Zhihui Zhu]({{ site.baseurl }}/tutorials/#learned-representations-and-low-dimensional-structures) (Ohio State; *remote*)
 : 2:30 PM - 3:30 PM
    : [Yi Ma]({{ site.baseurl }}/tutorials/#design-deep-networks-for-pursuing-low-dimensional-structures) (UC Berkeley)
 : 3:30 PM - 4:00 PM
@@ -65,7 +65,7 @@ Thursday, Jan 5 (Morning)
 : 8:30 AM - 9:00 AM
    : *Breakfast*
 : 9:00 AM - 10:00 AM
-   : [Michael Elad]({{ site.baseurl }}/speakers/#michael-elad) (Technion)
+   : [Michael Elad]({{ site.baseurl }}/speakers/#michael-elad) (Technion; *remote*)
 : 10:00 AM - 11:00 AM
    : [Weijie Su]({{ site.baseurl }}/speakers/#weijie-su) (UPenn)
 : 11:00 AM - 11:15 AM
@@ -97,7 +97,7 @@ Friday, Jan 6 (Morning)
 : 9:00 AM - 10:00 AM
    : [Gitta Kutyniok]({{ site.baseurl }}/speakers/#gitta-kutyniok) (LMU Munich)
 : 10:00 AM - 11:00 AM
-   : [Beidi Chen]({{ site.baseurl }}/speakers/#beidi-chen) (Meta)
+   : [Beidi Chen]({{ site.baseurl }}/speakers/#beidi-chen) (Meta; *remote*)
 : 11:00 AM - 11:15 AM
    : *Coffee break and poster session*
 : 11:15 AM - 12:15 AM
@@ -121,7 +121,8 @@ Friday, Jan 6 (Afternoon)
 
 
 Saturday, Jan 7
-: Social Events
+: Social Event: Tour of Le Louvre Abu Dhabi
    : 
-: Local tour of Abu Dhabi or day tour of Dubai for networking
+: 9:45 AM - 12:30 PM
+   : Tour departs from the W Hotel
 
