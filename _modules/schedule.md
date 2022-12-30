@@ -39,7 +39,7 @@ Wednesday, Jan 4 (Morning)
 : 10:00 AM - 11:00 AM
    : [Simon Du]({{ site.baseurl }}/speakers/#simon-du) (UW)
 : 11:00 AM - 11:15 AM
-   : *Coffee break and poster session*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
 : 11:15 AM - 12:15 PM
    : [Qi Lei]({{ site.baseurl }}/speakers/#qi-lei) (NYU)
 
@@ -51,13 +51,13 @@ Wednesday, Jan 4 (Afternoon)
 : 2:30 PM - 3:30 PM
    : [Mahdi Soltanolkotabi]({{ site.baseurl }}/speakers/#mahdi-soltanolkotabi) (USC)
 : 3:30 PM - 4:00 PM
-   : *Coffee break and poster session*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
 : 4:00 PM - 5:00 PM
    : [Reinhard Heckel]({{ site.baseurl }}/speakers/#reinhard-heckel) (TU Munich)
 : 5:00 PM - 6:00 PM
    : [Bihan Wen]({{ site.baseurl }}/speakers/#bihan-wen) (NTU)
 : 6:00 PM - 6:30 PM
-   : *Poster session*
+   : *[Poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
 
 Thursday, Jan 5 (Morning)
 : Invited Talks: Representation Learning
@@ -69,7 +69,7 @@ Thursday, Jan 5 (Morning)
 : 10:00 AM - 11:00 AM
    : [Weijie Su]({{ site.baseurl }}/speakers/#weijie-su) (UPenn)
 : 11:00 AM - 11:15 AM
-   : *Coffee break and poster session*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 : 11:15 AM - 12:15 PM
    : [Qing Qu]({{ site.baseurl }}/speakers/#qing-qu) (UMich)
 
@@ -81,13 +81,13 @@ Thursday, Jan 5 (Afternoon)
 : 2:30 PM - 3:30 PM
    : [Ohad Shamir]({{ site.baseurl }}/speakers/#ohad-shamir) (Weizmann Institute)
 : 3:30 PM - 4:00 PM
-   : *Coffee break*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 : 4:00 PM - 5:00 PM
    : [Yu-Xiang Wang]({{ site.baseurl }}/speakers/#yu-xiang-wang) (UCSB)
 : 5:00 PM - 6:00 PM
    : *Panel* (Yi Ma, René Vidal, Yuejie Chi, Eric Xing, Martin Takáč, Karthik Nandakumar, Samuel Horvath)
 : 6:00 PM - 6:30 PM
-   : *Poster session*
+   : *[Poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 
 Friday, Jan 6 (Morning)
 : Invited Talks: Deep Learning + Systems
@@ -99,7 +99,7 @@ Friday, Jan 6 (Morning)
 : 10:00 AM - 11:00 AM
    : [Beidi Chen]({{ site.baseurl }}/speakers/#beidi-chen) (Meta; *remote*)
 : 11:00 AM - 11:15 AM
-   : *Coffee break and poster session*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#friday-january-6th)*
 : 11:15 AM - 12:15 AM
    : [Rina Panigrahy]({{ site.baseurl }}/speakers/#rina-panigrahy) (Google)
 
@@ -111,13 +111,13 @@ Friday, Jan 6 (Afternoon)
 : 2:30 PM - 3:30 PM
    : [Ivan Dokmanić]({{ site.baseurl }}/speakers/#ivan-dokmanić) (Univ. of Basel)
 : 3:30 PM - 4:00 PM
-   : *Coffee break*
+   : *Coffee break and [poster session]({{site.baseurl}}/posters/#friday-january-6th)*
 : 4:00 PM - 5:00 PM
    : [Jason Lee]({{ site.baseurl }}/speakers/#jason-lee) (Princeton)
 : 5:00 PM - 6:00 PM
    : [Fanny Yang]({{ site.baseurl }}/speakers/#fanny-yang) (ETH Zurich)
 : 6:00 PM - 6:30 PM
-   : *Poster session*
+   : *[Poster session]({{site.baseurl}}/posters/#friday-january-6th)*
 
 
 Saturday, Jan 7
