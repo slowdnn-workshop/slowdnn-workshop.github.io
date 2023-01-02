@@ -3,7 +3,7 @@ title: "Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM"
 ---
 
 Tuesday, Jan 3 (Morning)
-: [Educational tutorials]({{ site.baseurl }}/tutorials) (Chair: Qing Qu)
+: [Educational tutorials]({{ site.baseurl }}/tutorials) (Chair: Atlas Wang)
    : 
 : 9:00 AM - 10:00 AM
    : [John Wright]({{ site.baseurl }}/tutorials/#introduction-to-low-dimensional-models) (Columbia; *remote*)
