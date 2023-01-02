@@ -10,15 +10,27 @@ nav_order: 0
 **Join Us in Abu Dhabi from 3-7 January 2023!**
 {: .text-center .fs-7 }
 
+**[Live Stream](https://www.youtube.com/@MBZUAI/featured)**
+| **[Workshop Schedule]({{site.baseurl}}/schedule)**
+{: .text-center .fs-6 }
+
+Tuesday, January 3rd: <br>
+**[Tutorials]({{site.baseurl}}/tutorials) in Studio 5 at the W Hotel**
+{: .text-center .fs-6 }
+
+Wednesday, January 4rd -- Friday, January 6th:<br>
+**[Talks]({{site.baseurl}}/speakers) in Great Hall 1 at the W Hotel**
+{: .text-center .fs-6 }
+
 
 Announcing the workshop venue: [W Abu Dhabi
 Hotel]({{site.base}}/travel#workshop-venue) at Yas Island
-{: .text-center .fs-6 }
+{: .text-center .fs-5 }
 
 [Register
 here](https://docs.google.com/forms/d/e/1FAIpQLScMqcyVsrldFpZPwjajr2hcYz9aKx5V3riFNAEUQ7vswlrw7g/viewform)
 for in-person and remote participation
-{: .text-center .fs-6 }
+{: .text-center .fs-4 }
 
 
 <!---
@@ -85,7 +97,7 @@ Information on the speakers' planned talks is available [here]({{site.baseurl}}/
 
 {% include speakers.html %}
 
-# Workshop Schedule (Tentative)
+# Workshop Schedule
 
 All times in GST (GMT+4).
 

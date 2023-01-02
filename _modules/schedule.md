@@ -3,7 +3,7 @@ title: "Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM"
 ---
 
 Tuesday, Jan 3 (Morning)
-: [Educational tutorials]({{ site.baseurl }}/tutorials)
+: [Educational tutorials]({{ site.baseurl }}/tutorials) (Chair: Qing Qu)
    : 
 : 9:00 AM - 10:00 AM
    : [John Wright]({{ site.baseurl }}/tutorials/#introduction-to-low-dimensional-models) (Columbia; *remote*)
@@ -15,8 +15,8 @@ Tuesday, Jan 3 (Morning)
    : [Sam Buchanan]({{ site.baseurl }}/tutorials/#learning-low-dimensional-structure-via-deep-networks) (TTIC)
 
 
-Tuesday, Jan 3 (Afternoon)
-: [Educational tutorials]({{ site.baseurl }}/tutorials)
+Tuesday, Jan 3 (Afternoon) 
+: [Educational tutorials]({{ site.baseurl }}/tutorials) (Chair: Sam Buchanan)
    : 
 : 1:30 PM - 2:30 PM
    : [Zhihui Zhu]({{ site.baseurl }}/tutorials/#learned-representations-and-low-dimensional-structures) (Ohio State; *remote*)
@@ -30,7 +30,7 @@ Tuesday, Jan 3 (Afternoon)
    : [Saiprasad Ravishankar]({{ site.baseurl }}/tutorials/#advancing-machine-learning-for-imaging--regularization-and-robustness) (Michigan State)
 
 Wednesday, Jan 4 (Morning)
-: Invited Talks: Theory + Optimization
+: Invited Talks: Theory + Optimization (Chair: Qing Qu)
    : 
 : 8:30 AM - 9:00 AM
    : Opening (Yi Ma)
@@ -44,7 +44,7 @@ Wednesday, Jan 4 (Morning)
    : [Qi Lei]({{ site.baseurl }}/speakers/#qi-lei) (NYU)
 
 Wednesday, Jan 4 (Afternoon)
-: Invited Talks: Image Recovery
+: Invited Talks: Image Recovery (Chair: Saiprasad Ravishankar)
    : 
 : 1:30 PM - 2:30 PM
    : [René Vidal]({{ site.baseurl }}/speakers/#rené-vidal) (JHU)
@@ -60,12 +60,12 @@ Wednesday, Jan 4 (Afternoon)
    : *[Poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
 
 Thursday, Jan 5 (Morning)
-: Invited Talks: Representation Learning
+: Invited Talks: Representation Learning (Chair: Yi Ma)
    : 
 : 8:30 AM - 9:00 AM
    : Arrival
 : 9:00 AM - 10:00 AM
-   : [Michael Elad]({{ site.baseurl }}/speakers/#michael-elad) (Technion; *remote*)
+   : [Yi Ma]({{ site.baseurl }}/speakers/#yi-ma) (UC Berkeley)
 : 10:00 AM - 11:00 AM
    : [Weijie Su]({{ site.baseurl }}/speakers/#weijie-su) (UPenn)
 : 11:00 AM - 11:15 AM
@@ -74,7 +74,7 @@ Thursday, Jan 5 (Morning)
    : [Qing Qu]({{ site.baseurl }}/speakers/#qing-qu) (UMich)
 
 Thursday, Jan 5 (Afternoon)
-: Invited Talks: Implicit Bias
+: Invited Talks: Implicit Bias (Chair: Yuqian Zhang)
    : 
 : 1:30 PM - 2:30 PM
    : [Misha Belkin]({{ site.baseurl }}/speakers/#misha-belkin) (UCSD)
@@ -85,12 +85,12 @@ Thursday, Jan 5 (Afternoon)
 : 4:00 PM - 5:00 PM
    : [Yu-Xiang Wang]({{ site.baseurl }}/speakers/#yu-xiang-wang) (UCSB)
 : 5:00 PM - 6:00 PM
-   : *Panel* (Yi Ma, René Vidal, Yuejie Chi, Eric Xing, Martin Takáč, Karthik Nandakumar, Samuel Horvath)
+   : *Panel, moderated by Jeremias Sulam* (Yi Ma, Jason Lee, Eric Xing)
 : 6:00 PM - 6:30 PM
    : *[Poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 
 Friday, Jan 6 (Morning)
-: Invited Talks: Deep Learning + Systems
+: Invited Talks: Deep Learning + Systems (Chair: Atlas Wang)
    : 
 : 8:30 AM - 9:00 AM
    : Arrival
@@ -104,7 +104,7 @@ Friday, Jan 6 (Morning)
    : [Rina Panigrahy]({{ site.baseurl }}/speakers/#rina-panigrahy) (Google)
 
 Friday, Jan 6 (Afternoon)
-: Invited Talks: Data + Architectures
+: Invited Talks: Data + Architectures (Chair: Sam Buchanan)
    : 
 : 1:30 PM - 2:30 PM
    : [Daniel Soudry]({{ site.baseurl }}/speakers/#daniel-soudry) (Technion)

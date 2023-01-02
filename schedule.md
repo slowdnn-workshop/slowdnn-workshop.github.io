@@ -9,12 +9,12 @@ nav_order: 1
 
 
 <!---
-# Bird's Eye View of the Program (Tentative)
+# Bird's Eye View of the Program 
 
 All times in GST (GMT+4).
 -->
 
-# Workshop Schedule (Tentative)
+# Workshop Schedule
 
 All times in GST (GMT+4).
 

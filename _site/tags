@@ -201,9 +201,9 @@
 .breadcrumb-nav-list-item:last-child::after	_site/assets/css/just-the-docs-dark.css	/^.breadcrumb-nav-list-item:last-child::after { content: ""; }$/;"	c
 .breadcrumb-nav-list-item:last-child::after	_site/assets/css/just-the-docs-default.css	/^.breadcrumb-nav-list-item:last-child::after { content: ""; }$/;"	c
 .breadcrumb-nav-list-item:last-child::after	_site/assets/css/just-the-docs-light.css	/^.breadcrumb-nav-list-item:last-child::after { content: ""; }$/;"	c
-.btn	_site/assets/css/just-the-docs-dark.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	c
-.btn	_site/assets/css/just-the-docs-default.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	c
-.btn	_site/assets/css/just-the-docs-light.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	c
+.btn	_site/assets/css/just-the-docs-dark.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	c
+.btn	_site/assets/css/just-the-docs-default.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	c
+.btn	_site/assets/css/just-the-docs-light.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	c
 .btn-blue	_site/assets/css/just-the-docs-dark.css	/^.btn-blue { color: #fff; background-color: #227efa; background-image: linear-gradient(#4593fb, #/;"	c
 .btn-blue	_site/assets/css/just-the-docs-default.css	/^.btn-blue { color: #fff; background-color: #227efa; background-image: linear-gradient(#4593fb, #/;"	c
 .btn-blue	_site/assets/css/just-the-docs-light.css	/^.btn-blue { color: #fff; background-color: #227efa; background-image: linear-gradient(#4593fb, #/;"	c
@@ -3238,15 +3238,15 @@
 .my-xs-9	_site/assets/css/just-the-docs-dark.css	/^  .my-xs-9 { margin-top: 3.5rem !important; margin-bottom: 3.5rem !important; }$/;"	c
 .my-xs-9	_site/assets/css/just-the-docs-default.css	/^  .my-xs-9 { margin-top: 3.5rem !important; margin-bottom: 3.5rem !important; }$/;"	c
 .my-xs-9	_site/assets/css/just-the-docs-light.css	/^  .my-xs-9 { margin-top: 3.5rem !important; margin-bottom: 3.5rem !important; }$/;"	c
-.nav-category	_site/assets/css/just-the-docs-dark.css	/^.nav-category { padding-top: 0.5rem; padding-right: 1rem; padding-bottom: 0.5rem; padding-left: /;"	c
+.nav-category	_site/assets/css/just-the-docs-dark.css	/^.nav-category { padding: 0.5rem 1rem; font-weight: 600; text-align: start; text-transform: upper/;"	c
 .nav-category	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .nav-category { font-size: 12px !important; } }$/;"	c
-.nav-category	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .nav-category { padding-right: 2rem; padding-left: 2rem; margin-top:/;"	c
-.nav-category	_site/assets/css/just-the-docs-default.css	/^.nav-category { padding-top: 0.5rem; padding-right: 1rem; padding-bottom: 0.5rem; padding-left: /;"	c
+.nav-category	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .nav-category { padding: 0.5rem 2rem; margin-top: 1rem; text-align: /;"	c
+.nav-category	_site/assets/css/just-the-docs-default.css	/^.nav-category { padding: 0.5rem 1rem; font-weight: 600; text-align: start; text-transform: upper/;"	c
 .nav-category	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .nav-category { font-size: 12px !important; } }$/;"	c
-.nav-category	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .nav-category { padding-right: 2rem; padding-left: 2rem; margin-top:/;"	c
-.nav-category	_site/assets/css/just-the-docs-light.css	/^.nav-category { padding-top: 0.5rem; padding-right: 1rem; padding-bottom: 0.5rem; padding-left: /;"	c
+.nav-category	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .nav-category { padding: 0.5rem 2rem; margin-top: 1rem; text-align: /;"	c
+.nav-category	_site/assets/css/just-the-docs-light.css	/^.nav-category { padding: 0.5rem 1rem; font-weight: 600; text-align: start; text-transform: upper/;"	c
 .nav-category	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .nav-category { font-size: 12px !important; } }$/;"	c
-.nav-category	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .nav-category { padding-right: 2rem; padding-left: 2rem; margin-top:/;"	c
+.nav-category	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .nav-category { padding: 0.5rem 2rem; margin-top: 1rem; text-align: /;"	c
 .nav-category:first-child	_site/assets/css/just-the-docs-dark.css	/^  .nav-category:first-child { margin-top: 0; } }$/;"	c
 .nav-category:first-child	_site/assets/css/just-the-docs-default.css	/^  .nav-category:first-child { margin-top: 0; } }$/;"	c
 .nav-category:first-child	_site/assets/css/just-the-docs-light.css	/^  .nav-category:first-child { margin-top: 0; } }$/;"	c
@@ -4786,12 +4786,12 @@
 .search-button	_site/assets/css/just-the-docs-dark.css	/^.search-button { position: fixed; right: 1rem; bottom: 1rem; display: flex; width: 3.5rem; heigh/;"	c
 .search-button	_site/assets/css/just-the-docs-default.css	/^.search-button { position: fixed; right: 1rem; bottom: 1rem; display: flex; width: 3.5rem; heigh/;"	c
 .search-button	_site/assets/css/just-the-docs-light.css	/^.search-button { position: fixed; right: 1rem; bottom: 1rem; display: flex; width: 3.5rem; heigh/;"	c
-.search-input	_site/assets/css/just-the-docs-dark.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding-top: 0.5rem; padding-righ/;"	c
-.search-input	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .search-input { padding-top: 1rem; padding-bottom: 1rem; padding-lef/;"	c
-.search-input	_site/assets/css/just-the-docs-default.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding-top: 0.5rem; padding-righ/;"	c
-.search-input	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .search-input { padding-top: 1rem; padding-bottom: 1rem; padding-lef/;"	c
-.search-input	_site/assets/css/just-the-docs-light.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding-top: 0.5rem; padding-righ/;"	c
-.search-input	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .search-input { padding-top: 1rem; padding-bottom: 1rem; padding-lef/;"	c
+.search-input	_site/assets/css/just-the-docs-dark.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding: 0.5rem 1rem 0.5rem 2.5re/;"	c
+.search-input	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .search-input { padding: 0.5rem 1rem 0.5rem 3.5rem; font-size: 14px;/;"	c
+.search-input	_site/assets/css/just-the-docs-default.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding: 0.5rem 1rem 0.5rem 2.5re/;"	c
+.search-input	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .search-input { padding: 0.5rem 1rem 0.5rem 3.5rem; font-size: 14px;/;"	c
+.search-input	_site/assets/css/just-the-docs-light.css	/^.search-input { position: absolute; width: 100%; height: 100%; padding: 0.5rem 1rem 0.5rem 2.5re/;"	c
+.search-input	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .search-input { padding: 0.5rem 1rem 0.5rem 3.5rem; font-size: 14px;/;"	c
 .search-input-wrap	_site/assets/css/just-the-docs-dark.css	/^.search-input-wrap { position: relative; z-index: 1; height: 3rem; overflow: hidden; border-radi/;"	c
 .search-input-wrap	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .search-input-wrap { position: absolute; width: 100%; max-width: 536/;"	c
 .search-input-wrap	_site/assets/css/just-the-docs-default.css	/^.search-input-wrap { position: relative; z-index: 1; height: 3rem; overflow: hidden; border-radi/;"	c
@@ -4813,18 +4813,18 @@
 .search-label .search-icon	_site/assets/css/just-the-docs-dark.css	/^.search-label .search-icon { width: 1.2rem; height: 1.2rem; align-self: center; color: #959396; /;"	c
 .search-label .search-icon	_site/assets/css/just-the-docs-default.css	/^.search-label .search-icon { width: 1.2rem; height: 1.2rem; align-self: center; color: #959396; /;"	c
 .search-label .search-icon	_site/assets/css/just-the-docs-light.css	/^.search-label .search-icon { width: 1.2rem; height: 1.2rem; align-self: center; color: #959396; /;"	c
-.search-no-result	_site/assets/css/just-the-docs-dark.css	/^.search-no-result { padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding/;"	c
+.search-no-result	_site/assets/css/just-the-docs-dark.css	/^.search-no-result { padding: 0.5rem 0.75rem; font-size: 12px !important; }$/;"	c
 .search-no-result	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .search-no-result { font-size: 14px !important; } }$/;"	c
-.search-no-result	_site/assets/css/just-the-docs-default.css	/^.search-no-result { padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding/;"	c
+.search-no-result	_site/assets/css/just-the-docs-default.css	/^.search-no-result { padding: 0.5rem 0.75rem; font-size: 12px !important; }$/;"	c
 .search-no-result	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { .search-no-result { font-size: 14px !important; } }$/;"	c
-.search-no-result	_site/assets/css/just-the-docs-light.css	/^.search-no-result { padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding/;"	c
+.search-no-result	_site/assets/css/just-the-docs-light.css	/^.search-no-result { padding: 0.5rem 0.75rem; font-size: 12px !important; }$/;"	c
 .search-no-result	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { .search-no-result { font-size: 14px !important; } }$/;"	c
 .search-overlay	_site/assets/css/just-the-docs-dark.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
 .search-overlay	_site/assets/css/just-the-docs-default.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
 .search-overlay	_site/assets/css/just-the-docs-light.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
-.search-result	_site/assets/css/just-the-docs-dark.css	/^.search-result { display: block; padding-top: 0.25rem; padding-right: 0.75rem; padding-bottom: 0/;"	c
-.search-result	_site/assets/css/just-the-docs-default.css	/^.search-result { display: block; padding-top: 0.25rem; padding-right: 0.75rem; padding-bottom: 0/;"	c
-.search-result	_site/assets/css/just-the-docs-light.css	/^.search-result { display: block; padding-top: 0.25rem; padding-right: 0.75rem; padding-bottom: 0/;"	c
+.search-result	_site/assets/css/just-the-docs-dark.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
+.search-result	_site/assets/css/just-the-docs-default.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
+.search-result	_site/assets/css/just-the-docs-light.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-dark.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-default.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-light.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
@@ -4905,15 +4905,15 @@
 .search-results-list-item	_site/assets/css/just-the-docs-light.css	/^.search-results-list-item { padding: 0; margin: 0; }$/;"	c
 .side-bar	_site/assets/css/just-the-docs-dark.css	/^  .side-bar { width: 100%; height: auto; border-right: 0 !important; }$/;"	c
 .side-bar	_site/assets/css/just-the-docs-dark.css	/^.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #27262b; }$/;"	c
-.side-bar	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .side-bar { flex-wrap: nowrap; position: fixed; width: 248px; height/;"	c
+.side-bar	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 248px;/;"	c
 .side-bar	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) \/ 2 + 264px); min-width: /;"	c
 .side-bar	_site/assets/css/just-the-docs-default.css	/^  .side-bar { width: 100%; height: auto; border-right: 0 !important; }$/;"	c
 .side-bar	_site/assets/css/just-the-docs-default.css	/^.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }$/;"	c
-.side-bar	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .side-bar { flex-wrap: nowrap; position: fixed; width: 248px; height/;"	c
+.side-bar	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 248px;/;"	c
 .side-bar	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) \/ 2 + 264px); min-width: /;"	c
 .side-bar	_site/assets/css/just-the-docs-light.css	/^  .side-bar { width: 100%; height: auto; border-right: 0 !important; }$/;"	c
 .side-bar	_site/assets/css/just-the-docs-light.css	/^.side-bar { z-index: 0; display: flex; flex-wrap: wrap; background-color: #f5f6fa; }$/;"	c
-.side-bar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .side-bar { flex-wrap: nowrap; position: fixed; width: 248px; height/;"	c
+.side-bar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 50rem) { .side-bar { flex-flow: column nowrap; position: fixed; width: 248px;/;"	c
 .side-bar	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) \/ 2 + 264px); min-width: /;"	c
 .site-button	_site/assets/css/just-the-docs-dark.css	/^.site-button { display: flex; height: 100%; padding: 1rem; align-items: center; }$/;"	c
 .site-button	_site/assets/css/just-the-docs-dark.css	/^@media print { .site-footer, .site-button, #edit-this-page, #back-to-top, .site-nav, .main-heade/;"	c
@@ -5304,8 +5304,8 @@
 :not(pre) > code	_site/assets/css/just-the-docs-default.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
 :not(pre) > code	_site/assets/css/just-the-docs-light.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
 Abstract	speakers.md	/^#### Abstract$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
-Accepted Papers and Tentative Poster Session Assignments	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Accepted Papers and Tentative Poster Session Assignments	posters.md	/^# Accepted Papers and Tentative Poster Session Assignments$/;"	c
+Accepted Papers and Poster Session Assignments	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Accepted Papers and Poster Session Assignments	posters.md	/^# Accepted Papers and Poster Session Assignments$/;"	c
 Accepted Papers | SLowDNN Workshop	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Advancing Machine Learning for Imaging – Regularization and Robustness	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Announcements	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
@@ -5396,7 +5396,7 @@ Fanny Yang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta char
 Fanny Yang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Friday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Friday, January 6th	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
-Friday, January 6th	posters.md	/^## Friday, January 6th $/;"	s	chapter:Accepted Papers and Tentative Poster Session Assignments
+Friday, January 6th	posters.md	/^## Friday, January 6th $/;"	s	chapter:Accepted Papers and Poster Session Assignments
 Gitta Kutyniok	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Gitta Kutyniok	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Home | SLowDNN Workshop	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5457,8 +5457,6 @@ Menu	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta c
 Menu	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Menu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Michael Elad	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Michael Elad	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Misha Belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Morning sessions 9 AM - 12 PM; Afternoon sessions 1:30 PM - 6 PM	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
@@ -5522,7 +5520,7 @@ Talk Details	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head
 Talk Details	speakers.md	/^# Talk Details$/;"	c
 Thursday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Thursday, January 5th	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
-Thursday, January 5th	posters.md	/^## Thursday, January 5th $/;"	s	chapter:Accepted Papers and Tentative Poster Session Assignments
+Thursday, January 5th	posters.md	/^## Thursday, January 5th $/;"	s	chapter:Accepted Papers and Poster Session Assignments
 Title: {{ speaker.talk }}	speakers.md	/^#### Title: {{ speaker.talk }}$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Tomaso Poggio	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Tomaso Poggio	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5539,21 +5537,22 @@ Tutorials	tutorials.md	/^# Tutorials$/;"	c
 Tutorials | SLowDNN Workshop	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Wednesday	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Wednesday, January 4th	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
-Wednesday, January 4th	posters.md	/^## Wednesday, January 4th $/;"	s	chapter:Accepted Papers and Tentative Poster Session Assignments
+Wednesday, January 4th	posters.md	/^## Wednesday, January 4th $/;"	s	chapter:Accepted Papers and Poster Session Assignments
 Week 0 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Week 1 Announcement	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Weijie Su	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Weijie Su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Workshop Schedule (Tentative)	README.md	/^# Workshop Schedule (Tentative)$/;"	c
-Workshop Schedule (Tentative)	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Workshop Schedule (Tentative)	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
-Workshop Schedule (Tentative)	schedule.md	/^# Workshop Schedule (Tentative)$/;"	c
+Workshop Schedule	README.md	/^# Workshop Schedule$/;"	c
+Workshop Schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
+Workshop Schedule	schedule.md	/^# Workshop Schedule$/;"	c
 Workshop Themes	README.md	/^# Workshop Themes$/;"	c
 Workshop Themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Workshop Venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Workshop Venue	travel.md	/^# Workshop Venue$/;"	c
 Yi Ma	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yi Ma	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
+Yi Ma	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yi Ma	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yu-Xiang Wang	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Yu-Xiang Wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5614,7 +5613,7 @@ abstract-7	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><
 abstract-8	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-9	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 abstract-card	_sass/custom/card.scss	/^@mixin abstract-card() {$/;"	m
-accepted-papers-and-tentative-poster-session-assignments	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+accepted-papers-and-poster-session-assignments	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 active	_sass/custom/custom_backup.scss	/^      &.active {$/;"	c
 active	_sass/custom/custom_backup.scss	/^    &.active {$/;"	c
 addEvent	_site/assets/js/just-the-docs.js	/^jtd.addEvent = function(el, type, handler) {$/;"	f	function:jtd
@@ -5745,8 +5744,8 @@ content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on See
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:49
 content	_site/assets/js/search-data.json	/^    "content": "Third Workshop on Seeking Low&#8209;Dimensionality in Deep&nbsp;Neural&nbsp;Netw/;"	s	object:8
 content	_site/assets/js/search-data.json	/^    "content": "Topics of interest include, but are not limited to, connections between low-dime/;"	s	object:41
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials 9:00 AM - 10:00 AM John Wright (C/;"	s	object:30
-content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials 9:00 AM - 10:00 AM John Wright (C/;"	s	object:5
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials (Chair: Qing Qu) 9:00 AM - 10:00 /;"	s	object:30
+content	_site/assets/js/search-data.json	/^    "content": "Tuesday, Jan 3 (Morning) Educational tutorials (Chair: Qing Qu) 9:00 AM - 10:00 /;"	s	object:5
 content	_site/assets/js/search-data.json	/^    "content": "We aim to showcase: . | The latest research innovations at all stages of the res/;"	s	object:42
 content	_site/assets/js/search-data.json	/^    "content": "We will use OpenReview to manage submissions. Submit your work here: . https:\/\//;"	s	object:39
 content	_site/assets/js/search-data.json	/^    "content": "Yi Ma . UC Berkeley . General Chair . Eric P. Xing . MBZUAI . General Chair (Loc/;"	s	object:18
@@ -6098,7 +6097,6 @@ menu-button	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head>
 menu-button	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 menu-button	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-michael-elad	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 misha-belkin	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 module	_sass/custom/module.scss	/^.main-content .module,$/;"	c
 module	_sass/custom/module.scss	/^.module {$/;"	c
@@ -6171,7 +6169,7 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#confirmed-speakers"$
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#key-dates-and-deadlines"$/;"	s	object:0
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm"$/;"	s	object:5
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#organizers"$/;"	s	object:6
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#workshop-schedule-tentative"$/;"	s	object:4
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#workshop-schedule"$/;"	s	object:4
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/#workshop-themes"$/;"	s	object:1
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:10
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/announcements\/"$/;"	s	object:11
@@ -6187,7 +6185,7 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/organizers\/#organize
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/"$/;"	s	object:21
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/past_workshops\/#past-workshops"$/;"	s	object:20
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/"$/;"	s	object:28
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#accepted-papers-and-tentative-poster-session-assignments"$/;"	s	object:24
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#accepted-papers-and-poster-session-assignments"$/;"	s	object:24
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#friday-january-6th"$/;"	s	object:27
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#poster-presentations"$/;"	s	object:22
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#poster-session-logistics"$/;"	s	object:23
@@ -6195,7 +6193,7 @@ relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#thursday-ja
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/posters\/#wednesday-january-4th"$/;"	s	object:25
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/"$/;"	s	object:31
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm"$/;"	s	object:30
-relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#workshop-schedule-tentative"$/;"	s	object:29
+relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/schedule\/#workshop-schedule"$/;"	s	object:29
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:33
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/"$/;"	s	object:35
 relUrl	_site/assets/js/search-data.json	/^    "relUrl": "\/speakers\/#confirmed-speakers"$/;"	s	object:32
@@ -6272,15 +6270,15 @@ sub	_site/assets/css/just-the-docs-default.css	/^sub, sup { font-size: 75%; line
 sub	_site/assets/css/just-the-docs-light.css	/^sub { bottom: -0.25em; }$/;"	s
 sub	_site/assets/css/just-the-docs-light.css	/^sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }$/;"	s
 submission-guidelines	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-summary	_site/assets/css/just-the-docs-dark.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	s
+summary	_site/assets/css/just-the-docs-dark.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	s
 summary	_site/assets/css/just-the-docs-dark.css	/^.btn-outline, summary { color: #2c84fa; background: transparent; box-shadow: inset 0 0 0 2px #e6/;"	s
 summary	_site/assets/css/just-the-docs-dark.css	/^iframe, summary { max-width: 100%; }$/;"	s
 summary	_site/assets/css/just-the-docs-dark.css	/^summary { display: list-item; }$/;"	s
-summary	_site/assets/css/just-the-docs-default.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	s
+summary	_site/assets/css/just-the-docs-default.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	s
 summary	_site/assets/css/just-the-docs-default.css	/^.btn-outline, summary { color: #7253ed; background: transparent; box-shadow: inset 0 0 0 2px #e6/;"	s
 summary	_site/assets/css/just-the-docs-default.css	/^iframe, summary { max-width: 100%; }$/;"	s
 summary	_site/assets/css/just-the-docs-default.css	/^summary { display: list-item; }$/;"	s
-summary	_site/assets/css/just-the-docs-light.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding-top: 0.3em; padding-right/;"	s
+summary	_site/assets/css/just-the-docs-light.css	/^.btn, summary { display: inline-block; box-sizing: border-box; padding: 0.3em 1em; margin: 0; fo/;"	s
 summary	_site/assets/css/just-the-docs-light.css	/^.btn-outline, summary { color: #7253ed; background: transparent; box-shadow: inset 0 0 0 2px #e6/;"	s
 summary	_site/assets/css/just-the-docs-light.css	/^iframe, summary { max-width: 100%; }$/;"	s
 summary	_site/assets/css/just-the-docs-light.css	/^summary { display: list-item; }$/;"	s
@@ -6488,11 +6486,11 @@ tbody tr:last-of-type th	_site/assets/css/just-the-docs-dark.css	/^tbody tr:last
 tbody tr:last-of-type th	_site/assets/css/just-the-docs-default.css	/^tbody tr:last-of-type th, tbody tr:last-of-type td { border-bottom: 0; }$/;"	s
 tbody tr:last-of-type th	_site/assets/css/just-the-docs-light.css	/^tbody tr:last-of-type th, tbody tr:last-of-type td { border-bottom: 0; }$/;"	s
 td	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-td	_site/assets/css/just-the-docs-dark.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+td	_site/assets/css/just-the-docs-dark.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 td	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-td	_site/assets/css/just-the-docs-default.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+td	_site/assets/css/just-the-docs-default.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 td	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-td	_site/assets/css/just-the-docs-light.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+td	_site/assets/css/just-the-docs-light.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 td:first-of-type	_site/assets/css/just-the-docs-dark.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
 td:first-of-type	_site/assets/css/just-the-docs-default.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
 td:first-of-type	_site/assets/css/just-the-docs-light.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
@@ -6506,11 +6504,11 @@ textarea	_site/assets/css/just-the-docs-default.css	/^textarea { overflow: auto;
 textarea	_site/assets/css/just-the-docs-light.css	/^button, input, optgroup, select, textarea { font-family: inherit; \/* 1 *\/ font-size: 100%; \/*/;"	s
 textarea	_site/assets/css/just-the-docs-light.css	/^textarea { overflow: auto; }$/;"	s
 th	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-th	_site/assets/css/just-the-docs-dark.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+th	_site/assets/css/just-the-docs-dark.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 th	_site/assets/css/just-the-docs-default.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-th	_site/assets/css/just-the-docs-default.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+th	_site/assets/css/just-the-docs-default.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 th	_site/assets/css/just-the-docs-light.css	/^@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }$/;"	s
-th	_site/assets/css/just-the-docs-light.css	/^th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75r/;"	s
+th	_site/assets/css/just-the-docs-light.css	/^th, td { font-size: 12px !important; min-width: 120px; padding: 0.5rem 0.75rem; background-color/;"	s
 th:first-of-type	_site/assets/css/just-the-docs-dark.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
 th:first-of-type	_site/assets/css/just-the-docs-default.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
 th:first-of-type	_site/assets/css/just-the-docs-light.css	/^th:first-of-type, td:first-of-type { border-left: 0; }$/;"	s
@@ -6519,7 +6517,7 @@ thead th	_site/assets/css/just-the-docs-default.css	/^thead th { border-bottom: 
 thead th	_site/assets/css/just-the-docs-light.css	/^thead th { border-bottom: 1px solid #eeebee; }$/;"	s
 thursday-january-5th	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 time	_sass/custom/calendar.scss	/^    .time,$/;"	c
-title	_site/assets/js/search-data.json	/^    "title": "Accepted Papers and Tentative Poster Session Assignments",$/;"	s	object:24
+title	_site/assets/js/search-data.json	/^    "title": "Accepted Papers and Poster Session Assignments",$/;"	s	object:24
 title	_site/assets/js/search-data.json	/^    "title": "Accepted Papers",$/;"	s	object:28
 title	_site/assets/js/search-data.json	/^    "title": "Announcements",$/;"	s	object:9
 title	_site/assets/js/search-data.json	/^    "title": "Calendar",$/;"	s	object:12
@@ -6565,8 +6563,8 @@ title	_site/assets/js/search-data.json	/^    "title": "Wednesday",$/;"	s	object:
 title	_site/assets/js/search-data.json	/^    "title": "Wednesday, January 4th",$/;"	s	object:25
 title	_site/assets/js/search-data.json	/^    "title": "Week 0 Announcement",$/;"	s	object:11
 title	_site/assets/js/search-data.json	/^    "title": "Week 1 Announcement",$/;"	s	object:10
-title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule (Tentative)",$/;"	s	object:29
-title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule (Tentative)",$/;"	s	object:4
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule",$/;"	s	object:29
+title	_site/assets/js/search-data.json	/^    "title": "Workshop Schedule",$/;"	s	object:4
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Themes",$/;"	s	object:1
 title	_site/assets/js/search-data.json	/^    "title": "Workshop Venue",$/;"	s	object:45
 title-a-key-principle-underlying-deep-networks-compositional-sparsity	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6578,8 +6576,8 @@ title-geometrization-of-real-world-deep-neural-networks	_site/speakers/index.htm
 title-hardware-aware-sparsity-accurate-and-efficient-foundation-model-training	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-catastrophic-can-catastrophic-forgetting-be-in-linear-regression	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-to-learn-a-table-of-concepts	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-image-denoising---not-what-you-think	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-implicit-bias-in-machine-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-on-the-principles-of-parsimony-and-self-consistency--structured-compressive-closed-loop-transcription	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-passive-and-active-multi-task-representation-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-principled-defenses-and-reverse-engineering-of-adversarial-attacks-in-a-union-of-subspaces	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-reconstructing-training-data-from-model-gradient-provably	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6638,7 +6636,7 @@ url	_site/assets/js/search-data.json	/^    "url": "\/#confirmed-speakers",$/;"	s
 url	_site/assets/js/search-data.json	/^    "url": "\/#key-dates-and-deadlines",$/;"	s	object:0
 url	_site/assets/js/search-data.json	/^    "url": "\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm",$/;"	s	object:5
 url	_site/assets/js/search-data.json	/^    "url": "\/#organizers",$/;"	s	object:6
-url	_site/assets/js/search-data.json	/^    "url": "\/#workshop-schedule-tentative",$/;"	s	object:4
+url	_site/assets/js/search-data.json	/^    "url": "\/#workshop-schedule",$/;"	s	object:4
 url	_site/assets/js/search-data.json	/^    "url": "\/#workshop-themes",$/;"	s	object:1
 url	_site/assets/js/search-data.json	/^    "url": "\/announcements\/",$/;"	s	object:10
 url	_site/assets/js/search-data.json	/^    "url": "\/announcements\/",$/;"	s	object:11
@@ -6654,7 +6652,7 @@ url	_site/assets/js/search-data.json	/^    "url": "\/organizers\/#organizers",$/
 url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/",$/;"	s	object:21
 url	_site/assets/js/search-data.json	/^    "url": "\/past_workshops\/#past-workshops",$/;"	s	object:20
 url	_site/assets/js/search-data.json	/^    "url": "\/posters\/",$/;"	s	object:28
-url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#accepted-papers-and-tentative-poster-session-assignments",$/;"	s	object:24
+url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#accepted-papers-and-poster-session-assignments",$/;"	s	object:24
 url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#friday-january-6th",$/;"	s	object:27
 url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#poster-presentations",$/;"	s	object:22
 url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#poster-session-logistics",$/;"	s	object:23
@@ -6662,7 +6660,7 @@ url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#thursday-january-
 url	_site/assets/js/search-data.json	/^    "url": "\/posters\/#wednesday-january-4th",$/;"	s	object:25
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/",$/;"	s	object:31
 url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#morning-sessions-9-am-12-pm-afternoon-sessions-1-30-pm-6-pm",$/;"	s	object:30
-url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#workshop-schedule-tentative",$/;"	s	object:29
+url	_site/assets/js/search-data.json	/^    "url": "\/schedule\/#workshop-schedule",$/;"	s	object:29
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:33
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/",$/;"	s	object:35
 url	_site/assets/js/search-data.json	/^    "url": "\/speakers\/#confirmed-speakers",$/;"	s	object:32
@@ -6683,10 +6681,11 @@ url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/",$/;"	s	object:
 url	_site/assets/js/search-data.json	/^    "url": "\/tutorials\/#tutorials",$/;"	s	object:48
 wednesday-january-4th	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 weijie-su	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-workshop-schedule-tentative	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-workshop-schedule-tentative	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+workshop-schedule	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+workshop-schedule	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-themes	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 workshop-venue	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+yi-ma	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 yu-xiang-wang	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/organizer.html	/^    <\/h3>$/;"	j
 {% if page.website %} {{ page.name }} {% else %} {{ page.name }} {% endif %} {% if page.pronouns %} {{ page.pronouns }} {% endif %}	_layouts/speaker.html	/^    <\/h3>$/;"	j

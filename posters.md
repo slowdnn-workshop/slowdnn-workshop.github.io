@@ -17,10 +17,11 @@ poster sessions.
 # Poster Session Logistics
 
 There are three evening poster sessions, on Wednesday, Thursday,
-and Friday -- see the [tentative schedule]({{ site.baseurl }}/schedule).
+and Friday -- see the [schedule]({{ site.baseurl }}/schedule).
+The poster sessions will be held in the entryway at the W Hotel --
+follow signage for the SLowDNN workshop. 
 On the day of your poster session, you will be able to hang your poster up for
-the entire day. The poster sessions are held in a dedicated space at the
-workshop venue. 
+the entire day. 
 
 In addition, please note:
 
@@ -30,7 +31,7 @@ In addition, please note:
 - Please print and bring your poster with you as you travel. Unfortunately,
   MBZUAI does not have any official in-house facility for printing posters.
 
-# Accepted Papers and Tentative Poster Session Assignments
+# Accepted Papers and Poster Session Assignments
 
 ## Wednesday, January 4th 
 
@@ -69,9 +70,6 @@ On the Geometry of Reinforcement Learning in Continuous State and Action Spaces
 
 State-driven Implicit Modeling for Sparsity and Robustness in Neural Networks
   : Alicia Y. Tsai, Juliette Decugis, Laurent El Ghaoui, Alper Atamturk
-
-Resource-Efficient Invariant Networks: Exponential Gains by Unrolled Optimization
-  : Sam Buchanan, Jingkai Yan, Ellie Haber, John Wright
 
 Robust Self-Guided Deep Image Prior
   : Shijun Liang, Evan Bell, Saiprasad Ravishankar, Qing Qu
@@ -133,19 +131,19 @@ PSPS: Preconditioned Stochastic Polyak Step-size method for badly scaled data
 Lifted Bregman Training of Neural Networks
   : Xiaoyu Wang, Martin Benning
 
+DynamicViT: Making Vision Transformer faster through layer skipping
+  : Amanuel Negash Mersha, Sammy Assefa
+
+Robustness via deep low rank representations
+  : Amartya Sanyal, Puneet K. Dokania, Varun Kanade, Philip Torr
+
 ## Friday, January 6th 
 
 Neural Collapse with Normalized Features: A Geometric Analysis over the Riemannian Manifold
   : Can Yaras, Peng Wang, Zhihui Zhu, Laura Balzano, Qing Qu
 
-Robustness via deep low rank representations
-  : Amartya Sanyal, Puneet K. Dokania, Varun Kanade, Philip Torr
-
 Intrinsic dimensionality and generalization properties of the $\mathcal{R}$-norm inductive bias
   : Clayton Sanford, Navid Ardeshir, Daniel Hsu
-
-DynamicViT: Making Vision Transformer faster through layer skipping
-  : Amanuel Negash Mersha, Sammy Assefa
 
 SinkGAT: Doubly-Stochastic Graph Attention
   : Tianlin Liu, Cheng Shi, Anastasis Kratsios, Ivan Dokmanic
@@ -182,3 +180,6 @@ Deep Reinforcement Learning based Unrolling Network for MRI Reconstruction
 
 Bilevel learning of $\ell_{1}$ regularizers with closed-form gradients (BLORC)
   : Avrajit Ghosh, Saiprasad Ravishankar
+
+Resource-Efficient Invariant Networks: Exponential Gains by Unrolled Optimization
+  : Sam Buchanan, Jingkai Yan, Ellie Haber, John Wright
