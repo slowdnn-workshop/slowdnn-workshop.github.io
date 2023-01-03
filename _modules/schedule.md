@@ -33,7 +33,7 @@ Wednesday, Jan 4 (Morning)
 : Invited Talks: Theory + Optimization (Chair: Qing Qu)
    : 
 : 8:30 AM - 9:00 AM
-   : Opening (Yi Ma)
+   : Opening (Qing Qu [UMich], Sultan Al Hajji [MBZUAI])
 : 9:00 AM - 10:00 AM
    : [Tomaso Poggio]({{ site.baseurl }}/speakers/#tomaso-poggio) (MIT)
 : 10:00 AM - 11:00 AM
@@ -73,7 +73,7 @@ Thursday, Jan 5 (Morning)
 : 11:15 AM - 12:15 PM
    : [Qing Qu]({{ site.baseurl }}/speakers/#qing-qu) (UMich)
 : 12:15 PM - 12:30 PM
-   : Government speaker
+   : Yaser Al Yousuf (Abu Dhabi Residents Office)
 
 Thursday, Jan 5 (Afternoon)
 : Invited Talks: Implicit Bias (Chair: Yuqian Zhang)

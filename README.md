@@ -16,17 +16,13 @@ nav_order: 0
 | **[Workshop Schedule]({{site.baseurl}}/schedule)**
 {: .text-center .fs-6 }
 
-Tuesday, January 3rd: <br>
-**[Tutorials]({{site.baseurl}}/tutorials) in Studio 5 at the W Hotel**
-{: .text-center .fs-6 }
-
-Wednesday, January 4rd -- Friday, January 6th:<br>
-**[Talks]({{site.baseurl}}/speakers) in Great Hall 1 at the W Hotel**
+Wednesday, January 4th -- Friday, January 6th:<br>
+**[Talks]({{site.baseurl}}/speakers) in the Great Hall at the W Hotel**
 {: .text-center .fs-6 }
 
 
 Announcing the workshop venue: [W Abu Dhabi
-Hotel]({{site.base}}/travel#workshop-venue) at Yas Island
+Hotel]({{site.base}}/travel#workshop-venue) at Yas Island ([Google Maps](https://goo.gl/maps/1SZgtcixgMbgeZqE6))
 {: .text-center .fs-5 }
 
 [Register
