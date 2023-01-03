@@ -10,7 +10,9 @@ nav_order: 0
 **Join Us in Abu Dhabi from 3-7 January 2023!**
 {: .text-center .fs-7 }
 
-**[Live Stream](https://www.youtube.com/@MBZUAI/featured)**
+**Live Streams: [YouTube](https://www.youtube.com/@MBZUAI/featured),
+[Facebook](https://fb.watch/hPsp7jWiQ5/),
+[Zoom (pass. 862467)](https://mbzuai-ac-ae.zoom.us/j/94824561684?pwd=dkh2YUllQ1BkejFOSHFLK0tKOTVCUT09)**
 | **[Workshop Schedule]({{site.baseurl}}/schedule)**
 {: .text-center .fs-6 }
 
