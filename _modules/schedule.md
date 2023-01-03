@@ -38,9 +38,9 @@ Wednesday, Jan 4 (Morning)
    : [Tomaso Poggio]({{ site.baseurl }}/speakers/#tomaso-poggio) (MIT)
 : 10:00 AM - 11:00 AM
    : [Simon Du]({{ site.baseurl }}/speakers/#simon-du) (UW)
-: 11:00 AM - 11:15 AM
+: 11:00 AM - 11:30 AM
    : *Coffee break and [poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
-: 11:15 AM - 12:15 PM
+: 11:30 AM - 12:30 PM
    : [Qi Lei]({{ site.baseurl }}/speakers/#qi-lei) (NYU)
 
 Wednesday, Jan 4 (Afternoon)
@@ -56,7 +56,7 @@ Wednesday, Jan 4 (Afternoon)
    : [Reinhard Heckel]({{ site.baseurl }}/speakers/#reinhard-heckel) (TU Munich)
 : 5:00 PM - 6:00 PM
    : [Bihan Wen]({{ site.baseurl }}/speakers/#bihan-wen) (NTU)
-: 6:00 PM - 6:30 PM
+: 6:00 PM - 7:30 PM
    : *[Poster session]({{site.baseurl}}/posters/#wednesday-january-4th)*
 
 Thursday, Jan 5 (Morning)
@@ -72,6 +72,8 @@ Thursday, Jan 5 (Morning)
    : *Coffee break and [poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 : 11:15 AM - 12:15 PM
    : [Qing Qu]({{ site.baseurl }}/speakers/#qing-qu) (UMich)
+: 12:15 PM - 12:30 PM
+   : Government speaker
 
 Thursday, Jan 5 (Afternoon)
 : Invited Talks: Implicit Bias (Chair: Yuqian Zhang)
@@ -86,7 +88,7 @@ Thursday, Jan 5 (Afternoon)
    : [Yu-Xiang Wang]({{ site.baseurl }}/speakers/#yu-xiang-wang) (UCSB)
 : 5:00 PM - 6:00 PM
    : *Panel, moderated by Jeremias Sulam* (Yi Ma, Jason Lee, Eric Xing)
-: 6:00 PM - 6:30 PM
+: 6:00 PM - 7:30 PM
    : *[Poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 
 Friday, Jan 6 (Morning)
@@ -98,9 +100,9 @@ Friday, Jan 6 (Morning)
    : [Gitta Kutyniok]({{ site.baseurl }}/speakers/#gitta-kutyniok) (LMU Munich)
 : 10:00 AM - 11:00 AM
    : [Beidi Chen]({{ site.baseurl }}/speakers/#beidi-chen) (Meta; *remote*)
-: 11:00 AM - 11:15 AM
+: 11:00 AM - 11:30 AM
    : *Coffee break and [poster session]({{site.baseurl}}/posters/#friday-january-6th)*
-: 11:15 AM - 12:15 AM
+: 11:30 AM - 12:30 PM
    : [Rina Panigrahy]({{ site.baseurl }}/speakers/#rina-panigrahy) (Google)
 
 Friday, Jan 6 (Afternoon)
@@ -116,7 +118,7 @@ Friday, Jan 6 (Afternoon)
    : [Jason Lee]({{ site.baseurl }}/speakers/#jason-lee) (Princeton)
 : 5:00 PM - 6:00 PM
    : [Fanny Yang]({{ site.baseurl }}/speakers/#fanny-yang) (ETH Zurich)
-: 6:00 PM - 6:30 PM
+: 6:00 PM - 7:30 PM
    : *[Poster session]({{site.baseurl}}/posters/#friday-january-6th)*
 
 
