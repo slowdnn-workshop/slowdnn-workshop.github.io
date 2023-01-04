@@ -87,7 +87,7 @@ Thursday, Jan 5 (Afternoon)
 : 4:00 PM - 5:00 PM
    : [Yu-Xiang Wang]({{ site.baseurl }}/speakers/#yu-xiang-wang) (UCSB)
 : 5:00 PM - 6:00 PM
-   : *Panel, moderated by Jeremias Sulam* (Yi Ma, Jason Lee, Eric Xing)
+   : *Panel, moderated by Jeremias Sulam* (Eric Xing, Gitta Kutyniok, Jason Lee, Yi Ma, René Vidal)
 : 6:00 PM - 7:30 PM
    : *[Poster session]({{site.baseurl}}/posters/#thursday-january-5th)*
 
