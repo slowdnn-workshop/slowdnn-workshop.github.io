@@ -17,7 +17,7 @@ nav_order: 0
 {: .text-center .fs-6 }
 
 Wednesday, January 4th -- Friday, January 6th:<br>
-**[Talks]({{site.baseurl}}/speakers) in the Great Hall at the W Hotel**
+**[Talks]({{site.baseurl}}/schedule) in the Great Hall at the W Hotel**
 {: .text-center .fs-6 }
 
 
