@@ -576,7 +576,7 @@ h6, .text-zeta { font-size: 11px !important; }
 
 .text-right { text-align: right !important; }
 
-.label, .organizer .organizer-pronouns, .speaker .speaker-pronouns, .label-blue { display: inline-block; padding-top: 0.16em 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
+.label, .organizer .organizer-pronouns, .speaker .speaker-pronouns, .label-blue { display: inline-block; padding: 0.16em 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
 @media (min-width: 31.25rem) { .label, .organizer .organizer-pronouns, .speaker .speaker-pronouns, .label-blue { font-size: 12px !important; } }
 
 .label-green { background-color: #009c7b; }
@@ -646,7 +646,7 @@ h6, .text-zeta { font-size: 11px !important; }
 
 .search-results-list-item { padding: 0; margin: 0; }
 
-.search-result { display: block; padding-top: 0.25rem 0.75rem; }
+.search-result { display: block; padding: 0.25rem 0.75rem; }
 .search-result:hover, .search-result.active { background-color: #ebedf5; }
 
 .search-result-title { display: block; padding-top: 0.5rem; padding-bottom: 0.5rem; }
@@ -706,7 +706,7 @@ tbody tr:last-of-type td { padding-bottom: 0.75rem; }
 
 thead th { border-bottom: 1px solid #eeebee; }
 
-:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #eeebee; border-radius: 4px; }
+:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #eeebee; border-radius: 4px; }
 
 a:visited code { border-color: #eeebee; }
 
@@ -722,7 +722,7 @@ div.highlighter-rouge pre.highlight, div.highlighter-rouge code, div.listingbloc
 
 figure.highlight pre, figure.highlight :not(pre) > code { overflow-x: auto; padding: 0.75rem; margin: 0; border: 0; }
 
-.highlight .table-wrapper { padding: 0; margin: 0; border: 0; box-shadow: none; }
+.highlight .table-wrapper { padding: 0.75rem 0; margin: 0; border: 0; box-shadow: none; }
 .highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 11px !important; min-width: 0; padding: 0; background-color: #f5f6fa; border: 0; }
 @media (min-width: 31.25rem) { .highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 12px !important; } }
 .highlight .table-wrapper td.gl { width: 1em; padding-right: 0.75rem; padding-left: 0.75rem; }

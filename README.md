@@ -10,6 +10,14 @@ nav_order: 0
 **Join Us in Abu Dhabi from 3-7 January 2023!**
 {: .text-center .fs-7 }
 
+**[Video Recordings from the
+Workshop](https://www.youtube.com/@MBZUAI/streams)**
+{: .text-center .fs-6 }
+
+**[Workshop Schedule]({{site.baseurl}}/schedule)**
+{: .text-center .fs-6 }
+
+<!---
 **Live Streams: [YouTube](https://www.youtube.com/@MBZUAI/featured),
 [Facebook](https://fb.watch/hPsp7jWiQ5/),
 [Zoom (pass. 862467)](https://mbzuai-ac-ae.zoom.us/j/94824561684?pwd=dkh2YUllQ1BkejFOSHFLK0tKOTVCUT09)**
@@ -19,6 +27,7 @@ nav_order: 0
 Wednesday, January 4th -- Friday, January 6th:<br>
 **[Talks]({{site.baseurl}}/schedule) in the Great Hall at the W Hotel**
 {: .text-center .fs-6 }
+-->
 
 
 Announcing the workshop venue: [W Abu Dhabi

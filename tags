@@ -887,9 +887,9 @@
 .highlight .sx	_site/assets/css/just-the-docs-dark.css	/^.highlight .sx { color: #a3eea0; }$/;"	c
 .highlight .sx	_site/assets/css/just-the-docs-default.css	/^.highlight .sx { color: #2aa198; }$/;"	c
 .highlight .sx	_site/assets/css/just-the-docs-light.css	/^.highlight .sx { color: #2aa198; }$/;"	c
-.highlight .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper { padding: 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
-.highlight .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.highlight .table-wrapper { padding: 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
-.highlight .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.highlight .table-wrapper { padding: 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
+.highlight .table-wrapper	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper { padding: 0.75rem 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
+.highlight .table-wrapper	_site/assets/css/just-the-docs-default.css	/^.highlight .table-wrapper { padding: 0.75rem 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
+.highlight .table-wrapper	_site/assets/css/just-the-docs-light.css	/^.highlight .table-wrapper { padding: 0.75rem 0; margin: 0; border: 0; box-shadow: none; }$/;"	c
 .highlight .table-wrapper pre	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper pre { margin: 0; line-height: 2; }$/;"	s
 .highlight .table-wrapper pre	_site/assets/css/just-the-docs-dark.css	/^.highlight .table-wrapper td, .highlight .table-wrapper pre { font-size: 11px !important; min-wi/;"	s
 .highlight .table-wrapper pre	_site/assets/css/just-the-docs-dark.css	/^@media (min-width: 31.25rem) { .highlight .table-wrapper td, .highlight .table-wrapper pre { fon/;"	s
@@ -4822,9 +4822,9 @@
 .search-overlay	_site/assets/css/just-the-docs-dark.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
 .search-overlay	_site/assets/css/just-the-docs-default.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
 .search-overlay	_site/assets/css/just-the-docs-light.css	/^.search-overlay { position: fixed; top: 0; left: 0; z-index: 1; width: 0; height: 0; background-/;"	c
-.search-result	_site/assets/css/just-the-docs-dark.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
-.search-result	_site/assets/css/just-the-docs-default.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
-.search-result	_site/assets/css/just-the-docs-light.css	/^.search-result { display: block; padding-top: 0.25rem 0.75rem; }$/;"	c
+.search-result	_site/assets/css/just-the-docs-dark.css	/^.search-result { display: block; padding: 0.25rem 0.75rem; }$/;"	c
+.search-result	_site/assets/css/just-the-docs-default.css	/^.search-result { display: block; padding: 0.25rem 0.75rem; }$/;"	c
+.search-result	_site/assets/css/just-the-docs-light.css	/^.search-result { display: block; padding: 0.25rem 0.75rem; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-dark.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-default.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
 .search-result-doc	_site/assets/css/just-the-docs-light.css	/^.search-result-doc { display: flex; align-items: center; word-wrap: break-word; }$/;"	c
@@ -5300,9 +5300,9 @@
 ::selection	_site/assets/css/just-the-docs-dark.css	/^::selection { color: #fff; background: #2c84fa; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-default.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
 ::selection	_site/assets/css/just-the-docs-light.css	/^::selection { color: #fff; background: #7253ed; }$/;"	s
-:not(pre) > code	_site/assets/css/just-the-docs-dark.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; border: 1/;"	s
-:not(pre) > code	_site/assets/css/just-the-docs-default.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
-:not(pre) > code	_site/assets/css/just-the-docs-light.css	/^:not(pre) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1/;"	s
+:not(pre	_site/assets/css/just-the-docs-dark.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; b/;"	s
+:not(pre	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; b/;"	s
+:not(pre	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; b/;"	s
 Abstract	speakers.md	/^#### Abstract$/;"	t	subsection:Talk Details""[{{ speaker.name }}]({{ speaker.website }})
 Accepted Papers and Poster Session Assignments	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	h
 Accepted Papers and Poster Session Assignments	posters.md	/^# Accepted Papers and Poster Session Assignments$/;"	c
@@ -5366,18 +5366,6 @@ Copy	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta 
 Daniel Soudry	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Daniel Soudry	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Design Deep Networks for Pursuing Low-Dimensional Structures	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Document	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Eric P. Xing	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Eric P. Xing	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Expand	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5497,18 +5485,6 @@ Samuel Horváth	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta
 Samuel Horváth	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Saturday, Jan 7	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	i
 Schedule | SLowDNN Workshop	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
-Search	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Simon Du	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
 Sparsity Neural Networks – Practice and Theory	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	j
@@ -5887,6 +5863,9 @@ fieldset	_site/assets/css/just-the-docs-light.css	/^ol, ul, dl, pre, address, bl
 figure	_site/assets/css/just-the-docs-dark.css	/^figure, pre { margin: 0; }$/;"	s
 figure	_site/assets/css/just-the-docs-default.css	/^figure, pre { margin: 0; }$/;"	s
 figure	_site/assets/css/just-the-docs-light.css	/^figure, pre { margin: 0; }$/;"	s
+figure) > code	_site/assets/css/just-the-docs-dark.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #31343f; b/;"	s
+figure) > code	_site/assets/css/just-the-docs-default.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; b/;"	s
+figure) > code	_site/assets/css/just-the-docs-light.css	/^:not(pre, figure) > code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; b/;"	s
 figure.highlight	_site/assets/css/just-the-docs-dark.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
 figure.highlight	_site/assets/css/just-the-docs-default.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
 figure.highlight	_site/assets/css/just-the-docs-light.css	/^div.highlighter-rouge, div.listingblock > div.content, figure.highlight { margin-top: 0; margin-/;"	c
@@ -6396,18 +6375,6 @@ svg-copy	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 svg-copy	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-copy	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-copy	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-doc	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-external-link	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-external-link	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-external-link	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
@@ -6457,18 +6424,6 @@ svg-menu	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><me
 svg-menu	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 svg-menu	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/announcements/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/calendar/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/organizers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/past_workshops/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/posters/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/schedule/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/sponsors/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/submission/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/travel/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-svg-search	_site/tutorials/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 table	_site/assets/css/just-the-docs-dark.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
 table	_site/assets/css/just-the-docs-dark.css	/^table { display: table; min-width: 100%; border-collapse: separate; }$/;"	s
 table	_site/assets/css/just-the-docs-default.css	/^ol, ul, dl, pre, address, blockquote, table, div, hr, form, fieldset, noscript .table-wrapper { /;"	s
@@ -6574,9 +6529,9 @@ title-demystifying-feature-learning-via-gradient-descent-with-applications-to-me
 title-feature-learning-with-gradient-descent	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-geometrization-of-real-world-deep-neural-networks	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-hardware-aware-sparsity-accurate-and-efficient-foundation-model-training	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
-title-how-catastrophic-can-catastrophic-forgetting-be-in-linear-regression	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-how-to-learn-a-table-of-concepts	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-implicit-bias-in-machine-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
+title-on-catastrophic-forgetting-in-linear-regression-and-the-implicit-bias-of-minima-stability	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-on-the-principles-of-parsimony-and-self-consistency--structured-compressive-closed-loop-transcription	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-passive-and-active-multi-task-representation-learning	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
 title-principled-defenses-and-reverse-engineering-of-adversarial-attacks-in-a-union-of-subspaces	_site/speakers/index.html	/^<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible"/;"	I
